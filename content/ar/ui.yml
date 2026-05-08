@@ -1,0 +1,31 @@
+lang: ar
+lang_name: العربية
+direction: rtl
+nav:
+  home: الرئيسية
+  products: المنتجات
+  about: من نحن
+  contact: اتصل بنا
+  privacy_policy: سياسة الخصوصية
+buttons:
+  request_quote: اطلب عرض سعر
+  read_more: اقرأ المزيد
+  view_products: عرض المنتجات
+  send_message: إرسال رسالة
+  back: رجوع
+footer:
+  quick_links: روابط سريعة
+  contact_us: اتصل بنا
+  follow_us: تابعنا
+  rights: جميع الحقوق محفوظة
+labels:
+  featured_products: منتجات مميزة
+  our_services: خدماتنا
+  services_subtitle: حلول صلب شاملة مدعومة بعقود من الخبرة
+  cta_heading: هل أنت مستعد لبدء مشروعك؟
+  cta_subtitle: احصل على استشارة مجانية وعرض سعر لمتطلبات الصلب الخاصة بك اليوم.
+  categories: التصنيفات
+  related_products: منتجات ذات صلة
+  phone: الهاتف
+  email: البريد الإلكتروني
+  address: العنوان

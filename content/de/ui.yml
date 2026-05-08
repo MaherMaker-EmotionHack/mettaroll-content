@@ -1,0 +1,31 @@
+lang: de
+lang_name: Deutsch
+direction: ltr
+nav:
+  home: Startseite
+  products: Produkte
+  about: Über uns
+  contact: Kontakt
+  privacy_policy: Datenschutzerklärung
+buttons:
+  request_quote: Angebot anfordern
+  read_more: Weiterlesen
+  view_products: Produkte ansehen
+  send_message: Nachricht senden
+  back: Zurück
+footer:
+  quick_links: Schnelllinks
+  contact_us: Kontakt
+  follow_us: Folgen Sie uns
+  rights: Alle Rechte vorbehalten
+labels:
+  featured_products: Empfohlene Produkte
+  our_services: Unsere Dienstleistungen
+  services_subtitle: Umfassende Stahllösungen gestützt auf jahrzehntelange Erfahrung
+  cta_heading: Bereit, Ihr Projekt zu starten?
+  cta_subtitle: Erhalten Sie noch heute eine kostenlose Beratung und ein Angebot für Ihren Stahlbedarf.
+  categories: Kategorien
+  related_products: Verwandte Produkte
+  phone: Telefon
+  email: E-Mail
+  address: Adresse

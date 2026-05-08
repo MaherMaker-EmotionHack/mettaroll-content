@@ -1,0 +1,31 @@
+lang: nl
+lang_name: Nederlands
+direction: ltr
+nav:
+  home: Home
+  products: Producten
+  about: Over ons
+  contact: Contact
+  privacy_policy: Privacybeleid
+buttons:
+  request_quote: Offerte aanvragen
+  read_more: Lees meer
+  view_products: Bekijk producten
+  send_message: Bericht verzenden
+  back: Terug
+footer:
+  quick_links: Snelle links
+  contact_us: Neem contact op
+  follow_us: Volg ons
+  rights: Alle rechten voorbehouden
+labels:
+  featured_products: Uitgelichte producten
+  our_services: Onze diensten
+  services_subtitle: Uitgebreide staaloplossingen ondersteund door decennia aan expertise
+  cta_heading: Klaar om uw project te starten?
+  cta_subtitle: Ontvang vandaag nog een gratis adviesgesprek en offerte voor uw staalbehoefte.
+  categories: Categorieën
+  related_products: Gerelateerde producten
+  phone: Telefoon
+  email: E-mail
+  address: Adres
