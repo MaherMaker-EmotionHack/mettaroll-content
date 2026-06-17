@@ -1,17 +1,17 @@
 company_name: Mettaroll
 tagline: Steel Excellence
 email: info@mettaroll.com
-phone: "+31 (970) 5804 9600"
+phone: +31 (970) 5804 9600
 address:
   street: Wilhelminakade 139
-  postal_code: "3072 MC"
+  postal_code: 3072 MC
   city: Rotterdam
   country: Netherlands
 social:
-  facebook: "https://facebook.com/mettaroll"
-  instagram: "https://instagram.com/mettaroll"
-  linkedin: "https://linkedin.com/company/mettaroll"
+  facebook: https://facebook.com/mettaroll
+  instagram: https://instagram.com/mettaroll
+  linkedin: https://linkedin.com/company/mettaroll
 cta:
-  heading: "Ready to Start Your Project?"
-  button_text: "Request a Quote"
-  button_link: "/contact"
+  heading: Ready to Start Your Project?
+  button_text: Request a Quote
+  button_link: /en/contact
