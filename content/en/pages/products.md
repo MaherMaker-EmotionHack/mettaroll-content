@@ -4,11 +4,13 @@ hero_headline: PRODUCTS
 hero_image: /uploads/hero-image-for-products.jpg
 cta:
   heading: QUOTE OR QUESTION?
-  body: Whether you need a specific steel product or have questions about our
-    inventory, our sales team is ready to help.
-  link_text: Contact our sales team
+  body: Looking for available stock, specific steel products, or export solutions?
+    Contact Mettaroll BV to discuss your requirements, destination, quantity,
+    and commercial terms.
+  link_text: Send an Inquiry
 seo:
-  meta_title: Steel Products — Coils, Long Products, Wires | Mettaroll
-  meta_description: "Browse Mettaroll's steel product categories: coils, long
-    products, and wires. European quality, global delivery."
+  meta_title: Steel Products & Supply Solutions | Mettaroll BV
+  meta_description: Explore Mettaroll’s steel product range, including coils,
+    sheets, pipes, long products, and other steel materials for international
+    B2B markets.
 ---
