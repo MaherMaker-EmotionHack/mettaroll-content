@@ -2,17 +2,19 @@
 title: Hot Rolled Coil
 slug: hot-rolled-coil
 category: coils
-description: "Premium hot-rolled steel coils available in various thicknesses and widths, suitable for construction and manufacturing."
+description: Hot rolled steel coils available in different grades, dimensions,
+  and quality levels for construction, manufacturing, structural, and industrial
+  applications.
 image: /uploads/coils-for-product-page.jpg
 featured: true
 order: 1
 ---
+Hot rolled coils are widely used steel products suitable for construction, structural applications, pipes, machinery, manufacturing, and further processing.
 
-Hot Rolled Coils (HRC) are produced by rolling steel at high temperatures, resulting in a versatile product used across multiple industries. Our HRC products meet international quality standards and are available in custom dimensions.
+Mettaroll supplies hot rolled coils in different grades, thicknesses, widths, and quality levels depending on current stock availability, supplier offers, and customer requirements.
 
 ## Specifications
 
-- **Thickness**: 1.5mm – 25mm
-- **Width**: 900mm – 2000mm
-- **Grade**: S235JR, S275JR, S355JR
-- **Standard**: EN 10025
+* **Thickness**: 1.5mm – 25mm
+* **Width**: 900mm – 2000mm
+* **Standard**: EN 10025
