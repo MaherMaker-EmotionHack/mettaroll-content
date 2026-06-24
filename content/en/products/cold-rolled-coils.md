@@ -13,11 +13,8 @@ Cold rolled coils are steel coils processed at room temperature to achieve a smo
 
 Mettaroll supplies cold rolled coils in different grades, thicknesses, widths, surface finishes, and quality levels depending on current stock availability, supplier offers, and customer requirements.
 
+## Specifications
 
-
-**Specifications**
-
- **Thickness:** 0.3mm – 3.0mm
-• **Width:** 600mm – 1500mm
-• **Grades:** DC01, DC03, DC04, DX51D and other grades upon availability
-• **Standard:** EN 10130 / EN 10139 upon supplier confirmation
+* **Thickness**: 1.5mm – 25mm
+* **Width**: 900mm – 2000mm
+* **Standard**: EN 10025
