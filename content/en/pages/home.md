@@ -7,7 +7,7 @@ hero_image: /uploads/hero-image-for-the-landing-page.jpeg
 overview:
   heading: Overview
   body: >-
-    Mettaroll BV is an international steel trading and export company based in
+    Mettaroll is an international steel trading and export company based in
     Rotterdam, the Netherlands.
 
 
