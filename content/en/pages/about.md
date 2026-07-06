@@ -42,6 +42,9 @@ values:
       description: We build strong relationships with customers, suppliers,
         stockholders, and logistics partners to create sustainable value across
         markets.
+    - title: Export Excellence
+      description: We support international steel trade with export-focused
+        coordination, market understanding, and practical execution.
 stats:
   - value: Rotterdam
     label: Company Base
