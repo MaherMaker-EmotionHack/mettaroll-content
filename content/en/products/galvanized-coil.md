@@ -1,5 +1,5 @@
 ---
-title: Galvanized Coil
+title: Galvanized Coils
 slug: galvanized-coil
 category: coils
 description: Zinc-coated steel coils with improved corrosion resistance,
