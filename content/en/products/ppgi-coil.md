@@ -1,5 +1,5 @@
 ---
-title: PPGI Coil
+title: PPGI Coils
 slug: ppgi-coil
 category: coils
 description: Pre-painted galvanized steel coils with a coated surface, suitable
