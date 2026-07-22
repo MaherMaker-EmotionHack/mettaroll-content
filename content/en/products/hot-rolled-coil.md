@@ -1,6 +1,6 @@
 ---
-title: Hot Rolled Coil
-slug: hot-rolled-coil
+title: Hot Rolled Coils
+slug: hot-rolled-coils
 category: coils
 description: Hot rolled steel coils available in different grades, dimensions,
   and quality levels for construction, manufacturing, structural, and industrial
