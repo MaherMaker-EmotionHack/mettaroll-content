@@ -13,10 +13,8 @@ Galvanized coils are steel coils coated with a protective zinc layer to improve 
 
 Mettaroll supplies galvanized coils in different grades, dimensions, coating weights, and quality levels, depending on current stock availability and customer requirements. The material may be suitable for construction, roofing, cladding, profiles, HVAC, and further processing.
 
-
-
 ## Specifications
 
-* **Thickness**: 0.25mm – 3.0mm
-* **Width**: 600mm – 1500mm
-* **Coating**: Z60 – Z275
+* **Thickness**: 0.25mm – 6.0mm
+* **Width**: 600mm – 2000mm
+* **Coating**: Z, ZM, ZF, ZA, ZE
