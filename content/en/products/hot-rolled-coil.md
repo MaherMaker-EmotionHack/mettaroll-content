@@ -15,6 +15,6 @@ Mettaroll supplies hot rolled coils in different grades, thicknesses, widths, an
 
 ## Specifications
 
-* **Thickness**: 1.5mm – 25mm
+* **Thickness**: 0,60mm – 25mm
 * **Width**: 900mm – 2000mm
 * **Standard**: EN 10025
