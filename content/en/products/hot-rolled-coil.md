@@ -7,7 +7,7 @@ description: Hot rolled steel coils available in different grades, dimensions,
   applications.
 image: /uploads/coils-for-product-page.jpg
 featured: true
-order: 2
+order: 3
 ---
 Hot rolled coils are widely used steel products suitable for construction, structural applications, pipes, machinery, manufacturing, and further processing.
 
