@@ -6,7 +6,7 @@ description: Pre-painted galvanized steel coils with a coated surface, suitable
   for roofing, cladding, panels, appliances, and decorative steel applications.
 image: /uploads/landing-page-products-01-390w.webp
 featured: true
-order: 1
+order: 2
 ---
 PPGI coils are pre-painted galvanized steel products with a protective zinc coating and a painted surface finish.
 
