@@ -6,8 +6,8 @@ description: Zinc-coated steel coils with improved corrosion resistance,
   suitable for construction, roofing, cladding, profiles, and industrial
   applications.
 image: /uploads/abstract-metallic-background-close-up.jpg
-featured: false
-order: 3
+featured: true
+order: 1
 ---
 Galvanized coils are steel coils coated with a protective zinc layer to improve corrosion resistance and durability.
 
