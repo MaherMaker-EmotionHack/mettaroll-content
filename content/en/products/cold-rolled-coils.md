@@ -7,7 +7,7 @@ description: Cold rolled steel coils available in different grades, dimensions,
   and further processing.
 image: /uploads/sheets-for-product-page-1440w.webp
 featured: false
-order: 0
+order: 4
 ---
 Cold rolled coils are steel coils processed at room temperature to achieve a smoother surface, tighter dimensional tolerances, and improved formability compared to hot rolled material.
 
