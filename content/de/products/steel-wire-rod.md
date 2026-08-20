@@ -2,17 +2,31 @@
 title: Stahldraht-Walzdraht
 slug: steel-wire-rod
 category: wires
-description: "Hochwertiger Stahl-Walzdraht zum Ziehen, für Zäune und Bewehrungsanwendungen."
+description: Stahlwalzdraht in unterschiedlichen Güten, Durchmessern,
+  Oberflächen und Qualitätsstufen für Drahtziehen, Schweißen,
+  Verbindungselemente, Gitter und industrielle Verarbeitung.
 image: /uploads/wire-product-page.jpg
 featured: false
 order: 1
 ---
+Stahlwalzdraht ist ein halbfertiges Langprodukt in Coils und wird für Drahtziehen, Schweißdraht, Verbindungselemente, Gitter, Federn und weitere industrielle Anwendungen eingesetzt.
 
-Stahl-Walzdraht dient als Ausgangsmaterial für eine breite Palette von Drahtprodukten. Unsere Walzdrähte werden aus hochwertigen Knüppeln hergestellt und sind in verschiedenen Kohlenstoffgehalten erhältlich.
 
-## Spezifikationen
 
-- **Durchmesser**: 5,5mm – 14mm
-- **Güte**: SAE 1006, SAE 1008, SAE 1010
-- **Bundgewicht**: 1,5 – 2,5 Tonnen
-- **Norm**: ASTM A510
+Mettaroll liefert Stahlwalzdraht in unterschiedlichen Güten, Durchmessern, Oberflächen und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Kundenanforderungen.
+
+
+
+\## Spezifikationen
+
+
+
+\- \*\*Durchmesser:\*\* gemäß Lagerbestand und Angebot
+
+\- \*\*Güten:\*\* kohlenstoffarm, kohlenstoffreich, Zieh-, Schweiß- und weitere Güten können verfügbar sein
+
+\- \*\*Oberfläche:\*\* blank oder behandelt je nach Verfügbarkeit
+
+\- \*\*Qualität:\*\* Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
+
+\- \*\*Normen und Zertifikate:\*\* nach Lieferantenbestätigung verfügbar
