@@ -1,7 +1,7 @@
 ---
 title: About Us
 hero_headline: ABOUT METTAROLL
-hero_image: /uploads/hero-image-for-products.jpg
+hero_image: /uploads/codex-bild-20.-aug.-2026-21_47_59.png
 vision:
   heading: Our Vision
   body: Our vision is to become a recognized international steel trading group,
