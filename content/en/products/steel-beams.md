@@ -2,17 +2,30 @@
 title: Steel Beams
 slug: steel-beams
 category: long-products
-description: "Structural steel I-beams and H-beams for construction and infrastructure projects."
+description: Structural steel beams available in different profiles, grades,
+  dimensions, and quality levels for construction and industrial projects.
 image: /uploads/product-detail.jpeg
 featured: true
 order: 1
 ---
+Steel beams are structural steel products used in buildings, warehouses, industrial facilities, infrastructure, and general construction.
 
-Our structural steel beams are available in IPE, HEA, HEB, and HEM profiles. All products comply with European structural standards and are sourced from certified mills.
 
-## Specifications
 
-- **Profiles**: IPE 80–600, HEA 100–1000, HEB 100–1000
-- **Length**: 6m – 18m
-- **Grade**: S235JR, S275JR, S355JR
-- **Standard**: EN 10025
+Mettaroll supplies steel beams in different profiles, grades, lengths, and quality levels depending on current stock availability, supplier offers, and project requirements.
+
+
+
+\## Specifications
+
+
+
+\- \*\*Profiles:\*\* IPE, HEA, HEB, UPN, and other sections may be available
+
+\- \*\*Dimensions and lengths:\*\* according to stock and offer
+
+\- \*\*Grades:\*\* S235, S275, S355, and other grades upon availability
+
+\- \*\*Quality:\*\* prime or other quality levels depending on availability
+
+\- \*\*Standards and certificates:\*\* EN 10025 / EN 10365 upon supplier confirmation
