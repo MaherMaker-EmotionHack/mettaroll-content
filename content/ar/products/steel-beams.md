@@ -4,7 +4,7 @@ slug: steel-beams
 category: long-products
 description: عوارض فولاذية بمقاطع ودرجات وأبعاد ومستويات جودة مختلفة لمشاريع
   البناء والصناعة.
-image: /uploads/product-detail.jpeg
+image: /uploads/exec-3cc26642-b4f7-4555-a475-e5bcf991ad08.png
 featured: true
 order: 1
 ---
