@@ -23,7 +23,7 @@ story:
 
 
     Heute konzentriert sich Mettaroll auf den Aufbau starker Beziehungen zu Kunden, Lieferanten, Lagerhaltern und Logistikpartnern auf internationalen Stahlmärkten.
-  image: /uploads/landing-page-overview.jpg
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_45.png
 values:
   heading: Wofür wir stehen
   items:
