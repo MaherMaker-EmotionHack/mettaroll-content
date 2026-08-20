@@ -15,7 +15,7 @@ overview:
 
 
     With direct market experience in both European supply and international destination markets, we understand the commercial, cultural, and logistical needs behind global steel trade.
-  image: /uploads/landing-page-overview.jpg
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_31.png
 services:
   - title: Stock & Steel Supply
     description: Access to a broad selection of steel products through our stock in
