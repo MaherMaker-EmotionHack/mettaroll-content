@@ -5,7 +5,7 @@ category: wires
 description: Steel wire rod available in different grades, diameters, surface
   conditions, and quality levels for drawing, welding, fasteners, mesh, and
   industrial processing.
-image: /uploads/wire-product-page.jpg
+image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
 featured: false
 order: 1
 ---
