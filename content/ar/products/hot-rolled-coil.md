@@ -2,8 +2,9 @@
 title: لفائف مدرفلة على الساخن
 slug: hot-rolled-coil
 category: coils
-description: "لفائف صلب مدرفلة على الساخن بجودة عالية متوفرة بمختلف السماكات والعروض، مناسبة للبناء والتصنيع."
-image: /uploads/coils-for-product-page.jpg
+description: لفائف صلب مدرفلة على الساخن بجودة عالية متوفرة بمختلف السماكات
+  والعروض، مناسبة للبناء والتصنيع.
+image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 1
 ---
