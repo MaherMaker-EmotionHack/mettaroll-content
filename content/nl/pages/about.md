@@ -1,7 +1,7 @@
 ---
 title: Over ons
 hero_headline: OVER METTAROLL
-hero_image: /uploads/hero-image-for-products.jpg
+hero_image: /uploads/codex-bild-20.-aug.-2026-21_47_59.png
 vision:
   heading: Onze visie
   body: Onze visie is om uit te groeien tot een erkende internationale
