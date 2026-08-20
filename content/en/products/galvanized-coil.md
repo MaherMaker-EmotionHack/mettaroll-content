@@ -5,7 +5,7 @@ category: coils
 description: Zinc-coated steel coils with improved corrosion resistance,
   suitable for construction, roofing, cladding, profiles, and industrial
   applications.
-image: /uploads/abstract-metallic-background-close-up.jpg
+image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
 featured: true
 order: 1
 ---
