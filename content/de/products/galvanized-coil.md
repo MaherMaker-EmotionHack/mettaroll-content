@@ -4,7 +4,7 @@ slug: galvanized-coil
 category: coils
 description: Verzinkte Stahlcoils mit verbessertem Korrosionsschutz für Bau,
   Dächer, Fassaden, Profile und industrielle Anwendungen.
-image: /uploads/abstract-metallic-background-close-up.jpg
+image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
 featured: false
 order: 3
 ---
