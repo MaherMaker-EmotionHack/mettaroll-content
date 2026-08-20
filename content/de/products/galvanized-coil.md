@@ -2,17 +2,30 @@
 title: Verzinkte Coils
 slug: galvanized-coil
 category: coils
-description: "Zinkbeschichtete Stahlcoils mit hervorragender Korrosionsbeständigkeit für Bedachung, Verkleidung und Außenanwendungen."
+description: Verzinkte Stahlcoils mit verbessertem Korrosionsschutz für Bau,
+  Dächer, Fassaden, Profile und industrielle Anwendungen.
 image: /uploads/abstract-metallic-background-close-up.jpg
 featured: false
 order: 3
 ---
+Verzinkte Coils sind Stahlcoils mit einer schützenden Zinkschicht zur Verbesserung von Korrosionsbeständigkeit und Lebensdauer.
 
-Verzinkte Stahlcoils sind mit einer Zinkschicht beschichtet, um vor Korrosion zu schützen. Diese Produkte werden häufig in der Bau-, Bedachungs- und Automobilindustrie eingesetzt.
 
-## Spezifikationen
 
-- **Dicke**: 0,3mm – 3,0mm
-- **Breite**: 600mm – 1500mm
-- **Beschichtung**: Z100 – Z275
-- **Norm**: EN 10346
+Mettaroll liefert verzinkte Coils in unterschiedlichen Güten, Abmessungen, Beschichtungsgewichten und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Kundenanforderungen. Das Material kann für Bau, Dächer, Fassaden, Profile, HLK-Anwendungen und Weiterverarbeitung geeignet sein.
+
+
+
+\## Spezifikationen
+
+
+
+\- \*\*Dicke:\*\* gemäß Lagerbestand und Angebot
+
+\- \*\*Breite:\*\* gemäß Lagerbestand und Angebot
+
+\- \*\*Beschichtung:\*\* Z- und ZM-Optionen können verfügbar sein
+
+\- \*\*Qualität:\*\* Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
+
+\- \*\*Normen und Zertifikate:\*\* nach Lieferantenbestätigung verfügbar
