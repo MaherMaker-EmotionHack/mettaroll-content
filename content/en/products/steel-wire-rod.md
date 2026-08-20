@@ -2,17 +2,31 @@
 title: Steel Wire Rod
 slug: steel-wire-rod
 category: wires
-description: "High-quality steel wire rods for drawing, fencing, and reinforcement applications."
+description: Steel wire rod available in different grades, diameters, surface
+  conditions, and quality levels for drawing, welding, fasteners, mesh, and
+  industrial processing.
 image: /uploads/wire-product-page.jpg
 featured: false
 order: 1
 ---
+Steel wire rod is a semi-finished long steel product supplied in coils and used for wire drawing, welding wire, fasteners, mesh, springs, and other industrial applications.
 
-Steel wire rods serve as the base material for a wide range of wire products. Our rods are produced from quality billets and are available in various carbon content levels.
 
-## Specifications
 
-- **Diameter**: 5.5mm – 14mm
-- **Grade**: SAE 1006, SAE 1008, SAE 1010
-- **Coil Weight**: 1.5 – 2.5 tons
-- **Standard**: ASTM A510
+Mettaroll supplies steel wire rod in different grades, diameters, surface conditions, and quality levels depending on current stock availability, supplier offers, and customer requirements.
+
+
+
+\## Specifications
+
+
+
+\- \*\*Diameters:\*\* according to stock and offer
+
+\- \*\*Grades:\*\* low-carbon, high-carbon, drawing, welding, and other grades may be available
+
+\- \*\*Surface:\*\* plain or treated options depending on availability
+
+\- \*\*Quality:\*\* prime, non-prime, overrolling, or second-choice material depending on availability
+
+\- \*\*Standards and certificates:\*\* available upon supplier confirmation
