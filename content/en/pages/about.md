@@ -19,7 +19,7 @@ story:
 
 
     Today, Mettaroll is focused on building strong relationships with customers, suppliers, stockholders, and logistics partners across global steel markets.
-  image: /uploads/landing-page-overview.jpg
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_45.png
 values:
   heading: What We Stand For
   items:
