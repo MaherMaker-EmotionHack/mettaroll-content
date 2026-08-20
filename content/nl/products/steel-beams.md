@@ -2,17 +2,30 @@
 title: Stalen Balken
 slug: steel-beams
 category: long-products
-description: "Constructiestaal I-balken en H-balken voor bouw- en infrastructuurprojecten."
+description: Stalen balken in verschillende profielen, kwaliteiten, afmetingen
+  en kwaliteitsniveaus voor bouw- en industriële projecten.
 image: /uploads/product-detail.jpeg
 featured: true
 order: 1
 ---
+Stalen balken zijn constructieve staalproducten voor gebouwen, magazijnen, industriële installaties, infrastructuur en algemene bouw.
 
-Onze constructiestalen balken zijn beschikbaar in IPE-, HEA-, HEB- en HEM-profielen. Alle producten voldoen aan Europese constructienormen en zijn afkomstig van gecertificeerde walserijen.
 
-## Specificaties
 
-- **Profielen**: IPE 80–600, HEA 100–1000, HEB 100–1000
-- **Lengte**: 6m – 18m
-- **Kwaliteit**: S235JR, S275JR, S355JR
-- **Norm**: EN 10025
+Mettaroll levert stalen balken in verschillende profielen, kwaliteiten, lengtes en kwaliteitsniveaus, afhankelijk van de actuele voorraad, leveranciersaanbiedingen en projecteisen.
+
+
+
+\## Specificaties
+
+
+
+\- \*\*Profielen:\*\* IPE, HEA, HEB, UPN en andere profielen kunnen beschikbaar zijn
+
+\- \*\*Afmetingen en lengtes:\*\* volgens voorraad en aanbieding
+
+\- \*\*Kwaliteiten:\*\* S235, S275, S355 en andere kwaliteiten afhankelijk van beschikbaarheid
+
+\- \*\*Kwaliteit:\*\* prime of andere kwaliteitsniveaus afhankelijk van beschikbaarheid
+
+\- \*\*Normen en certificaten:\*\* EN 10025 / EN 10365 na bevestiging door de leverancier
