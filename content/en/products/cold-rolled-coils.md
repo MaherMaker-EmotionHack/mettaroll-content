@@ -5,7 +5,7 @@ category: coils
 description: Cold rolled steel coils with a smooth surface and precise
   dimensions, suitable for manufacturing, profiles, appliances, and further
   processing.
-image: /uploads/sheets-for-product-page-1440w.webp
+image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: false
 order: 4
 ---
