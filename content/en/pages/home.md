@@ -17,18 +17,17 @@ overview:
     With direct market experience in both European supply and international destination markets, we understand the commercial, cultural, and logistical needs behind global steel trade.
   image: /uploads/landing-page-overview.jpg
 services:
-  - title: Steel Supply & Stock Availability
-    description: We offer access to a wide range of steel products through our own
-      stock in Antwerp and our international supply network.
+  - title: Stock & Steel Supply
+    description: Access to a broad selection of steel products through our stock in
+      Antwerp and our international supply capabilities.
     icon: wrench
-  - title: Warehousing & Export Coordination
-    description: Through our warehouse operations and export coordination, we
-      support efficient handling, storage, and international shipment planning.
+  - title: Warehousing & Logistics Coordination
+    description: Efficient storage, handling, and shipment coordination to support
+      international steel trade.
     icon: truck
-  - title: International Steel Trading Solutions
-    description: >
-      Every product undergoes rigorous quality testing and certification to meet
-      international standards and your exact requirements.
+  - title: Global Trade Solutions
+    description: Market-driven steel trading solutions supported by product
+      availability, commercial expertise, and export coordination.
     icon: shield
 seo:
   meta_title: Mettaroll BV | International Steel Trading & Export Company
