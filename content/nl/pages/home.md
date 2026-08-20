@@ -19,7 +19,7 @@ overview:
 
 
     Door onze directe ervaring in zowel de Europese aanbodmarkt als internationale bestemmingsmarkten begrijpen wij de commerciële, culturele en logistieke behoeften van de wereldwijde staalhandel.
-  image: /uploads/landing-page-overview.jpg
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_31.png
 services:
   - title: Voorraad & Staallevering
     description: Toegang tot een brede selectie staalproducten via onze voorraad in
