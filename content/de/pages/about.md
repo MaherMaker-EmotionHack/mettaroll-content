@@ -4,48 +4,63 @@ hero_headline: ÜBER METTAROLL
 hero_image: /uploads/hero-image-for-products.jpg
 vision:
   heading: Unsere Vision
-  body: >
-    Der vertrauenswürdigste Stahlhandelspartner in Europa und dem Nahen Osten
-    zu sein und Exzellenz durch jede Coil, jeden Träger und jeden Draht zu liefern.
+  body: Unsere Vision ist es, eine anerkannte internationale Stahlhandelsgruppe zu
+    werden, die langfristige Brücken zwischen globalen Stahllieferanten und
+    wachstumsstarken Märkten baut.
 story:
   heading: Unsere Geschichte
-  body: >
-    Vor über 50 Jahren in Rotterdam gegründet, begann Mettaroll als kleines
-    Stahlhandelsbüro mit einer großen Ambition: die Lücke zwischen
-    Stahlproduzenten und den Industrien, die von ihnen abhängen, zu schließen.
+  body: >-
+    Mettaroll entstand aus Erfahrung im internationalen Stahlhandel, direkter
+    Marktkenntnis und dem klaren Ziel, zuverlässige Stahlversorgung mit
+    wachstumsstarken Märkten zu verbinden.
 
 
-    Heute sind wir ein führender Anbieter von Prime- und Non-Prime-Stahlprodukten
-    und bedienen Kunden in den Bereichen Bau, Automobil, Fertigung und
-    Infrastruktur.
 
 
-    Was als Familienunternehmen begann, ist zu einem internationalen Betrieb
-    gewachsen, aber unsere Kernwerte bleiben unverändert — Integrität, Qualität
-    und Partnerschaft.
+    Unsere Stärke liegt im Verständnis beider Seiten des Handels: des europäischen Beschaffungsmarkts und der internationalen Zielmärkte, in denen Stahl benötigt, gekauft und eingesetzt wird. Dadurch unterstützen wir Kunden mit Lagerverfügbarkeit, Beschaffung, Handelskoordination und exportorientierten Lösungen.
+
+
+
+
+    Heute konzentriert sich Mettaroll auf den Aufbau starker Beziehungen zu Kunden, Lieferanten, Lagerhaltern und Logistikpartnern auf internationalen Stahlmärkten.
   image: /uploads/landing-page-overview.jpg
 values:
   heading: Wofür wir stehen
   items:
-    - title: Integrität
-      description: Wir tun, was wir sagen. Transparente Preise, ehrliche Bewertung, keine Überraschungen.
+    - title: Vertrauen & Integrität
+      description: Transparente Kommunikation, ehrliches Handeln und verlässliche
+        Zusagen bilden die Grundlage jedes Geschäfts.
       icon: shield
-    - title: Zuverlässigkeit
-      description: Pünktliche Lieferung, jedes Mal. Unser Logistiknetzwerk erstreckt sich über Europa und den Nahen Osten.
+    - title: Marktkenntnis
+      description: Wir verbinden Lieferantenkenntnis mit direkter Erfahrung in
+        internationalen Zielmärkten.
       icon: truck
-    - title: Qualität
-      description: Jedes Produkt wird geprüft und zertifiziert, um internationale Standards zu erfüllen.
+    - title: Operative Zuverlässigkeit
+      description: Wir setzen auf strukturierte Prozesse, klare Koordination und
+        konsequente Umsetzung.
       icon: wrench
+    - title: Kommerzielle Flexibilität
+      description: Wir passen uns unterschiedlichen Produktanforderungen,
+        Handelsstrukturen, Märkten und Kundenbedürfnissen an.
+    - title: Strategische Partnerschaften
+      description: Wir bauen starke Beziehungen zu Kunden, Lieferanten, Lagerhaltern
+        und Logistikpartnern auf, um nachhaltigen Mehrwert zu schaffen.
+    - title: Exportkompetenz
+      description: Wir unterstützen den internationalen Stahlhandel mit
+        exportorientierter Koordination, Marktverständnis und praktischer
+        Umsetzung.
 stats:
-  - value: "50+"
-    label: Jahre im Geschäft
-  - value: "30+"
-    label: Länder beliefert
-  - value: "500K+"
-    label: Tonnen jährlich versandt
-  - value: "98%"
-    label: Pünktliche Lieferquote
+  - value: Rotterdam
+    label: Unternehmenssitz
+  - value: Antwerpen
+    label: Lagerbestand & Lagerung
+  - value: B2B
+    label: Stahlmärkte
+  - value: Global
+    label: Handelsfokus
 seo:
-  meta_title: Über Mettaroll — 50+ Jahre Stahl-Exzellenz | Rotterdam
-  meta_description: Erfahren Sie mehr über Mettarolls 50-jährige Geschichte im Stahlhandel. Mit Sitz in Rotterdam beliefern wir Coils, Langprodukte und Drähte in ganz Europa und dem Nahen Osten.
+  meta_title: Über Mettaroll | Internationaler Stahlhandel
+  meta_description: Erfahren Sie mehr über Mettaroll, ein internationales
+    Stahlhandels- und Exportunternehmen mit Sitz in Rotterdam und Lagerbestand
+    in Antwerpen.
 ---
