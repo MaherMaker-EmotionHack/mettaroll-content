@@ -19,7 +19,7 @@ overview:
 
 
     Durch unsere direkte Erfahrung im europäischen Beschaffungsmarkt und in internationalen Zielmärkten verstehen wir die kommerziellen, kulturellen und logistischen Anforderungen des globalen Stahlhandels.
-  image: /uploads/landing-page-overview.jpg
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_31.png
 services:
   - title: Lagerbestand & Stahlversorgung
     description: Zugang zu einer breiten Auswahl an Stahlprodukten über unseren
