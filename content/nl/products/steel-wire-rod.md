@@ -5,7 +5,7 @@ category: wires
 description: Stalen walsdraad in verschillende kwaliteiten, diameters,
   oppervlakken en kwaliteitsniveaus voor draadtrekken, lassen,
   bevestigingsmiddelen, gaas en industriële verwerking.
-image: /uploads/wire-product-page.jpg
+image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
 featured: false
 order: 1
 ---
