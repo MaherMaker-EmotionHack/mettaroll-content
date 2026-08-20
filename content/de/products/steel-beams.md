@@ -2,17 +2,30 @@
 title: Stahlträger
 slug: steel-beams
 category: long-products
-description: "Stahl-I-Träger und H-Träger für Bau- und Infrastrukturprojekte."
+description: Stahlträger in verschiedenen Profilen, Güten, Abmessungen und
+  Qualitätsstufen für Bau- und Industrieprojekte.
 image: /uploads/product-detail.jpeg
 featured: true
 order: 1
 ---
+Stahlträger sind Konstruktionsprodukte für Gebäude, Lagerhallen, Industrieanlagen, Infrastruktur und allgemeinen Stahlbau.
 
-Unsere Stahlträger sind in IPE-, HEA-, HEB- und HEM-Profilen erhältlich. Alle Produkte entsprechen den europäischen Baunormen und stammen aus zertifizierten Walzwerken.
 
-## Spezifikationen
 
-- **Profile**: IPE 80–600, HEA 100–1000, HEB 100–1000
-- **Länge**: 6m – 18m
-- **Güte**: S235JR, S275JR, S355JR
-- **Norm**: EN 10025
+Mettaroll liefert Stahlträger in unterschiedlichen Profilen, Güten, Längen und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Projektanforderungen.
+
+
+
+\## Spezifikationen
+
+
+
+\- \*\*Profile:\*\* IPE, HEA, HEB, UPN und weitere Profile können verfügbar sein
+
+\- \*\*Abmessungen und Längen:\*\* gemäß Lagerbestand und Angebot
+
+\- \*\*Güten:\*\* S235, S275, S355 und weitere Güten nach Verfügbarkeit
+
+\- \*\*Qualität:\*\* Prime oder weitere Qualitätsstufen je nach Verfügbarkeit
+
+\- \*\*Normen und Zertifikate:\*\* EN 10025 / EN 10365 nach Lieferantenbestätigung
