@@ -4,7 +4,7 @@ slug: cold-rolled-coil
 category: coils
 description: Kaltgewalzte Stahlcoils mit glatter Oberfläche und präzisen
   Abmessungen für Fertigung, Profile, Haushaltsgeräte und Weiterverarbeitung.
-image: /uploads/sheets-for-product-page.jpeg
+image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
