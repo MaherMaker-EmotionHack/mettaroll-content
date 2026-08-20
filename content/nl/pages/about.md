@@ -23,7 +23,7 @@ story:
 
 
     Vandaag richt Mettaroll zich op het opbouwen van sterke relaties met klanten, leveranciers, voorraadhouders en logistieke partners in internationale staalmarkten.
-  image: /uploads/landing-page-overview.jpg
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_45.png
 values:
   heading: Waar wij voor staan
   items:
