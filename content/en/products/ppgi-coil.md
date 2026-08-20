@@ -4,7 +4,7 @@ slug: ppgi-coil
 category: coils
 description: Pre-painted galvanized steel coils with a coated surface, suitable
   for roofing, cladding, panels, appliances, and decorative steel applications.
-image: /uploads/landing-page-products-01-390w.webp
+image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
 featured: true
 order: 2
 ---
