@@ -5,7 +5,7 @@ category: wires
 description: Stahlwalzdraht in unterschiedlichen Güten, Durchmessern,
   Oberflächen und Qualitätsstufen für Drahtziehen, Schweißen,
   Verbindungselemente, Gitter und industrielle Verarbeitung.
-image: /uploads/wire-product-page.jpg
+image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
 featured: false
 order: 1
 ---
