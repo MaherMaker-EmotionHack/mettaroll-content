@@ -2,17 +2,31 @@
 title: Stalen Walsdraad
 slug: steel-wire-rod
 category: wires
-description: "Hoogwaardig stalen walsdraad voor draadtrekken, hekwerk en wapeningtoepassingen."
+description: Stalen walsdraad in verschillende kwaliteiten, diameters,
+  oppervlakken en kwaliteitsniveaus voor draadtrekken, lassen,
+  bevestigingsmiddelen, gaas en industriële verwerking.
 image: /uploads/wire-product-page.jpg
 featured: false
 order: 1
 ---
+Stalen walsdraad is een halffabricaat in coils dat wordt gebruikt voor draadtrekken, lasdraad, bevestigingsmiddelen, gaas, veren en andere industriële toepassingen.
 
-Stalen walsdraad dient als basismateriaal voor een breed scala aan draadproducten. Onze walsdraad wordt geproduceerd uit hoogwaardige knuppels en is beschikbaar in verschillende koolstofgehaltes.
 
-## Specificaties
 
-- **Diameter**: 5,5mm – 14mm
-- **Kwaliteit**: SAE 1006, SAE 1008, SAE 1010
-- **Bundgewicht**: 1,5 – 2,5 ton
-- **Norm**: ASTM A510
+Mettaroll levert stalen walsdraad in verschillende kwaliteiten, diameters, oppervlakken en kwaliteitsniveaus, afhankelijk van de actuele voorraad, leveranciersaanbiedingen en klantvereisten.
+
+
+
+\## Specificaties
+
+
+
+\- \*\*Diameters:\*\* volgens voorraad en aanbieding
+
+\- \*\*Kwaliteiten:\*\* laagkoolstof, hoogkoolstof, trek-, las- en andere kwaliteiten kunnen beschikbaar zijn
+
+\- \*\*Oppervlak:\*\* blank of behandeld afhankelijk van beschikbaarheid
+
+\- \*\*Kwaliteit:\*\* prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
+
+\- \*\*Normen en certificaten:\*\* beschikbaar na bevestiging door de leverancier
