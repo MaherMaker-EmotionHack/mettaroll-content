@@ -4,7 +4,7 @@ slug: steel-wire-rod
 category: wires
 description: قضبان أسلاك فولاذية بدرجات وأقطار وتشطيبات ومستويات جودة مختلفة
   لسحب الأسلاك واللحام والمثبتات والشبك والمعالجة الصناعية.
-image: /uploads/wire-product-page.jpg
+image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
 featured: false
 order: 1
 ---
