@@ -4,7 +4,7 @@ slug: hot-rolled-coil
 category: coils
 description: Warmgewalzte Stahlcoils in verschiedenen Güten, Abmessungen und
   Qualitätsstufen für Bau, Fertigung, Konstruktion und industrielle Anwendungen.
-image: /uploads/coils-for-product-page.jpg
+image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 1
 ---
