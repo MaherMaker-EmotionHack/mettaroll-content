@@ -4,7 +4,7 @@ slug: cold-rolled-coil
 category: coils
 description: لفائف فولاذ مدرفلة على البارد بسطح أملس وأبعاد دقيقة للتصنيع
   والمقاطع والأجهزة والمزيد من عمليات المعالجة.
-image: /uploads/sheets-for-product-page.jpeg
+image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
