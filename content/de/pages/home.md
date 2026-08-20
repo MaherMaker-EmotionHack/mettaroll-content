@@ -1,39 +1,42 @@
 ---
 title: Startseite
-hero_headline: Die Zukunft mit Stahl-Exzellenz gestalten
-hero_subtitle: Branchenführende Stahlfertigungslösungen für Bau, Infrastruktur und industrielle Anwendungen weltweit.
+hero_headline: Bridging Steel. Building Trust.
+hero_subtitle: Branchenführende Stahlfertigungslösungen für Bau, Infrastruktur
+  und industrielle Anwendungen weltweit.
 hero_image: /uploads/hero-image-for-the-landing-page.jpeg
 overview:
   heading: Überblick
-  body: >
-    Seit über 50 Jahren steht Mettaroll an der Spitze der
-    Stahlherstellungsinnovation. Wir verbinden fortschrittliche Technologie mit
-    traditioneller Handwerkskunst, um erstklassige Stahlprodukte zu liefern,
-    die den höchsten Industriestandards entsprechen.
+  body: >-
+    Mettaroll ist ein internationales Stahlhandels- und Exportunternehmen mit
+    Sitz in Rotterdam, Niederlande.
 
 
-    Unsere hochmodernen Anlagen und unser engagiertes Team gewährleisten
-    gleichbleibende Qualität, pünktliche Lieferung und nachhaltige Praktiken,
-    die unsere Umwelt für zukünftige Generationen schützen.
+
+
+    Wir verbinden zuverlässige Stahllieferanten mit professionellen B2B-Käufern auf internationalen Märkten. Unser Fokus liegt auf Stahlbeschaffung, Handelskoordination und Exportlösungen für ein breites Spektrum an Stahlprodukten.
+
+
+
+
+    Durch unsere direkte Erfahrung im europäischen Beschaffungsmarkt und in internationalen Zielmärkten verstehen wir die kommerziellen, kulturellen und logistischen Anforderungen des globalen Stahlhandels.
   image: /uploads/landing-page-overview.jpg
 services:
-  - title: Individuelle Fertigung
-    description: >
-      Präzise Stahlfertigung nach Ihren Spezifikationen. Unser Expertenteam
-      arbeitet mit Ihnen zusammen, um maßgeschneiderte Lösungen für jede
-      Projektgröße zu liefern.
-    icon: "wrench"
-  - title: Logistik & Lieferung
-    description: >
-      Zuverlässiges globales Logistiknetzwerk für pünktliche Lieferung von
-      Stahlprodukten an Ihre Tür, überall in Europa und dem Nahen Osten.
-    icon: "truck"
-  - title: Qualitätssicherung
-    description: >
-      Jedes Produkt durchläuft strenge Qualitätsprüfungen und Zertifizierungen,
-      um internationale Standards und Ihre genauen Anforderungen zu erfüllen.
-    icon: "shield"
+  - title: Lagerbestand & Stahlversorgung
+    description: Zugang zu einer breiten Auswahl an Stahlprodukten über unseren
+      Lagerbestand in Antwerpen und unsere internationalen
+      Beschaffungsmöglichkeiten.
+    icon: wrench
+  - title: Lagerung & Logistikkoordination
+    description: Effiziente Lagerung, Handhabung und Versandkoordination zur
+      Unterstützung des internationalen Stahlhandels.
+    icon: truck
+  - title: Globale Handelslösungen
+    description: Marktorientierte Stahlhandelslösungen auf Basis von
+      Produktverfügbarkeit, kaufmännischer Kompetenz und Exportkoordination.
+    icon: shield
 seo:
-  meta_title: Mettaroll — Stahl-Exzellenz | Europäischer Stahllieferant
-  meta_description: Mettaroll ist ein führendes Stahlhandelsunternehmen in Rotterdam, spezialisiert auf Coils, Langprodukte und Drähte für Europa und den Nahen Osten.
+  meta_title: Mettaroll | Internationaler Stahlhandel & Export
+  meta_description: Mettaroll verbindet internationale Stahlnachfrage mit
+    zuverlässiger Versorgung durch Lagerbestand in Antwerpen, Marktkenntnis und
+    Exportkoordination.
 ---
