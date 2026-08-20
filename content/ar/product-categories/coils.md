@@ -5,8 +5,7 @@ description: >
   لفائف صلب عالية الجودة بمختلف الدرجات والأبعاد. تشمل منتجاتنا من اللفائف
   خيارات المدرفلة على الساخن والمدرفلة على البارد والمجلفنة المناسبة لتطبيقات
   البناء والسيارات والتصنيع.
-hero_image: /uploads/landing-page-products-02.jpg
-card_image: /uploads/coils-for-product-page.jpg
+hero_image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
+card_image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
 order: 1
 ---
-
