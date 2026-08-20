@@ -2,17 +2,30 @@
 title: Warmgewalzte Coils
 slug: hot-rolled-coil
 category: coils
-description: "Premium warmgewalzte Stahlcoils in verschiedenen Dicken und Breiten, geeignet für Bau und Fertigung."
+description: Warmgewalzte Stahlcoils in verschiedenen Güten, Abmessungen und
+  Qualitätsstufen für Bau, Fertigung, Konstruktion und industrielle Anwendungen.
 image: /uploads/coils-for-product-page.jpg
 featured: true
 order: 1
 ---
+Warmgewalzte Coils sind vielseitige Stahlprodukte für Bauwesen, Konstruktionen, Rohre, Maschinenbau, Fertigung und Weiterverarbeitung.
 
-Warmgewalzte Coils (WGC) werden durch Walzen von Stahl bei hohen Temperaturen hergestellt, was ein vielseitiges Produkt ergibt, das in mehreren Branchen eingesetzt wird. Unsere WGC-Produkte erfüllen internationale Qualitätsstandards und sind in kundenspezifischen Abmessungen erhältlich.
 
-## Spezifikationen
 
-- **Dicke**: 1,5mm – 25mm
-- **Breite**: 900mm – 2000mm
-- **Güte**: S235JR, S275JR, S355JR
-- **Norm**: EN 10025
+Mettaroll liefert warmgewalzte Coils in unterschiedlichen Güten, Dicken, Breiten und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Kundenanforderungen.
+
+
+
+\## Spezifikationen
+
+
+
+\- \*\*Dicke:\*\* gemäß Lagerbestand und Angebot
+
+\- \*\*Breite:\*\* gemäß Lagerbestand und Angebot
+
+\- \*\*Güten:\*\* Handels-, Konstruktions- und weitere Güten nach Verfügbarkeit
+
+\- \*\*Qualität:\*\* Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
+
+\- \*\*Normen und Zertifikate:\*\* nach Lieferantenbestätigung verfügbar
