@@ -5,7 +5,7 @@ category: coils
 description: Hot rolled steel coils available in different grades, dimensions,
   and quality levels for construction, manufacturing, structural, and industrial
   applications.
-image: /uploads/coils-for-product-page.jpg
+image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 3
 ---
