@@ -5,7 +5,7 @@ category: coils
 description: Warmgewalste staalcoils in verschillende kwaliteiten, afmetingen en
   kwaliteitsniveaus voor bouw, productie, constructie en industriële
   toepassingen.
-image: /uploads/coils-for-product-page.jpg
+image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 1
 ---
