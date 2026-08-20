@@ -21,7 +21,7 @@ story:
 
 
     تركز ميتارول اليوم على بناء علاقات قوية مع العملاء والموردين وأصحاب المخزون وشركاء الخدمات اللوجستية في أسواق الصلب العالمية.
-  image: /uploads/landing-page-overview.jpg
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_45.png
 values:
   heading: ما نمثله
   items:
