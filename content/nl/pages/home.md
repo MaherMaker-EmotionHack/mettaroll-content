@@ -21,11 +21,11 @@ overview:
     Door onze directe ervaring in zowel de Europese aanbodmarkt als internationale bestemmingsmarkten begrijpen wij de commerciële, culturele en logistieke behoeften van de wereldwijde staalhandel.
   image: /uploads/landing-page-overview.jpg
 services:
-  - title: Opslag & Logistieke CoördinatieVoorraad & Staallevering
+  - title: Voorraad & Staallevering
     description: Toegang tot een brede selectie staalproducten via onze voorraad in
       Antwerpen en onze internationale inkoopmogelijkheden.
     icon: wrench
-  - title: Internationale HandelsoplossingenOpslag & Logistieke Coördinatie
+  - title: Opslag & Logistieke Coördinatie
     description: Efficiënte opslag, behandeling en transportcoördinatie ter
       ondersteuning van de internationale staalhandel.
     icon: truck
