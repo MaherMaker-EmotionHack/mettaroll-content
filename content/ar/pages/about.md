@@ -1,7 +1,7 @@
 ---
 title: من نحن
 hero_headline: عن ميتارول
-hero_image: /uploads/hero-image-for-products.jpg
+hero_image: /uploads/codex-bild-20.-aug.-2026-21_47_59.png
 vision:
   heading: رؤيتنا
   body: رؤيتنا هي أن نصبح مجموعة دولية معترفًا بها في تجارة الصلب، تبني جسورًا
