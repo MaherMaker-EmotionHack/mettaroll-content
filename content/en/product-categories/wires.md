@@ -8,7 +8,7 @@ description: >-
 
 
   Availability depends on current stock, supplier offers, technical requirements, quantity, and destination market needs.
-hero_image: /uploads/wire-product-page.jpg
-card_image: /uploads/wire-product-page.jpg
+hero_image: /uploads/exec-5e60f447-a5d3-4256-8230-1e0af845da85.png
+card_image: /uploads/exec-5e60f447-a5d3-4256-8230-1e0af845da85.png
 order: 3
 ---
