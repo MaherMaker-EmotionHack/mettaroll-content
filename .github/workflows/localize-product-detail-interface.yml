@@ -40,10 +40,9 @@ jobs:
               updated = text.replace(needle, replacement)
               template.write_text(updated, encoding='utf-8')
 
-              candidates = [p for p in template.parent.glob('*.ts') if 'export class ' in p.read_text(encoding='utf-8')]
-              if len(candidates) != 1:
-                  raise RuntimeError(f'Expected one component class beside {template}, found {candidates}')
-              ts = candidates[0]
+              ts = template.with_suffix('.ts')
+              if not ts.exists() or 'export class ' not in ts.read_text(encoding='utf-8'):
+                  raise RuntimeError(f'Matching component class not found for {template}: {ts}')
               source = ts.read_text(encoding='utf-8')
               match = re.search(r'export class \w+Component\s*\{', source)
               if not match:
