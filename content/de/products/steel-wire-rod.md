@@ -17,16 +17,16 @@ Mettaroll liefert Stahlwalzdraht in unterschiedlichen Güten, Durchmessern, Ober
 
 
 
-\## Spezifikationen
+## Spezifikationen
 
 
 
-\- \*\*Durchmesser:\*\* gemäß Lagerbestand und Angebot
+- **Durchmesser:** gemäß Lagerbestand und Angebot
 
-\- \*\*Güten:\*\* kohlenstoffarm, kohlenstoffreich, Zieh-, Schweiß- und weitere Güten können verfügbar sein
+- **Güten:** kohlenstoffarm, kohlenstoffreich, Zieh-, Schweiß- und weitere Güten können verfügbar sein
 
-\- \*\*Oberfläche:\*\* blank oder behandelt je nach Verfügbarkeit
+- **Oberfläche:** blank oder behandelt je nach Verfügbarkeit
 
-\- \*\*Qualität:\*\* Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
+- **Qualität:** Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
 
-\- \*\*Normen und Zertifikate:\*\* nach Lieferantenbestätigung verfügbar
+- **Normen und Zertifikate:** nach Lieferantenbestätigung verfügbar

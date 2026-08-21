@@ -17,16 +17,16 @@ Mettaroll levert warmgewalste coils in verschillende kwaliteiten, diktes, breedt
 
 
 
-\## Specificaties
+## Specificaties
 
 
 
-\- \*\*Dikte:\*\* volgens voorraad en aanbieding
+- **Dikte:** volgens voorraad en aanbieding
 
-\- \*\*Breedte:\*\* volgens voorraad en aanbieding
+- **Breedte:** volgens voorraad en aanbieding
 
-\- \*\*Kwaliteiten:\*\* commerciële, constructie- en andere kwaliteiten kunnen beschikbaar zijn
+- **Kwaliteiten:** commerciële, constructie- en andere kwaliteiten kunnen beschikbaar zijn
 
-\- \*\*Kwaliteit:\*\* prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
+- **Kwaliteit:** prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
 
-\- \*\*Normen en certificaten:\*\* beschikbaar na bevestiging door de leverancier
+- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier

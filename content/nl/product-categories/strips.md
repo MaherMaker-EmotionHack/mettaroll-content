@@ -1,10 +1,8 @@
 ---
 name: Strippen
 slug: strips
-description: Non-prime staalstrippen. Warmgewalst, koudgewalst, koudgewalst
-  volhard, zwartplaat, verzinkt, elektrolytisch verzinkt, galvanneal, CRNGO,
-  aluzink, galfan of voorgelakt. Wij kunnen strippen in elke kwaliteit en elke
-  graad leveren. Bekijk onze voorraadlijst voor meer informatie.
+description: >-
+  Het assortiment staalstrips van Mettaroll omvat, afhankelijk van beschikbaarheid, warmgewalste, gebeitste en geoliede, koudgewalste, verzinkte, elektrolytisch verzinkte, voorgelakte en legeringsgecoate varianten. Kwaliteiten, breedtes, afwerkingen en kwaliteitsniveaus worden afgestemd op voorraad, leveranciersaanbiedingen en klantvereisten.
 hero_image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
 card_image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
 order: 0

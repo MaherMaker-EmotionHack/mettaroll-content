@@ -17,14 +17,14 @@ Mettaroll supplies cold rolled coils in different grades, thicknesses, widths, s
 
 
 
-\## Specifications
+## Specifications
 
 
 
-\- \*\*Thickness:\*\* 0.3mm – 3.0mm
+- **Thickness:** 0.3mm – 3.0mm
 
-\- \*\*Width:\*\* 600mm – 1500mm
+- **Width:** 600mm – 1500mm
 
-\- \*\*Grades:\*\* DC01, DC03, DC04 and other grades upon availability
+- **Grades:** DC01, DC03, DC04 and other grades upon availability
 
-\- \*\*Standard:\*\* EN 10130 / EN 10139 upon supplier confirmation
+- **Standard:** EN 10130 / EN 10139 upon supplier confirmation

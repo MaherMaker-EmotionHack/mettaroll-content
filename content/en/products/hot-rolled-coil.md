@@ -17,16 +17,16 @@ Mettaroll supplies hot rolled coils in different grades, thicknesses, widths, an
 
 
 
-\## Specifications
+## Specifications
 
 
 
-\- \*\*Thickness:\*\* according to stock and offer
+- **Thickness:** according to stock and offer
 
-\- \*\*Width:\*\* according to stock and offer
+- **Width:** according to stock and offer
 
-\- \*\*Grades:\*\* commercial, structural, and other grades may be available
+- **Grades:** commercial, structural, and other grades may be available
 
-\- \*\*Quality:\*\* prime, non-prime, overrolling, or second-choice material depending on availability
+- **Quality:** prime, non-prime, overrolling, or second-choice material depending on availability
 
-\- \*\*Standards and certificates:\*\* available upon supplier confirmation
+- **Standards and certificates:** available upon supplier confirmation

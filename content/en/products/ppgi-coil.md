@@ -20,16 +20,16 @@ Mettaroll supplies PPGI coils in different colors, grades, thicknesses, widths, 
 
 
 
-\## Specifications
+## Specifications
 
 
 
-\- \*\*Thickness:\*\* 0.3mm – 1.5mm
+- **Thickness:** 0.3mm – 1.5mm
 
-\- \*\*Width:\*\* 600mm – 1250mm
+- **Width:** 600mm – 1250mm
 
-\- \*\*Coating:\*\* galvanized base with painted surface
+- **Coating:** galvanized base with painted surface
 
-\- \*\*Colors:\*\* standard and special colors upon availability
+- **Colors:** standard and special colors upon availability
 
-\- \*\*Standard:\*\* EN 10346 / EN 10169 upon supplier confirmation
+- **Standard:** EN 10346 / EN 10169 upon supplier confirmation

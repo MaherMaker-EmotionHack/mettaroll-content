@@ -16,14 +16,14 @@ Mettaroll levert koudgewalste coils in verschillende kwaliteiten, diktes, breedt
 
 
 
-\## Specificaties
+## Specificaties
 
 
 
-\- \*\*Dikte:\*\* 0,3mm – 3,0mm
+- **Dikte:** 0,3mm – 3,0mm
 
-\- \*\*Breedte:\*\* 600mm – 1500mm
+- **Breedte:** 600mm – 1500mm
 
-\- \*\*Kwaliteiten:\*\* DC01, DC03, DC04 en andere kwaliteiten afhankelijk van beschikbaarheid
+- **Kwaliteiten:** DC01, DC03, DC04 en andere kwaliteiten afhankelijk van beschikbaarheid
 
-\- \*\*Norm:\*\* EN 10130 / EN 10139 na bevestiging door de leverancier
+- **Norm:** EN 10130 / EN 10139 na bevestiging door de leverancier

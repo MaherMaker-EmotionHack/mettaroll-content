@@ -16,16 +16,16 @@ Mettaroll liefert Stahlträger in unterschiedlichen Profilen, Güten, Längen un
 
 
 
-\## Spezifikationen
+## Spezifikationen
 
 
 
-\- \*\*Profile:\*\* IPE, HEA, HEB, UPN und weitere Profile können verfügbar sein
+- **Profile:** IPE, HEA, HEB, UPN und weitere Profile können verfügbar sein
 
-\- \*\*Abmessungen und Längen:\*\* gemäß Lagerbestand und Angebot
+- **Abmessungen und Längen:** gemäß Lagerbestand und Angebot
 
-\- \*\*Güten:\*\* S235, S275, S355 und weitere Güten nach Verfügbarkeit
+- **Güten:** S235, S275, S355 und weitere Güten nach Verfügbarkeit
 
-\- \*\*Qualität:\*\* Prime oder weitere Qualitätsstufen je nach Verfügbarkeit
+- **Qualität:** Prime oder weitere Qualitätsstufen je nach Verfügbarkeit
 
-\- \*\*Normen und Zertifikate:\*\* EN 10025 / EN 10365 nach Lieferantenbestätigung
+- **Normen und Zertifikate:** EN 10025 / EN 10365 nach Lieferantenbestätigung

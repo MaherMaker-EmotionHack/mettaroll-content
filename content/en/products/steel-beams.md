@@ -16,16 +16,16 @@ Mettaroll supplies steel beams in different profiles, grades, lengths, and quali
 
 
 
-\## Specifications
+## Specifications
 
 
 
-\- \*\*Profiles:\*\* IPE, HEA, HEB, UPN, and other sections may be available
+- **Profiles:** IPE, HEA, HEB, UPN, and other sections may be available
 
-\- \*\*Dimensions and lengths:\*\* according to stock and offer
+- **Dimensions and lengths:** according to stock and offer
 
-\- \*\*Grades:\*\* S235, S275, S355, and other grades upon availability
+- **Grades:** S235, S275, S355, and other grades upon availability
 
-\- \*\*Quality:\*\* prime or other quality levels depending on availability
+- **Quality:** prime or other quality levels depending on availability
 
-\- \*\*Standards and certificates:\*\* EN 10025 / EN 10365 upon supplier confirmation
+- **Standards and certificates:** EN 10025 / EN 10365 upon supplier confirmation

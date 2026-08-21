@@ -17,16 +17,16 @@ Mettaroll levert stalen walsdraad in verschillende kwaliteiten, diameters, opper
 
 
 
-\## Specificaties
+## Specificaties
 
 
 
-\- \*\*Diameters:\*\* volgens voorraad en aanbieding
+- **Diameters:** volgens voorraad en aanbieding
 
-\- \*\*Kwaliteiten:\*\* laagkoolstof, hoogkoolstof, trek-, las- en andere kwaliteiten kunnen beschikbaar zijn
+- **Kwaliteiten:** laagkoolstof, hoogkoolstof, trek-, las- en andere kwaliteiten kunnen beschikbaar zijn
 
-\- \*\*Oppervlak:\*\* blank of behandeld afhankelijk van beschikbaarheid
+- **Oppervlak:** blank of behandeld afhankelijk van beschikbaarheid
 
-\- \*\*Kwaliteit:\*\* prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
+- **Kwaliteit:** prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
 
-\- \*\*Normen en certificaten:\*\* beschikbaar na bevestiging door de leverancier
+- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier

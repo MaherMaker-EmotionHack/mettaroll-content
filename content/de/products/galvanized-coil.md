@@ -16,16 +16,16 @@ Mettaroll liefert verzinkte Coils in unterschiedlichen Güten, Abmessungen, Besc
 
 
 
-\## Spezifikationen
+## Spezifikationen
 
 
 
-\- \*\*Dicke:\*\* gemäß Lagerbestand und Angebot
+- **Dicke:** gemäß Lagerbestand und Angebot
 
-\- \*\*Breite:\*\* gemäß Lagerbestand und Angebot
+- **Breite:** gemäß Lagerbestand und Angebot
 
-\- \*\*Beschichtung:\*\* Z- und ZM-Optionen können verfügbar sein
+- **Beschichtung:** Z- und ZM-Optionen können verfügbar sein
 
-\- \*\*Qualität:\*\* Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
+- **Qualität:** Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
 
-\- \*\*Normen und Zertifikate:\*\* nach Lieferantenbestätigung verfügbar
+- **Normen und Zertifikate:** nach Lieferantenbestätigung verfügbar

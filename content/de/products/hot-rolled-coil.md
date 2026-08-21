@@ -16,16 +16,16 @@ Mettaroll liefert warmgewalzte Coils in unterschiedlichen Güten, Dicken, Breite
 
 
 
-\## Spezifikationen
+## Spezifikationen
 
 
 
-\- \*\*Dicke:\*\* gemäß Lagerbestand und Angebot
+- **Dicke:** gemäß Lagerbestand und Angebot
 
-\- \*\*Breite:\*\* gemäß Lagerbestand und Angebot
+- **Breite:** gemäß Lagerbestand und Angebot
 
-\- \*\*Güten:\*\* Handels-, Konstruktions- und weitere Güten nach Verfügbarkeit
+- **Güten:** Handels-, Konstruktions- und weitere Güten nach Verfügbarkeit
 
-\- \*\*Qualität:\*\* Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
+- **Qualität:** Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
 
-\- \*\*Normen und Zertifikate:\*\* nach Lieferantenbestätigung verfügbar
+- **Normen und Zertifikate:** nach Lieferantenbestätigung verfügbar

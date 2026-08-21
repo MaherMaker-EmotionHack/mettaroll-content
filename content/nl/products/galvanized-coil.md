@@ -16,16 +16,16 @@ Mettaroll levert verzinkte coils in verschillende kwaliteiten, afmetingen, coati
 
 
 
-\## Specificaties
+## Specificaties
 
 
 
-\- \*\*Dikte:\*\* volgens voorraad en aanbieding
+- **Dikte:** volgens voorraad en aanbieding
 
-\- \*\*Breedte:\*\* volgens voorraad en aanbieding
+- **Breedte:** volgens voorraad en aanbieding
 
-\- \*\*Coating:\*\* Z- en ZM-opties kunnen beschikbaar zijn
+- **Coating:** Z- en ZM-opties kunnen beschikbaar zijn
 
-\- \*\*Kwaliteit:\*\* prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
+- **Kwaliteit:** prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
 
-\- \*\*Normen en certificaten:\*\* beschikbaar na bevestiging door de leverancier
+- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier

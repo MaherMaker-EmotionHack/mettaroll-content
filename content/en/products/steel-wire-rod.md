@@ -17,16 +17,16 @@ Mettaroll supplies steel wire rod in different grades, diameters, surface condit
 
 
 
-\## Specifications
+## Specifications
 
 
 
-\- \*\*Diameters:\*\* according to stock and offer
+- **Diameters:** according to stock and offer
 
-\- \*\*Grades:\*\* low-carbon, high-carbon, drawing, welding, and other grades may be available
+- **Grades:** low-carbon, high-carbon, drawing, welding, and other grades may be available
 
-\- \*\*Surface:\*\* plain or treated options depending on availability
+- **Surface:** plain or treated options depending on availability
 
-\- \*\*Quality:\*\* prime, non-prime, overrolling, or second-choice material depending on availability
+- **Quality:** prime, non-prime, overrolling, or second-choice material depending on availability
 
-\- \*\*Standards and certificates:\*\* available upon supplier confirmation
+- **Standards and certificates:** available upon supplier confirmation

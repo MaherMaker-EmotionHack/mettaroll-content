@@ -16,14 +16,14 @@ Mettaroll liefert kaltgewalzte Coils in unterschiedlichen Güten, Dicken, Breite
 
 
 
-\## Spezifikationen
+## Spezifikationen
 
 
 
-\- \*\*Dicke:\*\* 0,3mm – 3,0mm
+- **Dicke:** 0,3mm – 3,0mm
 
-\- \*\*Breite:\*\* 600mm – 1500mm
+- **Breite:** 600mm – 1500mm
 
-\- \*\*Güten:\*\* DC01, DC03, DC04 und weitere Güten nach Verfügbarkeit
+- **Güten:** DC01, DC03, DC04 und weitere Güten nach Verfügbarkeit
 
-\- \*\*Norm:\*\* EN 10130 / EN 10139 nach Lieferantenbestätigung
+- **Norm:** EN 10130 / EN 10139 nach Lieferantenbestätigung

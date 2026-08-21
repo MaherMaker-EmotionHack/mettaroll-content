@@ -17,16 +17,16 @@ Mettaroll supplies galvanized coils in different grades, dimensions, coating wei
 
 
 
-\## Specifications
+## Specifications
 
 
 
-\- \*\*Thickness:\*\* according to stock and offer
+- **Thickness:** according to stock and offer
 
-\- \*\*Width:\*\* according to stock and offer
+- **Width:** according to stock and offer
 
-\- \*\*Coating:\*\* Z and ZM options may be available
+- **Coating:** Z and ZM options may be available
 
-\- \*\*Quality:\*\* prime, non-prime, overrolling, or second-choice material depending on availability
+- **Quality:** prime, non-prime, overrolling, or second-choice material depending on availability
 
-\- \*\*Standards and certificates:\*\* available upon supplier confirmation
+- **Standards and certificates:** available upon supplier confirmation

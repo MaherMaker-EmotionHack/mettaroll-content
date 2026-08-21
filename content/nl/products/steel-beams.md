@@ -16,16 +16,16 @@ Mettaroll levert stalen balken in verschillende profielen, kwaliteiten, lengtes 
 
 
 
-\## Specificaties
+## Specificaties
 
 
 
-\- \*\*Profielen:\*\* IPE, HEA, HEB, UPN en andere profielen kunnen beschikbaar zijn
+- **Profielen:** IPE, HEA, HEB, UPN en andere profielen kunnen beschikbaar zijn
 
-\- \*\*Afmetingen en lengtes:\*\* volgens voorraad en aanbieding
+- **Afmetingen en lengtes:** volgens voorraad en aanbieding
 
-\- \*\*Kwaliteiten:\*\* S235, S275, S355 en andere kwaliteiten afhankelijk van beschikbaarheid
+- **Kwaliteiten:** S235, S275, S355 en andere kwaliteiten afhankelijk van beschikbaarheid
 
-\- \*\*Kwaliteit:\*\* prime of andere kwaliteitsniveaus afhankelijk van beschikbaarheid
+- **Kwaliteit:** prime of andere kwaliteitsniveaus afhankelijk van beschikbaarheid
 
-\- \*\*Normen en certificaten:\*\* EN 10025 / EN 10365 na bevestiging door de leverancier
+- **Normen en certificaten:** EN 10025 / EN 10365 na bevestiging door de leverancier
