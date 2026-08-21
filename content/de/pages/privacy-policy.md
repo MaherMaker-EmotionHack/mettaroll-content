@@ -2,6 +2,9 @@
 title: Datenschutzerklärung
 hero_headline: DATENSCHUTZERKLÄRUNG
 hero_image: /uploads/hero-image-for-products.jpg
+seo:
+  meta_title: Datenschutzerklärung — Mettaroll
+  meta_description: Informationen zum Umgang von Mettaroll B.V. mit Kontaktdaten, Websitedaten, Datenschutzrechten und DSGVO-Pflichten.
 ---
 
 ## Datenschutzerklärung

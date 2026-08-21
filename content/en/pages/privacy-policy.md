@@ -2,6 +2,9 @@
 title: Privacy Policy
 hero_headline: PRIVACY POLICY
 hero_image: /uploads/hero-image-for-products.jpg
+seo:
+  meta_title: Privacy Policy — Mettaroll
+  meta_description: Learn how Mettaroll B.V. handles contact information, website data, privacy rights and GDPR obligations.
 ---
 
 ## Privacy Policy

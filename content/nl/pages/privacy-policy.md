@@ -2,6 +2,9 @@
 title: Privacybeleid
 hero_headline: PRIVACYBELEID
 hero_image: /uploads/hero-image-for-products.jpg
+seo:
+  meta_title: Privacybeleid — Mettaroll
+  meta_description: Lees hoe Mettaroll B.V. omgaat met contactgegevens, websitegegevens, privacyrechten en AVG-verplichtingen.
 ---
 
 ## Privacybeleid

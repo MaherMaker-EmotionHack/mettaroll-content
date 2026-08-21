@@ -2,6 +2,9 @@
 title: سياسة الخصوصية
 hero_headline: سياسة الخصوصية
 hero_image: /uploads/hero-image-for-products.jpg
+seo:
+  meta_title: سياسة الخصوصية — ميتارول | Mettaroll
+  meta_description: تعرّف على كيفية تعامل شركة ميتارول مع بيانات الاتصال وبيانات الموقع وحقوق الخصوصية والتزامات حماية البيانات.
 ---
 
 ## سياسة الخصوصية
