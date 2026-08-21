@@ -1,0 +1,98 @@
+name: Fix Homepage Responsive Product Images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/fix-homepage-responsive-product-images.yml
+
+permissions:
+  contents: read
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private site repository
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Replace stale responsive image candidates
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('mettaroll/src/app/pages/home-page.component.ts')
+          text = path.read_text(encoding='utf-8')
+          replacements = [
+              (
+                  r'uploads/landing-page-products-01-390w\.webp\s+390w,\s*uploads/landing-page-products-01-768w\.webp\s+768w,\s*uploads/landing-page-products-01-1440w\.webp\s+1440w',
+                  'uploads/homepage-product-strips-v2.png 1536w',
+              ),
+              (
+                  r'uploads/landing-page-products-02-390w\.webp\s+390w,\s*uploads/landing-page-products-02-768w\.webp\s+768w,\s*uploads/landing-page-products-02-1440w\.webp\s+1440w',
+                  'uploads/homepage-product-coils.png 1536w',
+              ),
+              (
+                  r'uploads/landing-page-products-03-390w\.webp\s+390w,\s*uploads/landing-page-products-03-768w\.webp\s+768w,\s*uploads/landing-page-products-03-1440w\.webp\s+1440w',
+                  'uploads/homepage-product-sheets-v2.png 1536w',
+              ),
+          ]
+
+          for pattern, replacement in replacements:
+              text, count = re.subn(pattern, replacement, text)
+              if count != 1:
+                  raise SystemExit(f'Expected one responsive image list match, found {count}: {pattern}')
+
+          path.write_text(text, encoding='utf-8')
+          PY
+
+          home_file='mettaroll/src/app/pages/home-page.component.ts'
+          ! grep -Fq 'landing-page-products-01-' "$home_file"
+          ! grep -Fq 'landing-page-products-02-' "$home_file"
+          ! grep -Fq 'landing-page-products-03-' "$home_file"
+          grep -Fq 'homepage-product-strips-v2.png 1536w' "$home_file"
+          grep -Fq 'homepage-product-coils.png 1536w' "$home_file"
+          grep -Fq 'homepage-product-sheets-v2.png 1536w' "$home_file"
+          git diff --check
+          git diff -- "$home_file"
+
+      - name: Build site
+        working-directory: site/mettaroll
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -f package-lock.json ]]; then
+            npm ci
+            npm run build
+          elif [[ -f pnpm-lock.yaml ]]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm run build
+          elif [[ -f yarn.lock ]]; then
+            corepack enable
+            yarn install --immutable
+            yarn build
+          else
+            npm install
+            npm run build
+          fi
+
+      - name: Commit and push private site fix
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Mettaroll B.V.'
+          git config user.email 'mettarollbv@gmail.com'
+          git add mettaroll/src/app/pages/home-page.component.ts
+          git diff --cached --check
+          git commit -m 'Fix responsive homepage product images'
+          git push origin HEAD:main
