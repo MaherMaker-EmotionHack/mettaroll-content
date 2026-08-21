@@ -3,7 +3,7 @@ title: Staven, profielen en buizen
 slug: bars-profiles-tubes
 category: long-products
 description: >-
-  Handelsstaven, profielen en stalen buizen voor fabricage, bouw, mechanische en algemeen industriële eisen.
+  Stafstaal, profielen en stalen buizen voor productie, bouw en algemene mechanische en industriële toepassingen.
 image: /uploads/exec-82c9c594-5898-427f-95b9-f7ddcb36df8b.png
 featured: true
 order: 2
@@ -11,7 +11,7 @@ order: 2
 
 ## Inbegrepen productsoorten
 
-- Platte, ronde, vierkante en handelsstaven
+- Plat-, rond- en vierkantstafstaal en overige handelsstaalproducten
 - Open en holle profielen
 - Gelaste en naadloze stalen buizen
 

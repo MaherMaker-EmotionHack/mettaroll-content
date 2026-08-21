@@ -12,7 +12,7 @@ order: 1
 ## Inbegrepen productsoorten
 
 - Laag-koolstof walsdraad
-- Middel- en hoog-koolstof walsdraad
+- Middel- en hoogkoolstofhoudend walsdraad
 - Toepassingsspecifieke walsdraadkwaliteiten
 
 ## Inkoop en beschikbaarheid

@@ -3,7 +3,7 @@ name: الشرائط
 slug: strips
 description: >-
   تشمل مجموعة شرائط الفولاذ لدى Mettaroll، حسب التوفر، الأنواع المدرفلة على الساخن والمخللة والمزيتة والمدرفلة على البارد والمجلفنة كهربائيًا والمطلية مسبقًا والمطلية بالسبائك. ويتم اختيار الدرجات والعروض والتشطيبات ومستويات الجودة وفق المخزون وعروض الموردين ومتطلبات العملاء.
-hero_image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
-card_image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+hero_image: /uploads/homepage-product-strips-v2.png
+card_image: /uploads/homepage-product-strips-v2.png
 order: 0
 ---

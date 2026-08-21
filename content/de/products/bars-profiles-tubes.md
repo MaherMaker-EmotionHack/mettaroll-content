@@ -3,7 +3,7 @@ title: Stäbe, Profile und Rohre
 slug: bars-profiles-tubes
 category: long-products
 description: >-
-  Handelsstäbe, Profile und Stahlrohre für Fertigung, Bau, mechanische und allgemeine industrielle Anforderungen.
+  Stabstahl, Profile und Stahlrohre für Fertigung, Bau sowie mechanische und allgemeine industrielle Anwendungen.
 image: /uploads/exec-82c9c594-5898-427f-95b9-f7ddcb36df8b.png
 featured: true
 order: 2
@@ -11,13 +11,13 @@ order: 2
 
 ## Enthaltene Produktarten
 
-- Flach-, Rund-, Vierkant- und Handelsstäbe
+- Flach-, Rund- und Vierkantstahl sowie weitere Stabstahlerzeugnisse
 - Offene und Hohlprofile
 - Geschweißte und nahtlose Stahlrohre
 
 ## Beschaffung und Verfügbarkeit
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und Destination. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
 
 ## Kommerzielle Spezifikationen
 

@@ -11,7 +11,7 @@ order: 2
 
 ## Inbegrepen productsoorten
 
-- Blanke laag-koolstof staaldraad
+- Blanke koolstofarme staaldraad
 - Verzinkte staaldraad
 - PVC- of nylon-gecoate draad
 
