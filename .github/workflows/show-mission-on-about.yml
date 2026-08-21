@@ -1,0 +1,77 @@
+name: Show Mission on About Page
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/show-mission-on-about.yml
+
+jobs:
+  add-mission:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private website
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Add mission section
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('site/mettaroll/src')
+          matches = [p for p in root.rglob('*.html') if 'page().vision.body' in p.read_text(encoding='utf-8')]
+          if len(matches) != 1:
+              raise RuntimeError(f'Expected one About template, found {matches}')
+          path = matches[0]
+          text = path.read_text(encoding='utf-8')
+          pattern = re.compile(r'(<section\b[^>]*class="[^"]*\bvision\b[^"]*"[^>]*>.*?page\(\)\.vision\.body.*?</section>)', re.S)
+          mission = '''
+
+          <section class="section vision mission" appReveal>
+            <h2 class="vision__heading">{{ $any(page()).mission.heading }}</h2>
+            <div class="vision__underline"></div>
+            <p class="vision__body">{{ $any(page()).mission.body }}</p>
+          </section>'''
+          updated, count = pattern.subn(r'\1' + mission, text, count=1)
+          if count != 1:
+              raise RuntimeError('Vision section pattern not found')
+          path.write_text(updated, encoding='utf-8')
+          print(f'Updated {path}')
+          PY
+
+      - name: Build website
+        shell: bash
+        working-directory: site/mettaroll
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm build
+          elif [ -f yarn.lock ]; then
+            corepack enable
+            yarn install --frozen-lockfile
+            yarn build
+          else
+            npm ci
+            npm run build
+          fi
+
+      - name: Commit and push website changes
+        shell: bash
+        working-directory: site
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mettaroll/src
+          git diff --cached --quiet && exit 0
+          git commit -m "Show localized mission on About page"
+          git push origin main
