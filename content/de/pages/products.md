@@ -4,9 +4,9 @@ hero_headline: PRODUKTE
 hero_image: /uploads/hero-image-for-products.jpg
 cta:
   heading: ANGEBOT ODER FRAGE?
-  body: Unser Vertriebsteam hilft Ihnen gerne, das richtige Produkt für Ihr Projekt zu finden.
-  link_text: Kontaktieren Sie unser Vertriebsteam
+  body: Suchen Sie verfügbaren Lagerbestand, bestimmte Stahlprodukte oder Exportlösungen? Sprechen Sie mit Mettaroll über Produkt, Menge, Zielmarkt und Handelsbedingungen.
+  link_text: Anfrage senden
 seo:
-  meta_title: Stahlprodukte — Coils, Langprodukte, Drähte | Mettaroll
-  meta_description: Entdecken Sie unser komplettes Sortiment an Stahlprodukten, einschließlich warm- und kaltgewalzter Coils, Langprodukte und Drähte.
+  meta_title: Stahlprodukte — Coils, Bänder, Bleche, Langprodukte & Drähte | Mettaroll
+  meta_description: Entdecken Sie das Mettaroll-Sortiment an Coils, Stahlbändern, Blechen, Langprodukten und Drahtprodukten für internationale B2B-Märkte.
 ---

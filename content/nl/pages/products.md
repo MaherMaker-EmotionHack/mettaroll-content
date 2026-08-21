@@ -4,9 +4,9 @@ hero_headline: PRODUCTEN
 hero_image: /uploads/hero-image-for-products.jpg
 cta:
   heading: OFFERTE OF VRAAG?
-  body: Ons verkoopteam helpt u graag het juiste product voor uw project te vinden.
-  link_text: Neem contact op met ons verkoopteam
+  body: Zoekt u beschikbare voorraad, specifieke staalproducten of exportoplossingen? Bespreek product, hoeveelheid, bestemmingsmarkt en handelsvoorwaarden met Mettaroll.
+  link_text: Aanvraag versturen
 seo:
-  meta_title: Staalproducten — Coils, lange producten, draden | Mettaroll
-  meta_description: Bekijk ons complete assortiment staalproducten inclusief warm- en koudgewalste coils, lange producten en draden.
+  meta_title: Staalproducten — Coils, strips, platen, lange producten & draad | Mettaroll
+  meta_description: Bekijk het Mettaroll-assortiment coils, staalstrips, platen, lange producten en draadproducten voor internationale B2B-markten.
 ---

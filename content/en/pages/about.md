@@ -35,7 +35,7 @@ values:
       description: We focus on structured processes, clear coordination, and
         consistent execution.
       icon: wrench
-    - title: "Commercial Flexibility  "
+    - title: Commercial Flexibility
       description: We adapt to different product needs, trade structures, markets, and
         customer requirements.
     - title: Strategic Partnerships

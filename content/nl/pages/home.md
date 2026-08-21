@@ -1,11 +1,10 @@
 ---
 title: Home
-hero_headline: Bridging Steel. Building Trust.
-hero_subtitle: Toonaangevende staalproductieoplossingen voor bouw,
-  infrastructuur en industriële toepassingen wereldwijd.
+hero_headline: Staal verbinden. Vertrouwen opbouwen.
+hero_subtitle: Internationale staalhandel, inkoop en exportoplossingen voor B2B-klanten op wereldwijde markten.
 hero_image: /uploads/hero-image-for-the-landing-page.jpeg
 overview:
-  heading: Voorraad & StaalleveringOverzicht
+  heading: Overzicht
   body: >-
     Mettaroll is een internationale staalhandel- en exportonderneming gevestigd
     in Rotterdam, Nederland.

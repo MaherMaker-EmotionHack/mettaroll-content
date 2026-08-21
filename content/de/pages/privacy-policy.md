@@ -64,7 +64,7 @@ Diese Website wird auf GitHub Pages (Microsoft) gehostet. GitHub erfasst automat
 
 Sie haben das Recht auf:
 - **Zugang** zu Ihren personenbezogenen Daten
-- **Berichtigung** ungrichtiger Daten
+- **Berichtigung** unrichtiger Daten
 - **Löschung** Ihrer Daten (Recht auf Vergessenwerden)
 - **Einschränkung** der Verarbeitung
 - **Widerspruch** gegen die Verarbeitung
@@ -78,7 +78,7 @@ Sie haben auch das Recht, eine Beschwerde bei der niederländischen Datenschutzb
 **Autoriteit Persoonsgegevens (AP)**
 - Website: [www.autoriteitpersoonsgegevens.nl](https://www.autoriteitpersoonsgegevens.nl)
 
-### 11. Änderungen Diese Richtlinie
+### 11. Änderungen dieser Richtlinie
 
 Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Die aktuelle Version ist immer auf dieser Seite verfügbar. Wir empfehlen Ihnen, diese Richtlinie regelmäßig zu überprüfen.
 

@@ -1,7 +1,7 @@
 ---
 title: الرئيسية
-hero_headline: Bridging Steel. Building Trust.
-hero_subtitle: حلول صناعة الصلب الرائدة للبناء والبنية التحتية والتطبيقات الصناعية حول العالم.
+hero_headline: نربط عالم الصلب. ونبني الثقة.
+hero_subtitle: حلول دولية لتجارة الصلب وتوريده وتصديره لعملاء الأعمال في الأسواق العالمية.
 hero_image: /uploads/hero-image-for-the-landing-page.jpeg
 overview:
   heading: نظرة عامة

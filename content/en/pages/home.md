@@ -1,8 +1,7 @@
 ---
 title: Home
-hero_headline: Bridging Steel. Building Trust
-hero_subtitle: Industry-leading steel manufacturing solutions for construction,
-  infrastructure, and industrial applications worldwide.
+hero_headline: Bridging Steel. Building Trust.
+hero_subtitle: International steel trading, sourcing and export solutions for B2B customers across global markets.
 hero_image: /uploads/hero-image-for-the-landing-page.jpeg
 overview:
   heading: Overview

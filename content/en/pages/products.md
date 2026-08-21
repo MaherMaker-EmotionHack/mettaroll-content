@@ -10,7 +10,5 @@ cta:
   link_text: Send an Inquiry
 seo:
   meta_title: Steel Products & Supply Solutions | Mettaroll BV
-  meta_description: Explore Mettaroll’s steel product range, including coils,
-    sheets, pipes, long products, and other steel materials for international
-    B2B markets.
+  meta_description: Explore Mettaroll’s range of coils, strips, sheets, long products and wire products for international B2B steel markets.
 ---

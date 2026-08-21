@@ -1,8 +1,7 @@
 ---
 title: Startseite
-hero_headline: Bridging Steel. Building Trust.
-hero_subtitle: Branchenführende Stahlfertigungslösungen für Bau, Infrastruktur
-  und industrielle Anwendungen weltweit.
+hero_headline: Stahl verbinden. Vertrauen schaffen.
+hero_subtitle: Internationaler Stahlhandel, Beschaffung und Exportlösungen für B2B-Kunden auf globalen Märkten.
 hero_image: /uploads/hero-image-for-the-landing-page.jpeg
 overview:
   heading: Überblick
