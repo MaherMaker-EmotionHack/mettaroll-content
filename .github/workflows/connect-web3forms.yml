@@ -24,6 +24,13 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           import re
+          import sys
+
+          def report_exception(error_type, error, traceback):
+              print(f'::error title=Contact form patch failed::{error}')
+              sys.__excepthook__(error_type, error, traceback)
+
+          sys.excepthook = report_exception
 
           root = Path('site/mettaroll/src')
 
