@@ -1,6 +1,6 @@
 ---
 title: Koudgewalste Coils
-slug: cold-rolled-coil
+slug: cold-rolled-coils
 category: coils
 description: Koudgewalste staalcoils met een glad oppervlak en nauwkeurige
   afmetingen voor productie, profielen, apparaten en verdere verwerking.

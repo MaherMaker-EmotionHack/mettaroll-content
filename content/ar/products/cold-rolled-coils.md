@@ -1,6 +1,6 @@
 ---
 title: لفائف مدرفلة على البارد
-slug: cold-rolled-coil
+slug: cold-rolled-coils
 category: coils
 description: لفائف فولاذ مدرفلة على البارد بسطح أملس وأبعاد دقيقة للتصنيع
   والمقاطع والأجهزة والمزيد من عمليات المعالجة.

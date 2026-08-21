@@ -1,6 +1,6 @@
 ---
 title: Warmgewalzte Coils
-slug: hot-rolled-coil
+slug: hot-rolled-coils
 category: coils
 description: Warmgewalzte Stahlcoils in verschiedenen Güten, Abmessungen und
   Qualitätsstufen für Bau, Fertigung, Konstruktion und industrielle Anwendungen.

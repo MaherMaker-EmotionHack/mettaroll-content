@@ -1,6 +1,6 @@
 ---
 title: Warmgewalste Coils
-slug: hot-rolled-coil
+slug: hot-rolled-coils
 category: coils
 description: Warmgewalste staalcoils in verschillende kwaliteiten, afmetingen en
   kwaliteitsniveaus voor bouw, productie, constructie en industriële
