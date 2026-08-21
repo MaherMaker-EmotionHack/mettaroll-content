@@ -118,13 +118,15 @@ jobs:
               'UAE': '{{ labels.uae }}',
               'Other': '{{ labels.other }}',
               'Message': '{{ labels.message }}',
-              'Send Message': '{{ labels.sendMessage }}',
           }
           for old, new in form_text.items():
               pattern = rf'(?<=>){re.escape(old)}(?=<)'
               updated, count = re.subn(pattern, new, updated, count=1)
               if count != 1:
                   raise RuntimeError(f'Form text not found: {old}')
+          updated, count = re.subn(r'(?<=>)\s*Send Message\s*(?=<)', '{{ labels.sendMessage }}', updated, count=1)
+          if count != 1:
+              raise RuntimeError('Form text not found: Send Message')
           if 'placeholder="How can we help you?"' not in updated:
               raise RuntimeError('Message placeholder not found')
           updated = updated.replace('placeholder="How can we help you?"', '[placeholder]="labels.messagePlaceholder"', 1)
