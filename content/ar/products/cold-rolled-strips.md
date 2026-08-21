@@ -4,7 +4,7 @@ slug: cold-rolled-strips
 category: strips
 description: >-
   شرائط مدرفلة على البارد بسماكة وتشطيب متجانسين للكبس والتشكيل والمكونات والطلاء اللاحق.
-image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
+image: /uploads/product-cold-rolled-slit-coils.webp
 featured: true
 order: 2
 ---

@@ -4,7 +4,7 @@ slug: hot-rolled-strips
 category: strips
 description: >-
   Warmgewalste staalstrips voor fabricage, constructiedelen en verdere verwerking in verschillende breedtes en kwaliteiten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+image: /uploads/product-hot-rolled-slit-coils.webp
 featured: true
 order: 1
 ---

@@ -4,7 +4,7 @@ slug: coated-steel-sheets
 category: sheets
 description: >-
   صفائح فولاذ مطلية بالزنك والسبائك لتحسين مقاومة التآكل ومراحل التصنيع اللاحقة.
-image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
+image: /uploads/product-coated-steel-sheets.webp
 featured: true
 order: 2
 ---

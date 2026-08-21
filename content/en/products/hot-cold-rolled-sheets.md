@@ -4,7 +4,7 @@ slug: hot-cold-rolled-sheets
 category: sheets
 description: >-
   Hot and cold rolled steel sheets grouped for fabrication, forming, construction and general industrial use.
-image: /uploads/sheets-for-product-page.jpeg
+image: /uploads/product-hot-cold-rolled-sheets.webp
 featured: true
 order: 1
 ---

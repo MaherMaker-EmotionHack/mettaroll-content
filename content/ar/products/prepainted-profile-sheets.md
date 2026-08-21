@@ -4,7 +4,7 @@ slug: prepainted-profile-sheets
 category: sheets
 description: >-
   صفائح مسطحة ومشكلة مطلية مسبقاً للأسقف والواجهات والألواح والمنتجات المصنعة ذات التشطيب الملون.
-image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
+image: /uploads/product-prepainted-profile-sheets.webp
 featured: true
 order: 3
 ---

@@ -4,7 +4,7 @@ slug: hot-rolled-strips
 category: strips
 description: >-
   شرائط فولاذ مدرفلة على الساخن للتصنيع والأجزاء الإنشائية ومراحل المعالجة اللاحقة بعروض ودرجات مختلفة.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+image: /uploads/product-hot-rolled-slit-coils.webp
 featured: true
 order: 1
 ---

@@ -4,7 +4,7 @@ slug: hot-cold-rolled-sheets
 category: sheets
 description: >-
   Warm- und kaltgewalzte Stahlbleche für Fertigung, Umformung, Bau und allgemeine industrielle Anwendungen.
-image: /uploads/sheets-for-product-page.jpeg
+image: /uploads/product-hot-cold-rolled-sheets.webp
 featured: true
 order: 1
 ---

@@ -4,7 +4,7 @@ slug: hot-rolled-strips
 category: strips
 description: >-
   Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+image: /uploads/product-hot-rolled-slit-coils.webp
 featured: true
 order: 1
 ---
