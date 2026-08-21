@@ -132,10 +132,13 @@ jobs:
               'Submit button disabled binding',
           )
           html, label_count = re.subn(
-              r'\{\{\s*labels\s*\.\s*sendMessage\s*\}\}',
-              "{{ isSubmitting ? labels.sending : labels.sendMessage }}",
+              r'(<app-button\b[^>]*variant="contact-submit"[^>]*>).*?(</app-button>)',
+              r'''\1
+              {{ isSubmitting ? labels.sending : labels.sendMessage }}
+            \2''',
               html,
               count=1,
+              flags=re.S,
           )
           if label_count != 1:
               raise RuntimeError('Submit button label not found')
