@@ -77,9 +77,16 @@ jobs:
           contact_page = find_one('steel manufacturing solutions', '.html')
           text = contact_page.read_text(encoding='utf-8')
           updated = text
+          updated, count = re.subn(
+              r'Ready\s+to\s+start\s+your\s+project\s+or\s+you\s+need\s+more\s+information\s+about\s+our\s+steel\s+manufacturing\s+solutions\?',
+              '{{ $any(page()).intro_body }}',
+              updated,
+              count=1,
+          )
+          if count != 1:
+              raise RuntimeError('Contact introduction text not found')
           replacements = [
               ('Get in Touch', '{{ $any(page()).intro_heading }}'),
-              ('Ready to start your project or you need more information about our steel manufacturing solutions?', '{{ $any(page()).intro_body }}'),
               ('Fill out the form below.', '{{ $any(page()).intro_instruction }}'),
               ('Get in Touch', '{{ $any(page()).whatsapp_heading }}'),
               ('Via WhatsAPP', '{{ $any(page()).whatsapp_subheading }}'),
