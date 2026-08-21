@@ -1,0 +1,38 @@
+name: Inspect Site Routing Source
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/inspect-site-routing.yml
+
+permissions:
+  contents: read
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private site repository
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+          persist-credentials: false
+
+      - name: Locate product links and scroll routing
+        working-directory: site
+        shell: bash
+        run: |
+          git grep -n -C 4 \
+            -e "Product details" \
+            -e "REQUEST QUOTE" \
+            -e "landing-page-products-01" \
+            -e "scrollPositionRestoration" \
+            -e "withInMemoryScrolling" \
+            -e "provideRouter" \
+            -e "routerLink" \
+            > "$RUNNER_TEMP/site-routing-matches.txt" || true
+
+          sed -n '1,1000p' "$RUNNER_TEMP/site-routing-matches.txt"
