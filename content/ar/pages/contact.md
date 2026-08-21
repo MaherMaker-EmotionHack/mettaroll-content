@@ -13,7 +13,7 @@ address_label: العنوان
 office:
   heading: زوروا مكتبنا
   address: "Wilhelminakade 173\n3072 AP Rotterdam\nهولندا"
-  map_embed_url: ""
+  map_embed_url: "https://www.google.com/maps?q=Wilhelminakade%20173%2C%203072%20AP%20Rotterdam%2C%20Netherlands&output=embed"
 seo:
   meta_title: اتصل بنا — ميتارول | روتردام، هولندا
   meta_description: تواصل مع ميتارول للحصول على عروض أسعار الصلب والشراكات واستفسارات المنتجات. مقرنا في روتردام.

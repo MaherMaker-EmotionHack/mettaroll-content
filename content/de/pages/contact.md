@@ -13,7 +13,7 @@ address_label: Adresse
 office:
   heading: Besuchen Sie unser Büro
   address: "Wilhelminakade 173\n3072 AP Rotterdam\nNiederlande"
-  map_embed_url: ""
+  map_embed_url: "https://www.google.com/maps?q=Wilhelminakade%20173%2C%203072%20AP%20Rotterdam%2C%20Netherlands&output=embed"
 seo:
   meta_title: Kontakt — Mettaroll | Rotterdam, Niederlande
   meta_description: Kontaktieren Sie Mettaroll für Stahlangebote, Partnerschaften und Produktanfragen. Hauptsitz in Rotterdam.
