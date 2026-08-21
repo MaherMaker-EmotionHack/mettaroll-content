@@ -1,0 +1,208 @@
+name: Fix Language Switch and Localized SEO
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/fix-language-switch-and-seo.yml
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private website
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Preserve page on language switch and add localized SEO links
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('site/mettaroll/src')
+
+          def find_one(needle: str, suffix: str) -> Path:
+              matches = [
+                  path for path in root.rglob(f'*{suffix}')
+                  if needle in path.read_text(encoding='utf-8')
+              ]
+              if len(matches) != 1:
+                  raise RuntimeError(
+                      f'Expected one {suffix} file containing {needle!r}, found {matches}'
+                  )
+              return matches[0]
+
+          def save(path: Path, before: str, after: str) -> None:
+              if before == after:
+                  raise RuntimeError(f'No change made to {path}')
+              path.write_text(after, encoding='utf-8')
+              print(f'Updated {path}')
+
+          navbar_ts = find_one('export class NavbarComponent', '.ts')
+          navbar_template = find_one('navbar__lang-btn', '.html')
+
+          template_text = navbar_template.read_text(encoding='utf-8')
+          template_updated, route_count = re.subn(
+              r'''\[routerLink\]\s*=\s*"\s*'/'\s*\+\s*([A-Za-z_$][\w$]*)\.code\s*"''',
+              r'''[routerLink]="languageRoute(\1.code)"''',
+              template_text,
+          )
+          if route_count < 2:
+              raise RuntimeError(
+                  f'Expected at least two desktop/mobile language routes, changed {route_count}'
+              )
+          save(navbar_template, template_text, template_updated)
+
+          navbar_text = navbar_ts.read_text(encoding='utf-8')
+          class_marker = 'export class NavbarComponent {'
+          if class_marker not in navbar_text:
+              raise RuntimeError('Navbar class marker not found')
+          language_method = r'''
+            languageRoute(languageCode: string): string {
+              const supportedLanguages = new Set(['en', 'ar', 'de', 'nl']);
+              const pathSegments = globalThis.location.pathname.split('/').filter(Boolean);
+              const currentLanguageIndex = pathSegments.findIndex((segment) =>
+                supportedLanguages.has(segment),
+              );
+              const currentPageSegments =
+                currentLanguageIndex >= 0 ? pathSegments.slice(currentLanguageIndex + 1) : [];
+
+              return `/${[languageCode, ...currentPageSegments].join('/')}`;
+            }
+          '''
+          navbar_updated = navbar_text.replace(
+              class_marker,
+              class_marker + language_method,
+              1,
+          )
+          save(navbar_ts, navbar_text, navbar_updated)
+
+          seo_ts = find_one('export class SeoService', '.ts')
+          seo_text = seo_ts.read_text(encoding='utf-8')
+          method_match = re.search(
+              r'\n\s*(?:private\s+)?setCanonical\s*\([^)]*\)\s*(?::\s*void\s*)?\{',
+              seo_text,
+          )
+          if not method_match:
+              raise RuntimeError('SEO setCanonical method not found')
+
+          opening_brace = seo_text.find('{', method_match.start())
+          depth = 0
+          closing_brace = None
+          for index in range(opening_brace, len(seo_text)):
+              character = seo_text[index]
+              if character == '{':
+                  depth += 1
+              elif character == '}':
+                  depth -= 1
+                  if depth == 0:
+                      closing_brace = index
+                      break
+          if closing_brace is None:
+              raise RuntimeError('SEO setCanonical closing brace not found')
+
+          localized_canonical_method = r'''
+            private setCanonical(url: string): void {
+              const supportedLanguages = ['en', 'de', 'nl', 'ar'] as const;
+              const documentLanguage = this.doc.documentElement.lang;
+              const currentLanguage = supportedLanguages.includes(
+                documentLanguage as (typeof supportedLanguages)[number],
+              )
+                ? documentLanguage
+                : 'en';
+              const parsedUrl = new URL(url, 'https://mettaroll.com');
+              const languageNeutralSegments = parsedUrl.pathname.split('/').filter(Boolean);
+
+              if (
+                supportedLanguages.includes(
+                  languageNeutralSegments[0] as (typeof supportedLanguages)[number],
+                )
+              ) {
+                languageNeutralSegments.shift();
+              }
+
+              const suffix = languageNeutralSegments.length
+                ? `/${languageNeutralSegments.join('/')}`
+                : '';
+              const localizedUrls: Record<string, string> = {};
+
+              for (const language of supportedLanguages) {
+                localizedUrls[language] = `https://mettaroll.com/${language}${suffix}`;
+              }
+
+              const canonicalUrl = localizedUrls[currentLanguage];
+              let canonicalLink = this.doc.querySelector<HTMLLinkElement>(
+                'link[rel="canonical"]',
+              );
+
+              if (!canonicalLink) {
+                canonicalLink = this.doc.createElement('link');
+                canonicalLink.setAttribute('rel', 'canonical');
+                this.doc.head.appendChild(canonicalLink);
+              }
+              canonicalLink.setAttribute('href', canonicalUrl);
+              this.meta.updateTag({ property: 'og:url', content: canonicalUrl });
+
+              this.doc
+                .querySelectorAll('link[rel="alternate"][hreflang]')
+                .forEach((link) => link.remove());
+
+              for (const language of supportedLanguages) {
+                const alternateLink = this.doc.createElement('link');
+                alternateLink.setAttribute('rel', 'alternate');
+                alternateLink.setAttribute('hreflang', language);
+                alternateLink.setAttribute('href', localizedUrls[language]);
+                this.doc.head.appendChild(alternateLink);
+              }
+
+              const defaultLink = this.doc.createElement('link');
+              defaultLink.setAttribute('rel', 'alternate');
+              defaultLink.setAttribute('hreflang', 'x-default');
+              defaultLink.setAttribute('href', localizedUrls['en']);
+              this.doc.head.appendChild(defaultLink);
+            }'''
+
+          seo_updated = (
+              seo_text[:method_match.start()]
+              + '\n'
+              + localized_canonical_method
+              + seo_text[closing_brace + 1:]
+          )
+          save(seo_ts, seo_text, seo_updated)
+          PY
+
+      - name: Build website
+        shell: bash
+        working-directory: site/mettaroll
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm build
+          elif [ -f yarn.lock ]; then
+            corepack enable
+            yarn install --frozen-lockfile
+            yarn build
+          else
+            npm ci
+            npm run build
+          fi
+
+      - name: Commit and push website changes
+        shell: bash
+        working-directory: site
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mettaroll/src
+          git diff --cached --quiet && exit 0
+          git commit -m "Preserve routes across languages and localize SEO links"
+          git push origin main
