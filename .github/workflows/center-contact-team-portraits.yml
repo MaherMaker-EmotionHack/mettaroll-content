@@ -1,0 +1,103 @@
+name: Center Contact Team Portraits
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/center-contact-team-portraits.yml
+
+permissions:
+  contents: read
+
+jobs:
+  center:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private site repository
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Lower portrait crop inside circular avatars
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('mettaroll/src')
+          matches = []
+          for path in root.rglob('*'):
+              if path.is_file() and path.suffix in {'.ts', '.scss', '.css', '.html'}:
+                  text = path.read_text(encoding='utf-8')
+                  if '.team-card__avatar' in text:
+                      matches.append((path, text))
+
+          if len(matches) != 1:
+              raise SystemExit(f'Expected one team avatar style file, found {len(matches)}')
+
+          path, text = matches[0]
+          if 'object-position:' in text:
+              updated, count = re.subn(
+                  r'(\.team-card__avatar\s*\{[^}]*?object-position:)\s*[^;]+;',
+                  r'\1 center 25%;',
+                  text,
+                  count=1,
+                  flags=re.S,
+              )
+          else:
+              updated, count = re.subn(
+                  r'(\.team-card__avatar\s*\{[^}]*?object-fit:\s*cover\s*;)',
+                  r'\1\n      object-position: center 25%;',
+                  text,
+                  count=1,
+                  flags=re.S,
+              )
+
+          if count != 1:
+              raise SystemExit(f'Expected one avatar crop rule update, found {count}')
+
+          path.write_text(updated, encoding='utf-8')
+          print(path)
+          PY
+
+          grep -RFn 'object-position: center 25%' mettaroll/src
+          git diff --check
+          git diff -- mettaroll/src
+
+      - name: Build site
+        working-directory: site/mettaroll
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -f package-lock.json ]]; then
+            npm ci
+            npm run build
+          elif [[ -f pnpm-lock.yaml ]]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm run build
+          elif [[ -f yarn.lock ]]; then
+            corepack enable
+            yarn install --immutable
+            yarn build
+          else
+            npm install
+            npm run build
+          fi
+
+      - name: Commit and push private site update
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Mettaroll B.V.'
+          git config user.email 'mettarollbv@gmail.com'
+          git add mettaroll/src
+          git diff --cached --check
+          git commit -m 'Center contact team portraits'
+          git push origin HEAD:main
