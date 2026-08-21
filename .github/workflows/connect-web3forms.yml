@@ -209,15 +209,6 @@ jobs:
           )
           if disabled_count != 1:
               raise RuntimeError('Submit disabled binding not found')
-          html_updated, label_count = re.subn(
-              r'\{\{\s*labels\.sendMessage\s*\}\}',
-              '{{ submitLabel }}',
-              html_updated,
-              count=1,
-          )
-          if label_count != 1:
-              raise RuntimeError('Submit label not found')
-
           submit_block = re.search(
               r'(?P<indent>^[ \t]*)<div\s+class="contact-form__submit">.*?</div>',
               html_updated,
@@ -226,8 +217,17 @@ jobs:
           if not submit_block:
               raise RuntimeError('Submit block not found')
           indent = submit_block.group('indent')
+          updated_submit_block, button_count = re.subn(
+              r'(<app-button\b[^>]*>).*?(</app-button>)',
+              r'\1\n    {{ submitLabel }}\n  \2',
+              submit_block.group(0),
+              count=1,
+              flags=re.S,
+          )
+          if button_count != 1:
+              raise RuntimeError('Submit button component not found')
           status_block = (
-              submit_block.group(0)
+              updated_submit_block
               + '\n'
               + indent
               + "@if (submissionState() !== 'idle') {\n"
