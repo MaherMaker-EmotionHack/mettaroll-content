@@ -290,7 +290,7 @@ jobs:
             (set -e; npm ci; npm run build) 2>&1 | tee "$build_log" || build_status=${PIPESTATUS[0]}
           fi
           if [ "$build_status" -ne 0 ]; then
-            tail -n 50 "$build_log" | while IFS= read -r line; do
+            grep -Ei 'error|TS[0-9]{4}|NG[0-9]{4}|contact-form' "$build_log" | tail -n 8 | while IFS= read -r line; do
               if [ -n "$line" ]; then
                 line="${line//'%'/'%25'}"
                 line="${line//$'\r'/'%0D'}"
