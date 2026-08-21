@@ -1,0 +1,96 @@
+name: Rename Contact Full Name Field
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/rename-full-name-field.yml
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private website
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Rename the visible name field in four languages
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          root = Path('site/mettaroll/src')
+
+          ts_matches = [
+              path for path in root.rglob('*.ts')
+              if 'export class ContactFormComponent' in path.read_text(encoding='utf-8')
+          ]
+          if len(ts_matches) != 1:
+              raise RuntimeError(f'Expected one contact form TypeScript file, found {ts_matches}')
+
+          ts_path = ts_matches[0]
+          ts_text = ts_path.read_text(encoding='utf-8')
+          replacements = {
+              "firstName: 'First Name'": "firstName: 'Full Name'",
+              "firstName: 'Vorname'": "firstName: 'Vollständiger Name'",
+              "firstName: 'Voornaam'": "firstName: 'Volledige naam'",
+              "firstName: 'الاسم الأول'": "firstName: 'الاسم الكامل'",
+          }
+          for old, new in replacements.items():
+              if ts_text.count(old) != 1:
+                  raise RuntimeError(f'Expected one translation entry {old!r}')
+              ts_text = ts_text.replace(old, new, 1)
+          ts_path.write_text(ts_text, encoding='utf-8')
+          print(f'Updated {ts_path}')
+
+          html_matches = [
+              path for path in root.rglob('*.html')
+              if 'formControlName="firstName"' in path.read_text(encoding='utf-8')
+          ]
+          if len(html_matches) != 1:
+              raise RuntimeError(f'Expected one contact form template, found {html_matches}')
+          html_path = html_matches[0]
+          html_text = html_path.read_text(encoding='utf-8')
+          if html_text.count('placeholder="John"') != 1:
+              raise RuntimeError('Expected one first-name placeholder')
+          html_path.write_text(
+              html_text.replace('placeholder="John"', 'placeholder="John Smith"', 1),
+              encoding='utf-8',
+          )
+          print(f'Updated {html_path}')
+          PY
+
+      - name: Build website
+        shell: bash
+        working-directory: site/mettaroll
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm build
+          elif [ -f yarn.lock ]; then
+            corepack enable
+            yarn install --frozen-lockfile
+            yarn build
+          else
+            npm ci
+            npm run build
+          fi
+
+      - name: Commit and push website changes
+        shell: bash
+        working-directory: site
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mettaroll/src
+          git diff --cached --quiet && exit 0
+          git commit -m "Rename the contact field to full name"
+          git push origin main
