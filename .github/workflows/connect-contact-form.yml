@@ -132,7 +132,7 @@ jobs:
               'Submit button disabled binding',
           )
           html, label_count = re.subn(
-              r'\{\{\s*labels\.sendMessage\s*\}\}',
+              r'\{\{\s*labels\s*\.\s*sendMessage\s*\}\}',
               "{{ isSubmitting ? labels.sending : labels.sendMessage }}",
               html,
               count=1,
