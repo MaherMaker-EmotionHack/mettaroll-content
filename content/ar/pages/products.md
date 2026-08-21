@@ -1,6 +1,8 @@
 ---
 title: المنتجات
 hero_headline: المنتجات
+products_by: المنتجات حسب الفئة
+contact_label: اتصل بنا!
 hero_image: /uploads/hero-image-for-products.jpg
 cta:
   heading: عرض سعر أو استفسار؟

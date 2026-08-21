@@ -1,6 +1,8 @@
 ---
 title: Producten
 hero_headline: PRODUCTEN
+products_by: Producten per categorie
+contact_label: CONTACT!
 hero_image: /uploads/hero-image-for-products.jpg
 cta:
   heading: OFFERTE OF VRAAG?

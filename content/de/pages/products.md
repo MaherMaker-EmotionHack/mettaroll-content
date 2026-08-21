@@ -1,6 +1,8 @@
 ---
 title: Produkte
 hero_headline: PRODUKTE
+products_by: Produkte nach Kategorien
+contact_label: KONTAKT!
 hero_image: /uploads/hero-image-for-products.jpg
 cta:
   heading: ANGEBOT ODER FRAGE?

@@ -1,6 +1,8 @@
 ---
 title: Products
 hero_headline: PRODUCTS
+products_by: Products by Category
+contact_label: CONTACT US!
 hero_image: /uploads/hero-image-for-products-390w.webp
 cta:
   heading: QUOTE OR QUESTION?
