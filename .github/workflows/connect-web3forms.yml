@@ -106,7 +106,7 @@ jobs:
 
             get submitLabel(): string {
               if (!this.isSubmitting()) {
-                return this.labels.sendMessage;
+                return this.labels['sendMessage'];
               }
               const messages: Record<string, string> = {
                 en: 'Sending…',
