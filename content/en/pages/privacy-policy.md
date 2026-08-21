@@ -9,85 +9,35 @@ seo:
 
 ## Privacy Policy
 
-**Mettaroll B.V.** | Rotterdam, Netherlands | info@mettaroll.com
+**Mettaroll B.V.** | Wilhelminakade 173, 3072 AP Rotterdam, Netherlands | info@mettaroll.com
 
-Last updated: May 2026
+Last updated: August 2026
 
-### 1. Who We Are
+### 1. Data We Collect
 
-Mettaroll B.V. is a steel trading company based in the Netherlands. For questions about your personal data or to exercise your rights, please contact us at info@mettaroll.com.
+When you contact us, we may receive your full name, company, email address, phone number, country and message. Mettaroll B.V. is responsible for this data.
 
-### 2. What Data We Collect
+### 2. Purpose and Legal Basis
 
-When you use the contact form on this website, we collect:
-- Your name
-- Your email address
-- Any information you include in your message
-- Your phone number (if you choose to provide it)
+We use the data only to answer your inquiry, prepare a quotation and maintain related B2B correspondence. The legal basis is our legitimate interest under Article 6(1)(f) GDPR. We do not use automated decision-making or profiling.
 
-No other personal data is collected when you browse this website.
+### 3. Services and Cookies
 
-### 3. Why We Use Your Data
+- [Web3Forms](https://web3forms.com/privacy) delivers contact-form submissions to us.
+- [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) hosts the website and may keep technical security logs.
+- [Google Maps](https://policies.google.com/privacy) displays our office location and may receive technical data when the map loads.
+- [WhatsApp](https://www.whatsapp.com/legal/privacy-policy) applies only if you use the WhatsApp link.
 
-We use your information solely to respond to your inquiry about our products and services.
+We do not use our own analytics or marketing cookies. Third-party services may use their own technologies and may process data outside the EEA under their applicable safeguards.
 
-### 4. Legal Basis
+### 4. Retention and Security
 
-We process your data on the basis of legitimate interest (Article 6(1)(f) GDPR): you have contacted us voluntarily, and we have a legitimate interest in responding to your inquiry and improving our customer service.
+We delete contact inquiries after they are handled and no later than 12 months after receipt, unless a legal obligation requires longer storage. We use appropriate technical and organisational measures to protect personal data.
 
-### 5. How Long We Keep Your Data
+### 5. Your Rights
 
-- **Contact messages**: We delete contact form submissions once the inquiry has been handled, and no later than 12 months after receipt.
-- **Server logs**: Managed by GitHub per their policy.
+You may request access, correction, deletion, restriction, objection or data portability where applicable by emailing info@mettaroll.com. You may also complain to the [Dutch Data Protection Authority](https://www.autoriteitpersoonsgegevens.nl).
 
-### 6. Who Has Access to Your Data
+### 6. Updates
 
-Your data may be shared with:
-
-- **GitHub Inc. (Microsoft)** — website hosting provider
-  - [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-- **Web3Forms** — processes and delivers the information submitted through our contact form to Mettaroll
-  - [Web3Forms Privacy Policy](https://web3forms.com/privacy)
-- **WhatsApp (Meta)** — only when you click the WhatsApp link on our website
-  - [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy)
-
-### 7. Cookies
-
-This website does not use cookies.
-
-### 8. WhatsApp Link
-
-Our website contains a link to WhatsApp (Meta Platforms). When you click this link, you leave our website and are subject to WhatsApp's privacy policy and terms of service.
-
-### 9. Hosting and Server Logs
-
-This website is hosted on GitHub Pages (Microsoft). GitHub automatically records technical data such as IP addresses, browser type, and pages visited for security and operational purposes. This data is governed by GitHub's privacy statement.
-
-### 10. Your Rights Under the GDPR
-
-You have the right to:
-- **Access** your personal data
-- **Correct** inaccurate data
-- **Request deletion** of your data (right to be forgotten)
-- **Restrict** processing of your data
-- **Object** to processing
-- **Data portability** — receive your data in a structured format
-- **Withdraw consent** (where applicable)
-
-To exercise any of these rights, contact us at info@mettaroll.com.
-
-You also have the right to file a complaint with the Dutch Data Protection Authority:
-
-**Autoriteit Persoonsgegevens (Dutch DPA)**
-- Website: [www.autoriteitpersoonsgegevens.nl](https://www.autoriteitpersoonsgegevens.nl)
-
-### 11. Changes to This Policy
-
-We may update this privacy policy from time to time. The latest version is always available on this page. We encourage you to review this policy periodically.
-
-### 12. Contact Us
-
-If you have questions about this privacy policy or how we handle your data, please contact us:
-
-**Email**: info@mettaroll.com
-**Address**: Mettaroll B.V., Rotterdam, Netherlands
+We may update this notice when our website or services change. The current version is always published on this page.

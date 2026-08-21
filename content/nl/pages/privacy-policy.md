@@ -9,85 +9,35 @@ seo:
 
 ## Privacybeleid
 
-**Mettaroll B.V.** | Rotterdam, Nederland | info@mettaroll.com
+**Mettaroll B.V.** | Wilhelminakade 173, 3072 AP Rotterdam, Nederland | info@mettaroll.com
 
-Laatst bijgewerkt: Mei 2026
+Laatst bijgewerkt: augustus 2026
 
-### 1. Wie Wij Zijn
+### 1. Gegevens die wij verzamelen
 
-Mettaroll B.V. is een staalhandelsbedrijf gevestigd in Nederland. Voor vragen over uw persoonsgegevens of om uw rechten uit te oefenen, kunt u contact met ons opnemen via info@mettaroll.com.
+Wanneer u contact met ons opneemt, kunnen wij uw volledige naam, bedrijf, e-mailadres, telefoonnummer, land en bericht ontvangen. Mettaroll B.V. is verantwoordelijk voor deze gegevens.
 
-### 2. Welke Gegevens We Verzamelen
+### 2. Doel en rechtsgrond
 
-Wanneer u het contactformulier op deze website invult, verzamelen wij:
-- Uw naam
-- Uw e-mailadres
-- Alle informatie die u in uw bericht opneemt
-- Uw telefoonnummer (indien u dit vrijwillig verstrekt)
+Wij gebruiken de gegevens alleen om uw aanvraag te beantwoorden, een offerte voor te bereiden en de bijbehorende B2B-correspondentie te voeren. De rechtsgrond is ons gerechtvaardigd belang volgens artikel 6, lid 1, onder f AVG. Wij gebruiken geen geautomatiseerde besluitvorming of profilering.
 
-Bij het surfen op deze website verzamelen wij geen andere persoonsgegevens.
+### 3. Diensten en cookies
 
-### 3. Waarom We Uw Gegevens Gebruiken
+- [Web3Forms](https://web3forms.com/privacy) bezorgt contactformulieraanvragen aan ons.
+- [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) host de website en kan technische beveiligingslogboeken bewaren.
+- [Google Maps](https://policies.google.com/privacy) toont onze kantoorlocatie en kan bij het laden van de kaart technische gegevens ontvangen.
+- [WhatsApp](https://www.whatsapp.com/legal/privacy-policy) is alleen van toepassing als u de WhatsApp-link gebruikt.
 
-We gebruiken uw gegevens uitsluitend om te reageren op uw informatieverzoek over onze producten en diensten.
+Wij gebruiken geen eigen analyse- of marketingcookies. Derde partijen kunnen hun eigen technologieën gebruiken en gegevens buiten de EER verwerken op basis van hun toepasselijke waarborgen.
 
-### 4. Juridische Grondslag
+### 4. Bewaartermijn en beveiliging
 
-We verwerken uw gegevens op basis van gerechtvaardigd belang (artikel 6(1)(f) AVG): u hebt ons vrijwillig benaderd, en we hebben een gerechtvaardigd belang om op uw verzoek te reageren en onze klantenservice te verbeteren.
+Wij verwijderen contactaanvragen nadat ze zijn afgehandeld en uiterlijk 12 maanden na ontvangst, tenzij een wettelijke verplichting een langere bewaring vereist. Wij nemen passende technische en organisatorische beveiligingsmaatregelen.
 
-### 5. Hoe Lang We Uw Gegevens Bewaren
+### 5. Uw rechten
 
-- **Contactformulierberichten**: We verwijderen contactformulierinzendingen nadat het verzoek is afgehandeld, en zeker niet later dan 12 maanden na ontvangst.
-- **Serverlogboeken**: Beheerd door GitHub volgens hun beleid.
+U kunt inzage, correctie, verwijdering, beperking, bezwaar of – waar van toepassing – gegevensoverdraagbaarheid aanvragen via info@mettaroll.com. U kunt ook een klacht indienen bij de [Autoriteit Persoonsgegevens](https://www.autoriteitpersoonsgegevens.nl).
 
-### 6. Wie Toegang Tot Uw Gegevens Heeft
+### 6. Wijzigingen
 
-Uw gegevens kunnen worden gedeeld met:
-
-- **GitHub Inc. (Microsoft)** — websitehostingprovider
-  - [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-- **Web3Forms** — verwerkt en bezorgt de via ons contactformulier ingevulde gegevens aan Mettaroll
-  - [Privacybeleid van Web3Forms](https://web3forms.com/privacy)
-- **WhatsApp (Meta)** — alleen wanneer u op de WhatsApp-link op onze website klikt
-  - [WhatsApp Privacybeleid](https://www.whatsapp.com/legal/privacy-policy)
-
-### 7. Cookies
-
-Deze website gebruikt geen cookies.
-
-### 8. WhatsApp-Link
-
-Onze website bevat een link naar WhatsApp (Meta Platforms). Wanneer u op deze link klikt, verlaat u onze website en bent u onderworpen aan het privacybeleid en de servicevoorwaarden van WhatsApp.
-
-### 9. Hosting en Serverlogboeken
-
-Deze website wordt gehost op GitHub Pages (Microsoft). GitHub registreert automatisch technische gegevens zoals IP-adressen, browsertype en bezochte pagina's voor beveiligings- en bedrijfsdoeleinden. Deze gegevens worden beheerst door de privacyverklaring van GitHub.
-
-### 10. Uw Rechten Onder de AVG
-
-U hebt het recht om:
-- **Inzage** in uw persoonsgegevens
-- **Correctie** van onjuiste gegevens
-- **Verwijdering** van uw gegevens (recht op vergetelheid)
-- **Beperking** van verwerking
-- **Bezwaar** tegen verwerking in te dienen
-- **Gegevensportabiliteit** — uw gegevens in gestructureerde vorm ontvangen
-- **Toestemming in te trekken** (waar van toepassing)
-
-Om deze rechten uit te oefenen, neem contact op via info@mettaroll.com.
-
-U hebt ook het recht om een klacht in te dienen bij de Nederlandse Autoriteit Persoonsgegevens:
-
-**Autoriteit Persoonsgegevens (AP)**
-- Website: [www.autoriteitpersoonsgegevens.nl](https://www.autoriteitpersoonsgegevens.nl)
-
-### 11. Wijzigingen in Dit Beleid
-
-We kunnen dit privacybeleid van tijd tot tijd aanpassen. De meest recente versie is altijd beschikbaar op deze pagina. We raden u aan dit beleid regelmatig te controleren.
-
-### 12. Contact Opnemen
-
-Hebt u vragen over dit privacybeleid of hoe wij met uw gegevens omgaan, neem dan contact met ons op:
-
-**E-mail**: info@mettaroll.com
-**Adres**: Mettaroll B.V., Rotterdam, Nederland
+Wij kunnen deze verklaring aanpassen wanneer onze website of diensten veranderen. De actuele versie staat altijd op deze pagina.
