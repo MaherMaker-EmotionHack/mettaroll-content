@@ -1,0 +1,124 @@
+name: Localize Product Detail Interface
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/localize-product-detail-interface.yml
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private website
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Localize product pages and footer country
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('site/mettaroll/src')
+
+          def find_one(needle):
+              matches = [p for p in root.rglob('*.html') if needle in p.read_text(encoding='utf-8')]
+              if len(matches) != 1:
+                  raise RuntimeError(f'Expected one template containing {needle!r}, found {matches}')
+              return matches[0]
+
+          def add_component_property(template, needle, replacement, property_code):
+              text = template.read_text(encoding='utf-8')
+              if needle not in text:
+                  raise RuntimeError(f'{needle!r} not found in {template}')
+              updated = text.replace(needle, replacement)
+              template.write_text(updated, encoding='utf-8')
+
+              candidates = [p for p in template.parent.glob('*.ts') if 'export class ' in p.read_text(encoding='utf-8')]
+              if len(candidates) != 1:
+                  raise RuntimeError(f'Expected one component class beside {template}, found {candidates}')
+              ts = candidates[0]
+              source = ts.read_text(encoding='utf-8')
+              match = re.search(r'export class \w+Component\s*\{', source)
+              if not match:
+                  raise RuntimeError(f'Component class marker not found in {ts}')
+              source = source[:match.end()] + property_code + source[match.end():]
+              ts.write_text(source, encoding='utf-8')
+              print(f'Updated {template} and {ts}')
+
+          product_list = find_one('PRODUCT LIST')
+          add_component_property(
+              product_list,
+              'PRODUCT LIST',
+              '{{ productListLabel }}',
+              """
+                readonly productListLabel = ({ en: 'PRODUCT LIST', de: 'PRODUKTLISTE', nl: 'PRODUCTLIJST', ar: 'قائمة المنتجات' } as Record<string, string>)[document.documentElement.lang] ?? 'PRODUCT LIST';
+              """,
+          )
+
+          product_details = find_one('Product details')
+          add_component_property(
+              product_details,
+              'Product details',
+              '{{ productDetailsLabel }}',
+              """
+                readonly productDetailsLabel = ({ en: 'Product details', de: 'Produktdetails', nl: 'Productdetails', ar: 'تفاصيل المنتج' } as Record<string, string>)[document.documentElement.lang] ?? 'Product details';
+              """,
+          )
+
+          request_quote = find_one('REQUEST QUOTE')
+          add_component_property(
+              request_quote,
+              'REQUEST QUOTE',
+              '{{ requestQuoteLabel }}',
+              """
+                readonly requestQuoteLabel = ({ en: 'REQUEST QUOTE', de: 'ANGEBOT ANFORDERN', nl: 'OFFERTE AANVRAGEN', ar: 'اطلب عرض سعر' } as Record<string, string>)[document.documentElement.lang] ?? 'REQUEST QUOTE';
+              """,
+          )
+
+          footer = find_one('settings.address.country')
+          add_component_property(
+              footer,
+              '{{ settings.address.country }}',
+              '{{ countryLabel }}',
+              """
+                readonly countryLabel = ({ en: 'Netherlands', de: 'Niederlande', nl: 'Nederland', ar: 'هولندا' } as Record<string, string>)[document.documentElement.lang] ?? 'Netherlands';
+              """,
+          )
+          PY
+
+      - name: Build website
+        shell: bash
+        working-directory: site/mettaroll
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm build
+          elif [ -f yarn.lock ]; then
+            corepack enable
+            yarn install --frozen-lockfile
+            yarn build
+          else
+            npm ci
+            npm run build
+          fi
+
+      - name: Commit and push website changes
+        shell: bash
+        working-directory: site
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mettaroll/src
+          git diff --cached --quiet && exit 0
+          git commit -m "Localize product detail interface"
+          git push origin main
