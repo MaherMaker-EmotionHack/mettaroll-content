@@ -25,14 +25,22 @@ jobs:
         working-directory: site
         shell: bash
         run: |
-          git grep -n -C 4 \
-            -e "Product details" \
-            -e "REQUEST QUOTE" \
-            -e "landing-page-products-01" \
-            -e "scrollPositionRestoration" \
-            -e "withInMemoryScrolling" \
-            -e "provideRouter" \
-            -e "routerLink" \
-            > "$RUNNER_TEMP/site-routing-matches.txt" || true
+          mapfile -t candidate_files < <(
+            find . -type f \
+              \( -iname '*product*.ts' -o -iname '*product*.html' \
+                 -o -iname '*contact*.ts' -o -iname '*contact*.html' \
+                 -o -iname '*route*.ts' -o -iname 'app.config.ts' \) \
+              -not -path './.git/*' \
+              -not -path '*/node_modules/*' \
+              | sort
+          )
 
-          sed -n '1,1000p' "$RUNNER_TEMP/site-routing-matches.txt"
+          printf '%s\n' "${candidate_files[@]}"
+
+          for file in "${candidate_files[@]}"; do
+            grep -n -E -C 4 \
+              '(router|href|link|navigate|slug|contact|scroll|viewport)' \
+              "$file" || true
+          done > "$RUNNER_TEMP/site-routing-matches.txt"
+
+          sed -n '1,700p' "$RUNNER_TEMP/site-routing-matches.txt"
