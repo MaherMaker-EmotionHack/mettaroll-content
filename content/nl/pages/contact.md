@@ -3,6 +3,13 @@ title: Contact
 hero_headline: CONTACT
 hero_image: /uploads/contact-us-hero.jpg
 team_heading: ONS METTAROLL TEAM
+intro_heading: Neem contact op
+intro_body: Wilt u uw staalbehoefte bespreken of heeft u meer informatie nodig over onze oplossingen voor staallevering en export?
+intro_instruction: Vul het onderstaande formulier in.
+whatsapp_heading: Neem contact op
+whatsapp_subheading: Via WhatsApp
+whatsapp_button: Stuur ons een bericht via WhatsApp
+address_label: Adres
 office:
   heading: Bezoek ons kantoor
   address: "Wilhelminakade 173\n3072 AP Rotterdam\nNederland"

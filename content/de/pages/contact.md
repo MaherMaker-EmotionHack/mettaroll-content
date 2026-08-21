@@ -3,6 +3,13 @@ title: Kontakt
 hero_headline: KONTAKT
 hero_image: /uploads/contact-us-hero.jpg
 team_heading: UNSER METTAROLL TEAM
+intro_heading: Kontakt aufnehmen
+intro_body: Möchten Sie Ihren Stahlbedarf besprechen oder benötigen Sie weitere Informationen zu unseren Stahlversorgungs- und Exportlösungen?
+intro_instruction: Füllen Sie das folgende Formular aus.
+whatsapp_heading: Kontakt aufnehmen
+whatsapp_subheading: Über WhatsApp
+whatsapp_button: Nachricht über WhatsApp senden
+address_label: Adresse
 office:
   heading: Besuchen Sie unser Büro
   address: "Wilhelminakade 173\n3072 AP Rotterdam\nNiederlande"
