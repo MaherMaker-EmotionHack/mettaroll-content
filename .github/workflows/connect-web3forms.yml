@@ -90,7 +90,7 @@ jobs:
               raise RuntimeError('Angular core import not found')
           imports = core_import.group('imports')
           if not re.search(r'\bsignal\b', imports):
-              new_imports = imports.rstrip() + ', signal '
+              new_imports = imports.rstrip().rstrip(',').rstrip() + ', signal '
               ts_text = (
                   ts_text[:core_import.start('imports')]
                   + new_imports
