@@ -2,31 +2,28 @@
 title: Steel Wire Rod
 slug: steel-wire-rod
 category: wires
-description: Steel wire rod available in different grades, diameters, surface
-  conditions, and quality levels for drawing, welding, fasteners, mesh, and
-  industrial processing.
+description: >-
+  Steel wire rod for drawing, mesh, fasteners, welding wire and other industrial conversion processes.
 image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
-featured: false
+featured: true
 order: 1
 ---
-Steel wire rod is a semi-finished long steel product supplied in coils and used for wire drawing, welding wire, fasteners, mesh, springs, and other industrial applications.
+Steel wire rod for drawing, mesh, fasteners, welding wire and other industrial conversion processes.
 
+## Included product types
 
+- Low-carbon wire rod
+- Medium- and high-carbon wire rod
+- Application-specific wire rod grades
 
-Mettaroll supplies steel wire rod in different grades, diameters, surface conditions, and quality levels depending on current stock availability, supplier offers, and customer requirements.
+## Supply and availability
 
+Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
 
+## Commercial specifications
 
-## Specifications
-
-
-
-- **Diameters:** according to stock and offer
-
-- **Grades:** low-carbon, high-carbon, drawing, welding, and other grades may be available
-
-- **Surface:** plain or treated options depending on availability
-
-- **Quality:** prime, non-prime, overrolling, or second-choice material depending on availability
-
+- **Dimensions:** according to available stock and the confirmed offer
+- **Grades:** commercial, structural and application-specific grades may be available
+- **Surface / coating:** according to the selected product type and confirmed offer
+- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
 - **Standards and certificates:** available upon supplier confirmation

@@ -1,19 +1,20 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
+title: Galvanized & Alloy-Coated Coils
+slug: galvanized-alloy-coated-coils
 category: coils
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Metallic-coated coils for corrosion protection, outdoor use and further fabrication, including zinc and zinc-alloy coatings.
+image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
+featured: true
+order: 3
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Metallic-coated coils for corrosion protection, outdoor use and further fabrication, including zinc and zinc-alloy coatings.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Hot-dip galvanized coils (HDG / GI)
+- Galvannealed coils
+- Aluzinc and Galfan coated coils
 
 ## Supply and availability
 

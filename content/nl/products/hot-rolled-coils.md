@@ -1,32 +1,28 @@
 ---
-title: Warmgewalste Coils
+title: Warmgewalste rollen
 slug: hot-rolled-coils
 category: coils
-description: Warmgewalste staalcoils in verschillende kwaliteiten, afmetingen en
-  kwaliteitsniveaus voor bouw, productie, constructie en industriële
-  toepassingen.
+description: >-
+  Warmgewalste rollen voor bouw, constructie, buizen en verdere verwerking in commerciële en toepassingsspecifieke kwaliteiten.
 image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 1
 ---
-Warmgewalste coils zijn veelzijdige staalproducten voor bouw, constructies, buizen, machines, productie en verdere verwerking.
+Warmgewalste rollen voor bouw, constructie, buizen en verdere verwerking in commerciële en toepassingsspecifieke kwaliteiten.
 
+## Inbegrepen productsoorten
 
+- Warmgewalste rollen (HRC)
+- Gebeitste en geoliede warmgewalste rollen (HRPO)
 
-Mettaroll levert warmgewalste coils in verschillende kwaliteiten, diktes, breedtes en kwaliteitsniveaus, afhankelijk van de actuele voorraad, leveranciersaanbiedingen en klantvereisten.
+## Inkoop en beschikbaarheid
 
+Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
 
+## Commerciële specificaties
 
-## Specificaties
-
-
-
-- **Dikte:** volgens voorraad en aanbieding
-
-- **Breedte:** volgens voorraad en aanbieding
-
-- **Kwaliteiten:** commerciële, constructie- en andere kwaliteiten kunnen beschikbaar zijn
-
-- **Kwaliteit:** prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
-
+- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
+- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
+- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
+- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
 - **Normen en certificaten:** beschikbaar na bevestiging door de leverancier

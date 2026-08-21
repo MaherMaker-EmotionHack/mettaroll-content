@@ -1,19 +1,19 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
+title: Voorgelakte / PPGI-rollen
+slug: prepainted-ppgi-coils
 category: coils
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Voorgelakte verzinkte staalrollen in geselecteerde kleuren en coatingsystemen voor daken, gevels en gefabriceerde producten.
+image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
+featured: true
+order: 5
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Voorgelakte verzinkte staalrollen in geselecteerde kleuren en coatingsystemen voor daken, gevels en gefabriceerde producten.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- Voorgelakte verzinkte rollen (PPGI)
+- Kleurgecoate staalrollen
 
 ## Inkoop en beschikbaarheid
 

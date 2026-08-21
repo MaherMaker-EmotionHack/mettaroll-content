@@ -1,19 +1,19 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
-category: coils
+title: Prepainted & Profile Sheets
+slug: prepainted-profile-sheets
+category: sheets
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Prepainted flat and profiled sheets for roofing, cladding, panels and colour-finished fabricated products.
+image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
+featured: true
+order: 3
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Prepainted flat and profiled sheets for roofing, cladding, panels and colour-finished fabricated products.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Prepainted flat steel sheets
+- Profiled and corrugated coated sheets
 
 ## Supply and availability
 

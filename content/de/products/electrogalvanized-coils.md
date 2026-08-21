@@ -2,18 +2,27 @@
 title: Elektrolytisch verzinkte Coils
 slug: electrogalvanized-coils
 category: coils
-description: Elektrolytisch verzinkte Stahlcoils mit glatter, gleichmäßiger Oberfläche für Formteile, beschichtete Komponenten und Präzisionsanwendungen.
-image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
+description: >-
+  Elektrolytisch verzinkte Coils mit gleichmäßiger Zinkschicht und glatter Oberfläche für Umformung, Lackierung und Präzisionsanwendungen.
+image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
 featured: false
-order: 6
+order: 4
 ---
-Mettaroll liefert dieses Material in verschiedenen Güten, Abmessungen, Oberflächen und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Kundenanforderungen. Die technische Eignung für Verarbeitung und Endanwendung wird vor Lieferung bestätigt.
+Elektrolytisch verzinkte Coils mit gleichmäßiger Zinkschicht und glatter Oberfläche für Umformung, Lackierung und Präzisionsanwendungen.
 
-## Spezifikationen
+## Enthaltene Produktarten
 
-- **Abmessungen:** gemäß Lagerbestand und Angebot
-- **Güten:** Handels- und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend Produkttyp und bestätigtem Angebot
-- **Qualität:** Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Lieferantenbestätigung verfügbar
+- Einseitig elektrolytisch verzinkte Coils
+- Beidseitig elektrolytisch verzinkte Coils
 
+## Beschaffung und Verfügbarkeit
+
+Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und Destination. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+
+## Kommerzielle Spezifikationen
+
+- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
+- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
+- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
+- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
+- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar

@@ -1,19 +1,20 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
-category: coils
+title: Staven, profielen en buizen
+slug: bars-profiles-tubes
+category: long-products
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Handelsstaven, profielen en stalen buizen voor fabricage, bouw, mechanische en algemeen industriële eisen.
+image: /uploads/exec-82c9c594-5898-427f-95b9-f7ddcb36df8b.png
+featured: true
+order: 2
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Handelsstaven, profielen en stalen buizen voor fabricage, bouw, mechanische en algemeen industriële eisen.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- Platte, ronde, vierkante en handelsstaven
+- Open en holle profielen
+- Gelaste en naadloze stalen buizen
 
 ## Inkoop en beschikbaarheid
 

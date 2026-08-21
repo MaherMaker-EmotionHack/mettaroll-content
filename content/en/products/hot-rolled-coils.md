@@ -1,19 +1,19 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
+title: Hot Rolled Coils
+slug: hot-rolled-coils
 category: coils
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Hot rolled coils for construction, structural fabrication, pipes and further processing, available in commercial and application-specific grades.
+image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
+featured: true
+order: 1
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Hot rolled coils for construction, structural fabrication, pipes and further processing, available in commercial and application-specific grades.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Hot rolled coils (HRC)
+- Hot rolled pickled and oiled coils (HRPO)
 
 ## Supply and availability
 

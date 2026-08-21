@@ -1,19 +1,20 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
-category: coils
+title: Galvanized & Coated Steel Wire
+slug: galvanized-coated-wire
+category: wires
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Bright, galvanized and polymer-coated steel wire for mesh, fencing, binding and fabricated products.
+image: /uploads/wire-product-page.jpg
+featured: true
+order: 2
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Bright, galvanized and polymer-coated steel wire for mesh, fencing, binding and fabricated products.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Bright low-carbon steel wire
+- Galvanized steel wire
+- PVC- or nylon-coated wire
 
 ## Supply and availability
 

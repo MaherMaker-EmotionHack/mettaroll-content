@@ -1,19 +1,20 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Hochgekohlter und industrieller Draht
+slug: high-carbon-industrial-wire
+category: wires
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Hochgekohlter und anwendungsspezifischer Stahldraht für Federn, Vorspannung, Cords und anspruchsvolle Industrieanwendungen.
+image: /uploads/exec-5e60f447-a5d3-4256-8230-1e0af845da85.png
 featured: true
-order: 1
+order: 3
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Hochgekohlter und anwendungsspezifischer Stahldraht für Federn, Vorspannung, Cords und anspruchsvolle Industrieanwendungen.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Hochgekohlter Draht und Federdraht
+- Spannstahldraht und Litzen
+- Stahlcord und anwendungsspezifischer Industriedraht
 
 ## Beschaffung und Verfügbarkeit
 

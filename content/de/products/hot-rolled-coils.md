@@ -2,30 +2,27 @@
 title: Warmgewalzte Coils
 slug: hot-rolled-coils
 category: coils
-description: Warmgewalzte Stahlcoils in verschiedenen Güten, Abmessungen und
-  Qualitätsstufen für Bau, Fertigung, Konstruktion und industrielle Anwendungen.
+description: >-
+  Warmgewalzte Coils für Bau, Stahlbau, Rohre und Weiterverarbeitung in handelsüblichen und anwendungsspezifischen Güten.
 image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 1
 ---
-Warmgewalzte Coils sind vielseitige Stahlprodukte für Bauwesen, Konstruktionen, Rohre, Maschinenbau, Fertigung und Weiterverarbeitung.
+Warmgewalzte Coils für Bau, Stahlbau, Rohre und Weiterverarbeitung in handelsüblichen und anwendungsspezifischen Güten.
 
+## Enthaltene Produktarten
 
+- Warmgewalzte Coils (HRC)
+- Gebeizte und geölte warmgewalzte Coils (HRPO)
 
-Mettaroll liefert warmgewalzte Coils in unterschiedlichen Güten, Dicken, Breiten und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Kundenanforderungen.
+## Beschaffung und Verfügbarkeit
 
+Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und Destination. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
 
+## Kommerzielle Spezifikationen
 
-## Spezifikationen
-
-
-
-- **Dicke:** gemäß Lagerbestand und Angebot
-
-- **Breite:** gemäß Lagerbestand und Angebot
-
-- **Güten:** Handels-, Konstruktions- und weitere Güten nach Verfügbarkeit
-
-- **Qualität:** Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
-
-- **Normen und Zertifikate:** nach Lieferantenbestätigung verfügbar
+- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
+- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
+- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
+- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
+- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar

@@ -1,19 +1,19 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Stahlträger und Strukturprofile
+slug: structural-sections-beams
+category: long-products
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Stahlträger und Strukturprofile für Bau, Infrastruktur, Fertigung und tragende Anwendungen.
+image: /uploads/exec-3cc26642-b4f7-4555-a475-e5bcf991ad08.png
 featured: true
 order: 1
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Stahlträger und Strukturprofile für Bau, Infrastruktur, Fertigung und tragende Anwendungen.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- I- und H-Träger
+- U-Profile, Winkel und Strukturprofile
 
 ## Beschaffung und Verfügbarkeit
 

@@ -1,19 +1,20 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
-category: coils
+title: Verzinkte en gecoate staaldraad
+slug: galvanized-coated-wire
+category: wires
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Blanke, verzinkte en polymeergecoate staaldraad voor gaas, hekwerk, binding en gefabriceerde producten.
+image: /uploads/wire-product-page.jpg
+featured: true
+order: 2
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Blanke, verzinkte en polymeergecoate staaldraad voor gaas, hekwerk, binding en gefabriceerde producten.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- Blanke laag-koolstof staaldraad
+- Verzinkte staaldraad
+- PVC- of nylon-gecoate draad
 
 ## Inkoop en beschikbaarheid
 

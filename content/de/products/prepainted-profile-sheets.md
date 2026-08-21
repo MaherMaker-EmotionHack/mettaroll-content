@@ -1,19 +1,19 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Vorlackierte und profilierte Bleche
+slug: prepainted-profile-sheets
+category: sheets
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Vorlackierte flache und profilierte Bleche für Dächer, Fassaden, Paneele und farbbeschichtete Fertigprodukte.
+image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
 featured: true
-order: 1
+order: 3
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Vorlackierte flache und profilierte Bleche für Dächer, Fassaden, Paneele und farbbeschichtete Fertigprodukte.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Vorlackierte flache Stahlbleche
+- Profilierte und gewellte beschichtete Bleche
 
 ## Beschaffung und Verfügbarkeit
 

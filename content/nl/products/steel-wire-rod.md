@@ -1,32 +1,29 @@
 ---
-title: Stalen Walsdraad
+title: Stalen walsdraad
 slug: steel-wire-rod
 category: wires
-description: Stalen walsdraad in verschillende kwaliteiten, diameters,
-  oppervlakken en kwaliteitsniveaus voor draadtrekken, lassen,
-  bevestigingsmiddelen, gaas en industriële verwerking.
+description: >-
+  Stalen walsdraad voor trekken, gaas, bevestigingsmiddelen, lasdraad en andere industriële verwerkingsprocessen.
 image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
-featured: false
+featured: true
 order: 1
 ---
-Stalen walsdraad is een halffabricaat in coils dat wordt gebruikt voor draadtrekken, lasdraad, bevestigingsmiddelen, gaas, veren en andere industriële toepassingen.
+Stalen walsdraad voor trekken, gaas, bevestigingsmiddelen, lasdraad en andere industriële verwerkingsprocessen.
 
+## Inbegrepen productsoorten
 
+- Laag-koolstof walsdraad
+- Middel- en hoog-koolstof walsdraad
+- Toepassingsspecifieke walsdraadkwaliteiten
 
-Mettaroll levert stalen walsdraad in verschillende kwaliteiten, diameters, oppervlakken en kwaliteitsniveaus, afhankelijk van de actuele voorraad, leveranciersaanbiedingen en klantvereisten.
+## Inkoop en beschikbaarheid
 
+Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
 
+## Commerciële specificaties
 
-## Specificaties
-
-
-
-- **Diameters:** volgens voorraad en aanbieding
-
-- **Kwaliteiten:** laagkoolstof, hoogkoolstof, trek-, las- en andere kwaliteiten kunnen beschikbaar zijn
-
-- **Oppervlak:** blank of behandeld afhankelijk van beschikbaarheid
-
-- **Kwaliteit:** prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
-
+- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
+- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
+- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
+- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
 - **Normen en certificaten:** beschikbaar na bevestiging door de leverancier

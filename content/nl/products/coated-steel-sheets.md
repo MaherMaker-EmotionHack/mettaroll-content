@@ -1,19 +1,20 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
-category: coils
+title: Gecoate staalplaten
+slug: coated-steel-sheets
+category: sheets
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Met zink en legeringen gecoate staalplaten voor betere corrosiebestendigheid en verdere verwerking.
+image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
+featured: true
+order: 2
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Met zink en legeringen gecoate staalplaten voor betere corrosiebestendigheid en verdere verwerking.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- Thermisch verzinkte platen
+- Elektrolytisch verzinkte platen
+- Aluzinc-, Galfan- en galvannealed platen
 
 ## Inkoop en beschikbaarheid
 

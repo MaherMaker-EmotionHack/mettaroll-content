@@ -1,19 +1,20 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Stäbe, Profile und Rohre
+slug: bars-profiles-tubes
+category: long-products
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Handelsstäbe, Profile und Stahlrohre für Fertigung, Bau, mechanische und allgemeine industrielle Anforderungen.
+image: /uploads/exec-82c9c594-5898-427f-95b9-f7ddcb36df8b.png
 featured: true
-order: 1
+order: 2
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Handelsstäbe, Profile und Stahlrohre für Fertigung, Bau, mechanische und allgemeine industrielle Anforderungen.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Flach-, Rund-, Vierkant- und Handelsstäbe
+- Offene und Hohlprofile
+- Geschweißte und nahtlose Stahlrohre
 
 ## Beschaffung und Verfügbarkeit
 

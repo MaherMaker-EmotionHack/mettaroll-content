@@ -1,30 +1,28 @@
 ---
-title: Cold Rolled Coils
+title: Cold Rolled & Full Hard Coils
 slug: cold-rolled-coils
 category: coils
-description: Cold rolled steel coils with a smooth surface and precise
-  dimensions, suitable for manufacturing, profiles, appliances, and further
-  processing.
+description: >-
+  Cold rolled and full hard coils with controlled surface and thickness for forming, coating and industrial processing.
 image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
-featured: false
-order: 4
+featured: true
+order: 2
 ---
-Cold rolled coils are steel coils processed at room temperature to achieve a smoother surface, tighter dimensional tolerances, and improved formability compared to hot rolled material.
+Cold rolled and full hard coils with controlled surface and thickness for forming, coating and industrial processing.
 
+## Included product types
 
+- Cold rolled coils (CRC)
+- Cold rolled full hard coils (CRFH)
 
-Mettaroll supplies cold rolled coils in different grades, thicknesses, widths, surface finishes, and quality levels depending on current stock availability, supplier offers, and customer requirements.
+## Supply and availability
 
+Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
 
+## Commercial specifications
 
-## Specifications
-
-
-
-- **Thickness:** 0.3mm – 3.0mm
-
-- **Width:** 600mm – 1500mm
-
-- **Grades:** DC01, DC03, DC04 and other grades upon availability
-
-- **Standard:** EN 10130 / EN 10139 upon supplier confirmation
+- **Dimensions:** according to available stock and the confirmed offer
+- **Grades:** commercial, structural and application-specific grades may be available
+- **Surface / coating:** according to the selected product type and confirmed offer
+- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
+- **Standards and certificates:** available upon supplier confirmation

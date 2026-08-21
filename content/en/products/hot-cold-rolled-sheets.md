@@ -1,19 +1,20 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
-category: coils
+title: Hot & Cold Rolled Sheets
+slug: hot-cold-rolled-sheets
+category: sheets
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Hot and cold rolled steel sheets grouped for fabrication, forming, construction and general industrial use.
+image: /uploads/sheets-for-product-page.jpeg
+featured: true
+order: 1
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Hot and cold rolled steel sheets grouped for fabrication, forming, construction and general industrial use.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Hot rolled and HRPO sheets
+- Cold rolled sheets
+- Cold rolled full hard sheets
 
 ## Supply and availability
 

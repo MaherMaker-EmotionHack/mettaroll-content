@@ -1,19 +1,20 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Verzinkter und beschichteter Stahldraht
+slug: galvanized-coated-wire
+category: wires
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Blanker, verzinkter und polymerbeschichteter Stahldraht für Matten, Zäune, Binden und Fertigprodukte.
+image: /uploads/wire-product-page.jpg
 featured: true
-order: 1
+order: 2
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Blanker, verzinkter und polymerbeschichteter Stahldraht für Matten, Zäune, Binden und Fertigprodukte.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Blanker niedriggekohlter Stahldraht
+- Verzinkter Stahldraht
+- PVC- oder nylonbeschichteter Draht
 
 ## Beschaffung und Verfügbarkeit
 

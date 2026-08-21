@@ -1,19 +1,20 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
-category: coils
+title: Warm- en koudgewalste platen
+slug: hot-cold-rolled-sheets
+category: sheets
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Warm- en koudgewalste staalplaten voor fabricage, vormgeving, bouw en algemeen industrieel gebruik.
+image: /uploads/sheets-for-product-page.jpeg
+featured: true
+order: 1
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Warm- en koudgewalste staalplaten voor fabricage, vormgeving, bouw en algemeen industrieel gebruik.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- Warmgewalste en HRPO-platen
+- Koudgewalste platen
+- Koudgewalste full-hard platen
 
 ## Inkoop en beschikbaarheid
 

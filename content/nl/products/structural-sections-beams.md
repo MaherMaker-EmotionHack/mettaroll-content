@@ -1,19 +1,19 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
-category: coils
+title: Constructieprofielen en balken
+slug: structural-sections-beams
+category: long-products
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Stalen balken en constructieprofielen voor bouw, infrastructuur, fabricage en dragende toepassingen.
+image: /uploads/exec-3cc26642-b4f7-4555-a475-e5bcf991ad08.png
+featured: true
+order: 1
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Stalen balken en constructieprofielen voor bouw, infrastructuur, fabricage en dragende toepassingen.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- I- en H-balken
+- Kanalen, hoeken en constructieprofielen
 
 ## Inkoop en beschikbaarheid
 

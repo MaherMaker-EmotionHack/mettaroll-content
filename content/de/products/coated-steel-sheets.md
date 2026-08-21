@@ -1,19 +1,20 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Beschichtete Stahlbleche
+slug: coated-steel-sheets
+category: sheets
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Zink- und legierungsbeschichtete Stahlbleche für verbesserten Korrosionsschutz und Weiterverarbeitung.
+image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
 featured: true
-order: 1
+order: 2
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Zink- und legierungsbeschichtete Stahlbleche für verbesserten Korrosionsschutz und Weiterverarbeitung.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Feuerverzinkte Bleche
+- Elektrolytisch verzinkte Bleche
+- Aluzinc-, Galfan- und Galvannealed-Bleche
 
 ## Beschaffung und Verfügbarkeit
 

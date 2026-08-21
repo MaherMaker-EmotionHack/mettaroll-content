@@ -1,19 +1,28 @@
 ---
-title: Koudgewalste Staalstrips
+title: Koudgewalste en full-hard strips
 slug: cold-rolled-strips
 category: strips
-description: Koudgewalste staalstrips met een glad oppervlak en nauwe maattoleranties voor nauwkeurige vormgeving en productie.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
-featured: false
-order: 3
+description: >-
+  Koudgewalste strips met constante dikte en afwerking voor stansen, vormen, onderdelen en verdere coating.
+image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
+featured: true
+order: 2
 ---
-Mettaroll levert dit materiaal in verschillende kwaliteiten, afmetingen, afwerkingen en kwaliteitsniveaus, afhankelijk van actuele voorraad, leveranciersaanbiedingen en klantvereisten. De technische geschiktheid voor de beoogde verwerking en eindtoepassing wordt vooraf bevestigd.
+Koudgewalste strips met constante dikte en afwerking voor stansen, vormen, onderdelen en verdere coating.
 
-## Specificaties
+## Inbegrepen productsoorten
 
-- **Afmetingen:** volgens voorraad en aanbieding
-- **Kwaliteiten:** commerciële en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
-- **Oppervlak / coating:** volgens producttype en bevestigde aanbieding
-- **Kwaliteitsniveau:** prime, non-prime, overrolling of tweede keus afhankelijk van beschikbaarheid
+- Koudgewalste strips
+- Koudgewalste full-hard strips
+
+## Inkoop en beschikbaarheid
+
+Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
+
+## Commerciële specificaties
+
+- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
+- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
+- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
+- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
 - **Normen en certificaten:** beschikbaar na bevestiging door de leverancier
-

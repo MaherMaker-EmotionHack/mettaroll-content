@@ -1,32 +1,29 @@
 ---
-title: Stahldraht-Walzdraht
+title: Stahlwalzdraht
 slug: steel-wire-rod
 category: wires
-description: Stahlwalzdraht in unterschiedlichen Güten, Durchmessern,
-  Oberflächen und Qualitätsstufen für Drahtziehen, Schweißen,
-  Verbindungselemente, Gitter und industrielle Verarbeitung.
+description: >-
+  Stahlwalzdraht für Ziehen, Matten, Verbindungselemente, Schweißdraht und weitere industrielle Verarbeitung.
 image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
-featured: false
+featured: true
 order: 1
 ---
-Stahlwalzdraht ist ein halbfertiges Langprodukt in Coils und wird für Drahtziehen, Schweißdraht, Verbindungselemente, Gitter, Federn und weitere industrielle Anwendungen eingesetzt.
+Stahlwalzdraht für Ziehen, Matten, Verbindungselemente, Schweißdraht und weitere industrielle Verarbeitung.
 
+## Enthaltene Produktarten
 
+- Niedriggekohlter Walzdraht
+- Mittel- und hochgekohlter Walzdraht
+- Anwendungsspezifische Walzdrahtgüten
 
-Mettaroll liefert Stahlwalzdraht in unterschiedlichen Güten, Durchmessern, Oberflächen und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Kundenanforderungen.
+## Beschaffung und Verfügbarkeit
 
+Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und Destination. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
 
+## Kommerzielle Spezifikationen
 
-## Spezifikationen
-
-
-
-- **Durchmesser:** gemäß Lagerbestand und Angebot
-
-- **Güten:** kohlenstoffarm, kohlenstoffreich, Zieh-, Schweiß- und weitere Güten können verfügbar sein
-
-- **Oberfläche:** blank oder behandelt je nach Verfügbarkeit
-
-- **Qualität:** Prime, Non-Prime, Overrolling oder zweite Wahl je nach Verfügbarkeit
-
-- **Normen und Zertifikate:** nach Lieferantenbestätigung verfügbar
+- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
+- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
+- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
+- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
+- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar

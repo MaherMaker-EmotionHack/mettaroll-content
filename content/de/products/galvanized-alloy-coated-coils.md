@@ -1,19 +1,20 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Verzinkte und legierungsbeschichtete Coils
+slug: galvanized-alloy-coated-coils
+category: coils
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Metallisch beschichtete Coils für Korrosionsschutz, Außeneinsatz und Weiterverarbeitung, einschließlich Zink- und Zinklegierungsbeschichtungen.
+image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
 featured: true
-order: 1
+order: 3
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Metallisch beschichtete Coils für Korrosionsschutz, Außeneinsatz und Weiterverarbeitung, einschließlich Zink- und Zinklegierungsbeschichtungen.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Feuerverzinkte Coils (HDG / GI)
+- Galvannealed-Coils
+- Aluzinc- und Galfan-beschichtete Coils
 
 ## Beschaffung und Verfügbarkeit
 

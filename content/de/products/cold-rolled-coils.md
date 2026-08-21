@@ -1,29 +1,28 @@
 ---
-title: Kaltgewalzte Coils
+title: Kaltgewalzte und vollharte Coils
 slug: cold-rolled-coils
 category: coils
-description: Kaltgewalzte Stahlcoils mit glatter Oberfläche und präzisen
-  Abmessungen für Fertigung, Profile, Haushaltsgeräte und Weiterverarbeitung.
+description: >-
+  Kaltgewalzte und vollharte Coils mit kontrollierter Oberfläche und Dicke für Umformung, Beschichtung und industrielle Verarbeitung.
 image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
-Kaltgewalzte Coils werden bei Raumtemperatur verarbeitet und bieten dadurch eine glattere Oberfläche, engere Maßtoleranzen und eine bessere Umformbarkeit als warmgewalztes Material.
+Kaltgewalzte und vollharte Coils mit kontrollierter Oberfläche und Dicke für Umformung, Beschichtung und industrielle Verarbeitung.
 
+## Enthaltene Produktarten
 
+- Kaltgewalzte Coils (CRC)
+- Kaltgewalzte vollharte Coils (CRFH)
 
-Mettaroll liefert kaltgewalzte Coils in unterschiedlichen Güten, Dicken, Breiten, Oberflächen und Qualitätsstufen – abhängig von aktuellem Lagerbestand, Lieferantenangeboten und Kundenanforderungen.
+## Beschaffung und Verfügbarkeit
 
+Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und Destination. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
 
+## Kommerzielle Spezifikationen
 
-## Spezifikationen
-
-
-
-- **Dicke:** 0,3mm – 3,0mm
-
-- **Breite:** 600mm – 1500mm
-
-- **Güten:** DC01, DC03, DC04 und weitere Güten nach Verfügbarkeit
-
-- **Norm:** EN 10130 / EN 10139 nach Lieferantenbestätigung
+- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
+- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
+- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
+- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
+- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar

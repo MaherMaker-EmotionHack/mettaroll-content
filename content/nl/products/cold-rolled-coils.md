@@ -1,29 +1,28 @@
 ---
-title: Koudgewalste Coils
+title: Koudgewalste en full-hard rollen
 slug: cold-rolled-coils
 category: coils
-description: Koudgewalste staalcoils met een glad oppervlak en nauwkeurige
-  afmetingen voor productie, profielen, apparaten en verdere verwerking.
+description: >-
+  Koudgewalste en full-hard rollen met gecontroleerd oppervlak en dikte voor vormgeving, coating en industriële verwerking.
 image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
-Koudgewalste coils worden bij kamertemperatuur verwerkt en hebben daardoor een gladder oppervlak, nauwere maattoleranties en een betere vervormbaarheid dan warmgewalst materiaal.
+Koudgewalste en full-hard rollen met gecontroleerd oppervlak en dikte voor vormgeving, coating en industriële verwerking.
 
+## Inbegrepen productsoorten
 
+- Koudgewalste rollen (CRC)
+- Koudgewalste full-hard rollen (CRFH)
 
-Mettaroll levert koudgewalste coils in verschillende kwaliteiten, diktes, breedtes, oppervlakken en kwaliteitsniveaus, afhankelijk van de actuele voorraad, leveranciersaanbiedingen en klantvereisten.
+## Inkoop en beschikbaarheid
 
+Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
 
+## Commerciële specificaties
 
-## Specificaties
-
-
-
-- **Dikte:** 0,3mm – 3,0mm
-
-- **Breedte:** 600mm – 1500mm
-
-- **Kwaliteiten:** DC01, DC03, DC04 en andere kwaliteiten afhankelijk van beschikbaarheid
-
-- **Norm:** EN 10130 / EN 10139 na bevestiging door de leverancier
+- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
+- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
+- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
+- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
+- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier

@@ -1,19 +1,20 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
+title: Beschichtete und vorlackierte Bänder
+slug: coated-prepainted-strips
 category: strips
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Metallisch beschichtete und vorlackierte Stahlbänder für korrosionsbeständige, dekorative und weiterverarbeitete Anwendungen.
+image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
 featured: true
-order: 1
+order: 3
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Metallisch beschichtete und vorlackierte Stahlbänder für korrosionsbeständige, dekorative und weiterverarbeitete Anwendungen.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Verzinkte und elektrolytisch verzinkte Bänder
+- Aluzinc- und Galfan-beschichtete Bänder
+- Vorlackierte Stahlbänder
 
 ## Beschaffung und Verfügbarkeit
 

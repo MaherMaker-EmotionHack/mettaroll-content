@@ -1,19 +1,20 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
-category: coils
+title: Hoog-koolstof en industriële draad
+slug: high-carbon-industrial-wire
+category: wires
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Hoog-koolstof en toepassingsspecifieke staaldraad voor veren, voorspanning, koorden en veeleisende industriële toepassingen.
+image: /uploads/exec-5e60f447-a5d3-4256-8230-1e0af845da85.png
+featured: true
+order: 3
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Hoog-koolstof en toepassingsspecifieke staaldraad voor veren, voorspanning, koorden en veeleisende industriële toepassingen.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- Hoog-koolstof en veerdraad
+- Voorspandraad en strengen
+- Staalkoord en toepassingsspecifieke industriële draad
 
 ## Inkoop en beschikbaarheid
 

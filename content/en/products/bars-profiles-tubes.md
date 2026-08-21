@@ -1,19 +1,20 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
-category: coils
+title: Bars, Profiles & Tubes
+slug: bars-profiles-tubes
+category: long-products
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Merchant bars, profiles and steel tubes grouped for fabrication, construction, mechanical and general industrial requirements.
+image: /uploads/exec-82c9c594-5898-427f-95b9-f7ddcb36df8b.png
+featured: true
+order: 2
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Merchant bars, profiles and steel tubes grouped for fabrication, construction, mechanical and general industrial requirements.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Flat, round, square and merchant bars
+- Open and hollow profiles
+- Welded and seamless steel tubes
 
 ## Supply and availability
 

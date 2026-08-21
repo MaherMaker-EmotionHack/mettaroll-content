@@ -1,19 +1,19 @@
 ---
-title: Elektrolytisch verzinkte rollen
-slug: electrogalvanized-coils
-category: coils
+title: Voorgelakte en geprofileerde platen
+slug: prepainted-profile-sheets
+category: sheets
 description: >-
-  Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Voorgelakte vlakke en geprofileerde platen voor daken, gevels, panelen en kleurafgewerkte producten.
+image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
+featured: true
+order: 3
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
+Voorgelakte vlakke en geprofileerde platen voor daken, gevels, panelen en kleurafgewerkte producten.
 
 ## Inbegrepen productsoorten
 
-- Enkelzijdig elektrolytisch verzinkte rollen
-- Dubbelzijdig elektrolytisch verzinkte rollen
+- Voorgelakte vlakke staalplaten
+- Geprofileerde en gegolfde gecoate platen
 
 ## Inkoop en beschikbaarheid
 

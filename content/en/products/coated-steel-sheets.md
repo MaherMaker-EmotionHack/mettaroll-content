@@ -1,19 +1,20 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
-category: coils
+title: Coated Steel Sheets
+slug: coated-steel-sheets
+category: sheets
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Zinc and alloy-coated steel sheets for improved corrosion resistance and further fabrication.
+image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
+featured: true
+order: 2
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Zinc and alloy-coated steel sheets for improved corrosion resistance and further fabrication.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Hot-dip galvanized sheets
+- Electrogalvanized sheets
+- Aluzinc, Galfan and galvannealed sheets
 
 ## Supply and availability
 

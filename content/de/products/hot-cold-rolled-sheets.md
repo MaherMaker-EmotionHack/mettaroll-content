@@ -1,19 +1,20 @@
 ---
-title: Warmgewalzte Bänder
-slug: hot-rolled-strips
-category: strips
+title: Warm- und kaltgewalzte Bleche
+slug: hot-cold-rolled-sheets
+category: sheets
 description: >-
-  Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
-image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
+  Warm- und kaltgewalzte Stahlbleche für Fertigung, Umformung, Bau und allgemeine industrielle Anwendungen.
+image: /uploads/sheets-for-product-page.jpeg
 featured: true
 order: 1
 ---
-Warmgewalzte Stahlbänder für Fertigung, Strukturteile und Weiterverarbeitung in verschiedenen Breiten und Güten.
+Warm- und kaltgewalzte Stahlbleche für Fertigung, Umformung, Bau und allgemeine industrielle Anwendungen.
 
 ## Enthaltene Produktarten
 
-- Warmgewalzte Bänder
-- Gebeizte und geölte warmgewalzte Bänder (HRPO)
+- Warmgewalzte und HRPO-Bleche
+- Kaltgewalzte Bleche
+- Kaltgewalzte vollharte Bleche
 
 ## Beschaffung und Verfügbarkeit
 

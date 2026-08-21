@@ -1,19 +1,19 @@
 ---
-title: Electrogalvanized Coils
-slug: electrogalvanized-coils
+title: Prepainted / PPGI Coils
+slug: prepainted-ppgi-coils
 category: coils
 description: >-
-  Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
-image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
-featured: false
-order: 4
+  Prepainted galvanized steel coils in selected colours and coating systems for roofing, cladding and manufactured products.
+image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
+featured: true
+order: 5
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
+Prepainted galvanized steel coils in selected colours and coating systems for roofing, cladding and manufactured products.
 
 ## Included product types
 
-- Single-side electrogalvanized coils
-- Double-side electrogalvanized coils
+- Prepainted galvanized coils (PPGI)
+- Colour-coated steel coils
 
 ## Supply and availability
 
