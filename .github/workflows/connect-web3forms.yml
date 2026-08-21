@@ -1,0 +1,299 @@
+name: Connect Contact Form to Web3Forms
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/connect-web3forms.yml
+
+jobs:
+  connect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private website
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Connect the existing contact form
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('site/mettaroll/src')
+
+          def find_one(needle: str, suffixes: tuple[str, ...]) -> Path:
+              matches = [
+                  path
+                  for suffix in suffixes
+                  for path in root.rglob(f'*{suffix}')
+                  if needle in path.read_text(encoding='utf-8')
+              ]
+              if len(matches) != 1:
+                  raise RuntimeError(
+                      f'Expected one file containing {needle!r}, found {matches}'
+                  )
+              return matches[0]
+
+          def save(path: Path, before: str, after: str) -> None:
+              if before == after:
+                  raise RuntimeError(f'No change made to {path}')
+              path.write_text(after, encoding='utf-8')
+              print(f'Updated {path}')
+
+          def replace_method(text: str, method_name: str, replacement: str) -> str:
+              method_match = re.search(
+                  rf'\n\s*{re.escape(method_name)}\s*\([^)]*\)\s*(?::\s*[^{{]+)?\{{',
+                  text,
+              )
+              if not method_match:
+                  raise RuntimeError(f'{method_name} method not found')
+              opening_brace = text.find('{', method_match.start())
+              depth = 0
+              closing_brace = None
+              for index in range(opening_brace, len(text)):
+                  character = text[index]
+                  if character == '{':
+                      depth += 1
+                  elif character == '}':
+                      depth -= 1
+                      if depth == 0:
+                          closing_brace = index
+                          break
+              if closing_brace is None:
+                  raise RuntimeError(f'{method_name} closing brace not found')
+              return text[:method_match.start()] + '\n' + replacement + text[closing_brace + 1:]
+
+          form_ts = find_one('export class ContactFormComponent', ('.ts',))
+          form_html = find_one('contact-form__submit', ('.html',))
+          form_style = find_one('contact-form__submit', ('.scss', '.css'))
+
+          ts_text = form_ts.read_text(encoding='utf-8')
+          core_import = re.search(
+              r"import\s*\{(?P<imports>[^}]*)\}\s*from\s*['\"]@angular/core['\"];",
+              ts_text,
+              re.S,
+          )
+          if not core_import:
+              raise RuntimeError('Angular core import not found')
+          imports = core_import.group('imports')
+          if not re.search(r'\bsignal\b', imports):
+              new_imports = imports.rstrip() + ', signal '
+              ts_text = (
+                  ts_text[:core_import.start('imports')]
+                  + new_imports
+                  + ts_text[core_import.end('imports'):]
+              )
+
+          class_marker = 'export class ContactFormComponent {'
+          if class_marker not in ts_text:
+              raise RuntimeError('Contact form class marker not found')
+          state_fields = r'''
+            readonly isSubmitting = signal(false);
+            readonly submissionState = signal<'idle' | 'success' | 'error'>('idle');
+
+            get submitLabel(): string {
+              if (!this.isSubmitting()) {
+                return this.labels.sendMessage;
+              }
+              const messages: Record<string, string> = {
+                en: 'Sending…',
+                de: 'Wird gesendet…',
+                nl: 'Wordt verzonden…',
+                ar: 'جارٍ الإرسال…',
+              };
+              return messages[document.documentElement.lang] ?? messages['en'];
+            }
+
+            get statusMessage(): string {
+              const language = document.documentElement.lang;
+              const messages: Record<string, Record<'success' | 'error', string>> = {
+                en: {
+                  success: 'Thank you. Your message has been sent successfully.',
+                  error: 'The message could not be sent. Please try again or email info@mettaroll.com.',
+                },
+                de: {
+                  success: 'Vielen Dank. Ihre Nachricht wurde erfolgreich gesendet.',
+                  error: 'Die Nachricht konnte nicht gesendet werden. Versuchen Sie es erneut oder schreiben Sie an info@mettaroll.com.',
+                },
+                nl: {
+                  success: 'Bedankt. Uw bericht is succesvol verzonden.',
+                  error: 'Het bericht kon niet worden verzonden. Probeer het opnieuw of mail naar info@mettaroll.com.',
+                },
+                ar: {
+                  success: 'شكرًا لك. تم إرسال رسالتك بنجاح.',
+                  error: 'تعذر إرسال الرسالة. حاول مرة أخرى أو راسل info@mettaroll.com.',
+                },
+              };
+              const state = this.submissionState();
+              if (state === 'idle') {
+                return '';
+              }
+              return (messages[language] ?? messages['en'])[state];
+            }
+          '''
+          ts_text = ts_text.replace(class_marker, class_marker + state_fields, 1)
+
+          submit_method = r'''
+            async onSubmit(): Promise<void> {
+              if (this.form.invalid || this.isSubmitting()) {
+                this.form.markAllAsTouched();
+                return;
+              }
+
+              this.isSubmitting.set(true);
+              this.submissionState.set('idle');
+              const value = this.form.getRawValue();
+
+              try {
+                const response = await fetch('https://api.web3forms.com/submit', {
+                  method: 'POST',
+                  headers: {
+                    'Content-Type': 'application/json',
+                    Accept: 'application/json',
+                  },
+                  body: JSON.stringify({
+                    access_key: '2e0ea9e5-73ab-41ef-8eb9-ee5daed0f2d0',
+                    subject: 'New Mettaroll website inquiry',
+                    from_name: 'Mettaroll Website',
+                    name: value.firstName,
+                    company: value.company,
+                    email: value.email,
+                    phone: value.phone,
+                    country: value.country,
+                    message: value.message,
+                    language: document.documentElement.lang,
+                    page_url: globalThis.location.href,
+                    botcheck: '',
+                  }),
+                });
+                const result = (await response.json()) as {
+                  success?: boolean;
+                  message?: string;
+                };
+
+                if (!response.ok || result.success !== true) {
+                  throw new Error(result.message ?? 'Web3Forms rejected the submission');
+                }
+
+                this.form.reset();
+                this.submissionState.set('success');
+              } catch (error) {
+                console.error('Contact form submission failed', error);
+                this.submissionState.set('error');
+              } finally {
+                this.isSubmitting.set(false);
+              }
+            }'''
+          ts_updated = replace_method(ts_text, 'onSubmit', submit_method)
+          save(form_ts, form_ts.read_text(encoding='utf-8'), ts_updated)
+
+          html_text = form_html.read_text(encoding='utf-8')
+          html_updated, disabled_count = re.subn(
+              r'\[disabled\]\s*=\s*"form\.invalid"',
+              '[disabled]="form.invalid || isSubmitting()"',
+              html_text,
+              count=1,
+          )
+          if disabled_count != 1:
+              raise RuntimeError('Submit disabled binding not found')
+          html_updated, label_count = re.subn(
+              r'\{\{\s*labels\.sendMessage\s*\}\}',
+              '{{ submitLabel }}',
+              html_updated,
+              count=1,
+          )
+          if label_count != 1:
+              raise RuntimeError('Submit label not found')
+
+          submit_block = re.search(
+              r'(?P<indent>^[ \t]*)<div\s+class="contact-form__submit">.*?</div>',
+              html_updated,
+              re.S | re.M,
+          )
+          if not submit_block:
+              raise RuntimeError('Submit block not found')
+          indent = submit_block.group('indent')
+          status_block = (
+              submit_block.group(0)
+              + '\n'
+              + indent
+              + "@if (submissionState() !== 'idle') {\n"
+              + indent
+              + '  <p\n'
+              + indent
+              + '    class="contact-form__status"\n'
+              + indent
+              + "    [class.contact-form__status--error]=\"submissionState() === 'error'\"\n"
+              + indent
+              + '    role="status"\n'
+              + indent
+              + '    aria-live="polite"\n'
+              + indent
+              + '  >\n'
+              + indent
+              + '    {{ statusMessage }}\n'
+              + indent
+              + '  </p>\n'
+              + indent
+              + '}'
+          )
+          html_updated = (
+              html_updated[:submit_block.start()]
+              + status_block
+              + html_updated[submit_block.end():]
+          )
+          save(form_html, html_text, html_updated)
+
+          style_text = form_style.read_text(encoding='utf-8')
+          style_updated = style_text.rstrip() + r'''
+
+          .contact-form__status {
+            margin: 0;
+            color: #1f6f43;
+            font-size: var(--font-size-body);
+            font-weight: 600;
+            text-align: end;
+          }
+
+          .contact-form__status--error {
+            color: #a12622;
+          }
+          ''' + '\n'
+          save(form_style, style_text, style_updated)
+          PY
+
+      - name: Build website
+        shell: bash
+        working-directory: site/mettaroll
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm build
+          elif [ -f yarn.lock ]; then
+            corepack enable
+            yarn install --frozen-lockfile
+            yarn build
+          else
+            npm ci
+            npm run build
+          fi
+
+      - name: Commit and push website changes
+        shell: bash
+        working-directory: site
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mettaroll/src
+          git diff --cached --quiet && exit 0
+          git commit -m "Connect the contact form to Web3Forms"
+          git push origin main

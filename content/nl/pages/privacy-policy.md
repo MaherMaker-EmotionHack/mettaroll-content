@@ -46,6 +46,8 @@ Uw gegevens kunnen worden gedeeld met:
 
 - **GitHub Inc. (Microsoft)** — websitehostingprovider
   - [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
+- **Web3Forms** — verwerkt en bezorgt de via ons contactformulier ingevulde gegevens aan Mettaroll
+  - [Privacybeleid van Web3Forms](https://web3forms.com/privacy)
 - **WhatsApp (Meta)** — alleen wanneer u op de WhatsApp-link op onze website klikt
   - [WhatsApp Privacybeleid](https://www.whatsapp.com/legal/privacy-policy)
 
