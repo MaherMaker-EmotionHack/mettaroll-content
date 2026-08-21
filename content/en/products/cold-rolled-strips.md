@@ -8,7 +8,6 @@ image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
-Cold rolled strips with consistent thickness and finish for stamping, forming, components and further coating.
 
 ## Included product types
 

@@ -8,7 +8,6 @@ image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
 featured: true
 order: 2
 ---
-Zink- und legierungsbeschichtete Stahlbleche für verbesserten Korrosionsschutz und Weiterverarbeitung.
 
 ## Enthaltene Produktarten
 

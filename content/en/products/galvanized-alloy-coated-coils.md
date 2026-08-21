@@ -8,7 +8,6 @@ image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
 featured: true
 order: 3
 ---
-Metallic-coated coils for corrosion protection, outdoor use and further fabrication, including zinc and zinc-alloy coatings.
 
 ## Included product types
 

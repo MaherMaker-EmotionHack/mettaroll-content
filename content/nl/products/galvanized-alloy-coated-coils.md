@@ -8,7 +8,6 @@ image: /uploads/exec-f4bc9511-a5e3-43d7-9573-d101ef2bb599.png
 featured: true
 order: 3
 ---
-Metaalgecoate rollen voor corrosiebescherming, buitentoepassingen en verdere verwerking, inclusief zink- en zinklegeringscoatings.
 
 ## Inbegrepen productsoorten
 

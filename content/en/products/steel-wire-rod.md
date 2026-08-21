@@ -8,7 +8,6 @@ image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
 featured: true
 order: 1
 ---
-Steel wire rod for drawing, mesh, fasteners, welding wire and other industrial conversion processes.
 
 ## Included product types
 

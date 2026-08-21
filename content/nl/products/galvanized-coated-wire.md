@@ -8,7 +8,6 @@ image: /uploads/wire-product-page.jpg
 featured: true
 order: 2
 ---
-Blanke, verzinkte en polymeergecoate staaldraad voor gaas, hekwerk, binding en gefabriceerde producten.
 
 ## Inbegrepen productsoorten
 

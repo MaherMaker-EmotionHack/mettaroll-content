@@ -8,7 +8,6 @@ image: /uploads/exec-29318621-3b2a-4f11-a6c7-4f3d44a1d87e.png
 featured: true
 order: 1
 ---
-Hot rolled steel strips for fabrication, structural parts and further processing in a range of widths and grades.
 
 ## Included product types
 

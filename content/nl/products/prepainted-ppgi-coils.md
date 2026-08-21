@@ -8,7 +8,6 @@ image: /uploads/exec-7d2504b7-3dad-40bb-99c2-2b83266ff22b.png
 featured: true
 order: 5
 ---
-Voorgelakte verzinkte staalrollen in geselecteerde kleuren en coatingsystemen voor daken, gevels en gefabriceerde producten.
 
 ## Inbegrepen productsoorten
 

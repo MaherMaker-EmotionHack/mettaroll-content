@@ -8,7 +8,6 @@ image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
-Kaltgewalzte Bänder mit gleichmäßiger Dicke und Oberfläche für Stanzen, Umformen, Bauteile und weitere Beschichtung.
 
 ## Enthaltene Produktarten
 

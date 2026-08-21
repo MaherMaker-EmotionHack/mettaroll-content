@@ -8,7 +8,6 @@ image: /uploads/exec-5e60f447-a5d3-4256-8230-1e0af845da85.png
 featured: true
 order: 3
 ---
-Hochgekohlter und anwendungsspezifischer Stahldraht für Federn, Vorspannung, Cords und anspruchsvolle Industrieanwendungen.
 
 ## Enthaltene Produktarten
 

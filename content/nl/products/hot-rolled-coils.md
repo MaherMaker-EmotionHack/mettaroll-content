@@ -8,7 +8,6 @@ image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 1
 ---
-Warmgewalste rollen voor bouw, constructie, buizen en verdere verwerking in commerciële en toepassingsspecifieke kwaliteiten.
 
 ## Inbegrepen productsoorten
 

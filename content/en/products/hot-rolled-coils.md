@@ -8,7 +8,6 @@ image: /uploads/exec-dac2f468-8137-49a1-96a5-ac6ffdb5d908.png
 featured: true
 order: 1
 ---
-Hot rolled coils for construction, structural fabrication, pipes and further processing, available in commercial and application-specific grades.
 
 ## Included product types
 

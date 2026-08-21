@@ -8,7 +8,6 @@ image: /uploads/sheets-for-product-page.jpeg
 featured: true
 order: 1
 ---
-Warm- und kaltgewalzte Stahlbleche für Fertigung, Umformung, Bau und allgemeine industrielle Anwendungen.
 
 ## Enthaltene Produktarten
 

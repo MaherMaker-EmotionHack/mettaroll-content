@@ -8,7 +8,6 @@ image: /uploads/exec-82c9c594-5898-427f-95b9-f7ddcb36df8b.png
 featured: true
 order: 2
 ---
-Merchant bars, profiles and steel tubes grouped for fabrication, construction, mechanical and general industrial requirements.
 
 ## Included product types
 

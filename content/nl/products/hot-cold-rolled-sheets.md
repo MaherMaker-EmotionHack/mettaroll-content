@@ -8,7 +8,6 @@ image: /uploads/sheets-for-product-page.jpeg
 featured: true
 order: 1
 ---
-Warm- en koudgewalste staalplaten voor fabricage, vormgeving, bouw en algemeen industrieel gebruik.
 
 ## Inbegrepen productsoorten
 

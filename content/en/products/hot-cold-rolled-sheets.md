@@ -8,7 +8,6 @@ image: /uploads/sheets-for-product-page.jpeg
 featured: true
 order: 1
 ---
-Hot and cold rolled steel sheets grouped for fabrication, forming, construction and general industrial use.
 
 ## Included product types
 

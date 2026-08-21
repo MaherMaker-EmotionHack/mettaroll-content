@@ -8,7 +8,6 @@ image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
-Kaltgewalzte und vollharte Coils mit kontrollierter Oberfläche und Dicke für Umformung, Beschichtung und industrielle Verarbeitung.
 
 ## Enthaltene Produktarten
 

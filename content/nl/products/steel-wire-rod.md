@@ -8,7 +8,6 @@ image: /uploads/exec-1640b8d7-570d-448a-b40c-628577ab4121.png
 featured: true
 order: 1
 ---
-Stalen walsdraad voor trekken, gaas, bevestigingsmiddelen, lasdraad en andere industriële verwerkingsprocessen.
 
 ## Inbegrepen productsoorten
 

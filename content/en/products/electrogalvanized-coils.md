@@ -8,7 +8,6 @@ image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
 featured: false
 order: 4
 ---
-Electrogalvanized coils with a uniform zinc coating and smooth surface for forming, painting and precision applications.
 
 ## Included product types
 

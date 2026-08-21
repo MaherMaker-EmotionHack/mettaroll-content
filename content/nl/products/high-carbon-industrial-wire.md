@@ -8,7 +8,6 @@ image: /uploads/exec-5e60f447-a5d3-4256-8230-1e0af845da85.png
 featured: true
 order: 3
 ---
-Hoog-koolstof en toepassingsspecifieke staaldraad voor veren, voorspanning, koorden en veeleisende industriële toepassingen.
 
 ## Inbegrepen productsoorten
 

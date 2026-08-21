@@ -8,7 +8,6 @@ image: /uploads/exec-6f400cef-320f-4db8-89f2-a7386a837f99.png
 featured: false
 order: 4
 ---
-Elektrolytisch verzinkte rollen met een gelijkmatige zinklaag en glad oppervlak voor vormgeving, lakken en precisietoepassingen.
 
 ## Inbegrepen productsoorten
 

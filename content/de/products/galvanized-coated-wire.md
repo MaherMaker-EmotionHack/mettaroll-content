@@ -8,7 +8,6 @@ image: /uploads/wire-product-page.jpg
 featured: true
 order: 2
 ---
-Blanker, verzinkter und polymerbeschichteter Stahldraht für Matten, Zäune, Binden und Fertigprodukte.
 
 ## Enthaltene Produktarten
 

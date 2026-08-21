@@ -8,7 +8,6 @@ image: /uploads/exec-9d1b9276-578c-4661-8b87-68a627894dcb.png
 featured: true
 order: 2
 ---
-Cold rolled and full hard coils with controlled surface and thickness for forming, coating and industrial processing.
 
 ## Included product types
 

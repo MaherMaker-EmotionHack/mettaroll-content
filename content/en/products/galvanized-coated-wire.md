@@ -8,7 +8,6 @@ image: /uploads/wire-product-page.jpg
 featured: true
 order: 2
 ---
-Bright, galvanized and polymer-coated steel wire for mesh, fencing, binding and fabricated products.
 
 ## Included product types
 
