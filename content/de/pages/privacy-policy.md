@@ -43,8 +43,6 @@ Ihre Daten können weitergegeben werden an:
 
 - **GitHub Inc. (Microsoft)** — Website-Hosting-Anbieter
   - [GitHub Datenschutzerklärung](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-- **FormSubmit** — Dienst zur Verarbeitung und E-Mail-Zustellung von Kontaktanfragen
-  - [Datenschutzerklärung von FormSubmit](https://formsubmit.co/privacy)
 - **WhatsApp (Meta)** — nur wenn Sie auf den WhatsApp-Link auf unserer Website klicken
   - [WhatsApp Datenschutzerklärung](https://www.whatsapp.com/legal/privacy-policy)
 

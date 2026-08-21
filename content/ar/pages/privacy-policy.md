@@ -43,8 +43,6 @@ Mettaroll B.V. هي شركة تجارة فولاذ مقرها في هولندا.
 
 - **GitHub Inc. (Microsoft)** — مزود استضافة الموقع
   - [بيان خصوصية GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-- **FormSubmit** — خدمة معالجة طلبات الاتصال وإرسالها عبر البريد الإلكتروني
-  - [سياسة خصوصية FormSubmit](https://formsubmit.co/privacy)
 - **WhatsApp (Meta)** — فقط عند النقر على رابط WhatsApp على موقعنا
   - [سياسة خصوصية WhatsApp](https://www.whatsapp.com/legal/privacy-policy)
 

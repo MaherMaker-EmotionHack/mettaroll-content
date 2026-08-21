@@ -43,8 +43,6 @@ Your data may be shared with:
 
 - **GitHub Inc. (Microsoft)** — website hosting provider
   - [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
-- **FormSubmit** — contact form processing and email delivery service
-  - [FormSubmit Privacy Policy](https://formsubmit.co/privacy)
 - **WhatsApp (Meta)** — only when you click the WhatsApp link on our website
   - [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy)
 
