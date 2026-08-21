@@ -279,18 +279,25 @@ jobs:
         shell: bash
         working-directory: site/mettaroll
         run: |
-          set -euo pipefail
+          set -uo pipefail
+          build_log="$RUNNER_TEMP/mettaroll-build.log"
+          build_status=0
           if [ -f pnpm-lock.yaml ]; then
-            corepack enable
-            pnpm install --frozen-lockfile
-            pnpm build
+            (set -e; corepack enable; pnpm install --frozen-lockfile; pnpm build) 2>&1 | tee "$build_log" || build_status=${PIPESTATUS[0]}
           elif [ -f yarn.lock ]; then
-            corepack enable
-            yarn install --frozen-lockfile
-            yarn build
+            (set -e; corepack enable; yarn install --frozen-lockfile; yarn build) 2>&1 | tee "$build_log" || build_status=${PIPESTATUS[0]}
           else
-            npm ci
-            npm run build
+            (set -e; npm ci; npm run build) 2>&1 | tee "$build_log" || build_status=${PIPESTATUS[0]}
+          fi
+          if [ "$build_status" -ne 0 ]; then
+            tail -n 50 "$build_log" | while IFS= read -r line; do
+              if [ -n "$line" ]; then
+                line="${line//'%'/'%25'}"
+                line="${line//$'\r'/'%0D'}"
+                echo "::error title=Website build failed::$line"
+              fi
+            done
+            exit "$build_status"
           fi
 
       - name: Commit and push website changes
