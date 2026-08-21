@@ -26,6 +26,7 @@ jobs:
           set -euo pipefail
           python - <<'PY'
           from pathlib import Path
+          import re
 
           root = Path('site/mettaroll/src')
 
@@ -130,16 +131,15 @@ jobs:
               '[disabled]="form.invalid || isSubmitting"',
               'Submit button disabled binding',
           )
-          html = replace_once(
-              html,
-              '{{ labels.sendMessage }}',
+          html, label_count = re.subn(
+              r'\{\{\s*labels\.sendMessage\s*\}\}',
               "{{ isSubmitting ? labels.sending : labels.sendMessage }}",
-              'Submit button label',
+              html,
+              count=1,
           )
-          closing = '''  </div>
-          </form>'''
-          status = '''  </div>
-
+          if label_count != 1:
+              raise RuntimeError('Submit button label not found')
+          status = '''
             <p
               class="contact-form__status contact-form__status--success"
               role="status"
@@ -156,11 +156,8 @@ jobs:
             >
               {{ labels.errorMessage }}
             </p>
-          </form>'''
-          if closing not in html:
-              closing = '  </div>\n</form>'
-              status = status.replace('          </form>', '</form>')
-          html = replace_once(html, closing, status, 'Contact form closing block')
+          '''
+          html = replace_once(html, '</form>', status + '</form>', 'Contact form closing tag')
           form_html.write_text(html, encoding='utf-8')
           print(f'Updated {form_html}')
 
