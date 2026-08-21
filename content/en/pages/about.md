@@ -7,6 +7,9 @@ vision:
   body: Our vision is to become a recognized international steel trading group,
     building long-term bridges between global steel suppliers and high-growth
     markets.
+mission:
+  heading: Our Mission
+  body: Our mission is to connect global steel demand with reliable supply through market expertise, trusted partnerships, and efficient export execution.
 story:
   heading: Our Story
   body: >-

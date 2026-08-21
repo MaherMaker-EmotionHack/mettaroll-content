@@ -7,6 +7,9 @@ vision:
   body: Onze visie is om uit te groeien tot een erkende internationale
     staalhandelsgroep die duurzame bruggen bouwt tussen wereldwijde
     staalleveranciers en snelgroeiende markten.
+mission:
+  heading: Onze missie
+  body: Onze missie is om de wereldwijde vraag naar staal te verbinden met betrouwbare levering door marktkennis, vertrouwde partnerschappen en een efficiënte exportuitvoering.
 story:
   heading: Ons verhaal
   body: >-

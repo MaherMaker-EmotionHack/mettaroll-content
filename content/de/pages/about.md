@@ -7,6 +7,9 @@ vision:
   body: Unsere Vision ist es, eine anerkannte internationale Stahlhandelsgruppe zu
     werden, die langfristige Brücken zwischen globalen Stahllieferanten und
     wachstumsstarken Märkten baut.
+mission:
+  heading: Unsere Mission
+  body: Unsere Mission ist es, die globale Stahlnachfrage durch Marktkenntnis, vertrauensvolle Partnerschaften und eine effiziente Exportabwicklung mit zuverlässiger Versorgung zu verbinden.
 story:
   heading: Unsere Geschichte
   body: >-
