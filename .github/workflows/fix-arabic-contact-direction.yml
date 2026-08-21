@@ -1,0 +1,97 @@
+name: Fix Arabic Contact Detail Direction
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/fix-arabic-contact-direction.yml
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private website
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Keep contact details left to right in Arabic
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          root = Path('site/mettaroll/src')
+          candidates = [root / 'styles.scss', root / 'styles.css']
+          stylesheets = [path for path in candidates if path.exists()]
+          if len(stylesheets) != 1:
+              raise RuntimeError(f'Expected one global stylesheet, found {stylesheets}')
+
+          path = stylesheets[0]
+          text = path.read_text(encoding='utf-8')
+          marker = '/* Keep international contact details readable on RTL pages. */'
+          if marker in text:
+              raise RuntimeError('RTL contact-direction rules already exist')
+
+          rules = r'''
+
+          /* Keep international contact details readable on RTL pages. */
+          html[dir='rtl'] .team-container__whatsapp-phone,
+          html[dir='rtl'] .team-card__email,
+          html[dir='rtl'] .footer__email,
+          html[dir='rtl'] a[href^='mailto:'],
+          html[dir='rtl'] a[href^='tel:'] {
+            direction: ltr;
+            unicode-bidi: isolate;
+          }
+
+          html[dir='rtl'] .office-section__address,
+          html[dir='rtl'] .footer__address {
+            direction: ltr;
+            unicode-bidi: plaintext;
+          }
+
+          html[dir='rtl'] input[type='email'],
+          html[dir='rtl'] input[type='tel'],
+          html[dir='rtl'] input[type='url'] {
+            direction: ltr;
+            text-align: left;
+            unicode-bidi: plaintext;
+          }
+          '''
+          path.write_text(text.rstrip() + rules + '\n', encoding='utf-8')
+          print(f'Updated {path}')
+          PY
+
+      - name: Build website
+        shell: bash
+        working-directory: site/mettaroll
+        run: |
+          set -euo pipefail
+          if [ -f pnpm-lock.yaml ]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm build
+          elif [ -f yarn.lock ]; then
+            corepack enable
+            yarn install --frozen-lockfile
+            yarn build
+          else
+            npm ci
+            npm run build
+          fi
+
+      - name: Commit and push website changes
+        shell: bash
+        working-directory: site
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mettaroll/src
+          git diff --cached --quiet && exit 0
+          git commit -m "Keep contact details readable in Arabic"
+          git push origin main
