@@ -4,7 +4,7 @@ hero_headline: اتصل بنا
 hero_image: /uploads/contact-us-hero.jpg
 team_heading: فريق ميتارول
 intro_heading: تواصل معنا
-intro_body: هل ترغب في مناقشة احتياجاتك من الصلب أو تحتاج إلى مزيد من المعلومات حول حلولنا لتوريد الصلب وتصديره؟
+intro_body: هل ترغب في مناقشة احتياجاتك من الحديد والصلب أو تحتاج إلى مزيد من المعلومات حول حلولنا للتوريد والتصدير؟
 intro_instruction: يرجى تعبئة النموذج أدناه.
 whatsapp_heading: تواصل معنا
 whatsapp_subheading: عبر واتساب
@@ -16,5 +16,5 @@ office:
   map_embed_url: "https://www.google.com/maps?q=Wilhelminakade%20173%2C%203072%20AP%20Rotterdam%2C%20Netherlands&output=embed"
 seo:
   meta_title: اتصل بنا — ميتارول | روتردام، هولندا
-  meta_description: تواصل مع ميتارول للحصول على عروض أسعار الصلب والشراكات واستفسارات المنتجات. مقرنا في روتردام.
+  meta_description: تواصل مع ميتارول للحصول على عروض أسعار الحديد والصلب والشراكات واستفسارات المنتجات. مقرنا في روتردام.
 ---
