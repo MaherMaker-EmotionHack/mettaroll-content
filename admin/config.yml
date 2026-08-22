@@ -4,7 +4,7 @@ backend:
   branch: main
   base_url: https://mettaroll-decap-oauth.maher-serawan-1998.workers.dev
   auth_endpoint: /auth
-  site_domain: mahermaker.me
+  site_domain: mettaroll.com
 
 local_backend: true
 
