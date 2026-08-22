@@ -45,7 +45,7 @@ jobs:
 
           def fix_image_template(match):
               value = match.group(1)
-              return f"`${{SITE_URL}}/${{{value}.replace(/^\\/+/, '')}}`"
+              return "`" + "${SITE_URL}/" + "${" + value + ".replace(/^\\/+/, '')}" + "`"
 
           seo_updated, seo_count = re.subn(
               r'`\$\{SITE_URL\}\$\{([A-Za-z_$][\w$]*\.image)\}`',
