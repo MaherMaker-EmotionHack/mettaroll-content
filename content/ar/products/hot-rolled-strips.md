@@ -3,7 +3,7 @@ title: شرائط مدرفلة على الساخن
 slug: hot-rolled-strips
 category: strips
 description: >-
-  شرائط فولاذ مدرفلة على الساخن للتصنيع والأجزاء الإنشائية ومراحل المعالجة اللاحقة بعروض ودرجات مختلفة.
+  شرائط حديد مدرفلة على الساخن للتصنيع والأجزاء الإنشائية ومراحل المعالجة اللاحقة بعروض ودرجات مختلفة.
 image: /uploads/product-hot-rolled-slit-coils.webp
 featured: true
 order: 1

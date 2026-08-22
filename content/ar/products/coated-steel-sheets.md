@@ -1,9 +1,9 @@
 ---
-title: صفائح فولاذ مطلية
+title: صفائح حديدية مطلية
 slug: coated-steel-sheets
 category: sheets
 description: >-
-  صفائح فولاذ مطلية بالزنك والسبائك لتحسين مقاومة التآكل ومراحل التصنيع اللاحقة.
+  صفائح حديدية مطلية بالزنك والسبائك لتحسين مقاومة التآكل ومراحل التصنيع اللاحقة.
 image: /uploads/product-coated-steel-sheets.webp
 featured: true
 order: 2

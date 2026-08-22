@@ -3,7 +3,7 @@ title: مقاطع وعوارض إنشائية
 slug: structural-sections-beams
 category: long-products
 description: >-
-  عوارض ومقاطع فولاذية للبناء والبنية التحتية والتصنيع والتطبيقات الحاملة.
+  عوارض ومقاطع حديدية للبناء والبنية التحتية والتصنيع والتطبيقات الحاملة.
 image: /uploads/exec-3cc26642-b4f7-4555-a475-e5bcf991ad08.png
 featured: true
 order: 1

@@ -3,7 +3,7 @@ title: صفائح مدرفلة على الساخن والبارد
 slug: hot-cold-rolled-sheets
 category: sheets
 description: >-
-  صفائح فولاذ مدرفلة على الساخن والبارد للتصنيع والتشكيل والبناء والاستخدام الصناعي العام.
+  صفائح حديدية مدرفلة على الساخن والبارد للتصنيع والتشكيل والبناء والاستخدام الصناعي العام.
 image: /uploads/product-hot-cold-rolled-sheets.webp
 featured: true
 order: 1

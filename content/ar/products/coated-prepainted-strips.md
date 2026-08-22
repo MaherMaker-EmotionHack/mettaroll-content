@@ -3,7 +3,7 @@ title: شرائط مطلية ومطلية مسبقاً
 slug: coated-prepainted-strips
 category: strips
 description: >-
-  شرائط فولاذ مطلية معدنياً ومطلية مسبقاً لتطبيقات مقاومة للتآكل وزخرفية وتصنيعية.
+  شرائط حديد مطلية معدنياً ومطلية مسبقاً لتطبيقات مقاومة للتآكل وزخرفية وتصنيعية.
 image: /uploads/product-coated-prepainted-slit-coils.webp
 featured: true
 order: 3
@@ -13,7 +13,7 @@ order: 3
 
 - شرائط مجلفنة ومجلفنة كهربائياً
 - شرائط مطلية بـ Aluzinc وGalfan
-- شرائط فولاذ مطلية مسبقاً
+- شرائط حديد مطلية مسبقاً
 
 ## نطاق التوريد النموذجي
 
