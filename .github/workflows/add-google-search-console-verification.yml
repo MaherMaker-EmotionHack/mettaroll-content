@@ -1,0 +1,84 @@
+name: Add Google Search Console Verification
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/add-google-search-console-verification.yml
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private site repository
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Add Google verification meta tag
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+
+          index_path = Path('mettaroll/src/index.html')
+          text = index_path.read_text(encoding='utf-8')
+          marker = 'name="google-site-verification"'
+          tag = '<meta name="google-site-verification" content="zUXSorOO9ZZ9kIPrEOWHs4SterGdbhzMVoF3p58j12o" />'
+
+          if marker in text:
+              if tag not in text:
+                  raise SystemExit('A different Google verification tag already exists')
+              raise SystemExit('The requested Google verification tag already exists')
+
+          if '</head>' not in text:
+              raise SystemExit('Could not find the closing head tag')
+
+          updated = text.replace('</head>', f'  {tag}\n</head>', 1)
+          index_path.write_text(updated, encoding='utf-8')
+          print('Updated:', index_path)
+          PY
+
+          grep -Fn 'google-site-verification' mettaroll/src/index.html
+          git diff --check
+          git diff -- mettaroll/src/index.html
+
+      - name: Build site
+        working-directory: site/mettaroll
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -f package-lock.json ]]; then
+            npm ci
+            npm run build
+          elif [[ -f pnpm-lock.yaml ]]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm run build
+          elif [[ -f yarn.lock ]]; then
+            corepack enable
+            yarn install --immutable
+            yarn build
+          else
+            npm install
+            npm run build
+          fi
+
+      - name: Commit and push private site update
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Mettaroll B.V.'
+          git config user.email 'info@mettaroll.com'
+          git add mettaroll/src/index.html
+          git diff --cached --check
+          git commit -m 'Add Google Search Console verification'
+          git push origin HEAD:main
