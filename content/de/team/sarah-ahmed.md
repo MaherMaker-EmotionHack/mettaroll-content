@@ -1,9 +1,9 @@
 ---
-name: Sarah Ahmed
-slug: sarah-ahmed
-role: Technische Beraterin
-email: sarah@mettaroll.com
-phone: "+31 6 9876 5432"
-avatar: /uploads/contact-us-hero.jpg
+name: Mohamad Helani
+slug: mohamad-helani
+role: CFO
+email: mohamad.helani@mettaroll.com
+phone: "+31 6 1333 13 67"
+avatar: /uploads/mo-pic-web11.jpeg
 order: 2
 ---

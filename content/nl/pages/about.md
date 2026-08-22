@@ -1,51 +1,67 @@
 ---
 title: Over ons
 hero_headline: OVER METTAROLL
-hero_image: /uploads/hero-image-for-products.jpg
+hero_image: /uploads/codex-bild-20.-aug.-2026-21_47_59.png
 vision:
   heading: Onze visie
-  body: >
-    De meest vertrouwde staalhandelspartner in Europa en het Midden-Oosten
-    zijn, en excellentie leveren door elke coil, balk en draad die we leveren.
+  body: Onze visie is om uit te groeien tot een erkende internationale
+    staalhandelsgroep die duurzame bruggen bouwt tussen wereldwijde
+    staalleveranciers en snelgroeiende markten.
+mission:
+  heading: Onze missie
+  body: Onze missie is om de wereldwijde vraag naar staal te verbinden met betrouwbare levering door marktkennis, vertrouwde partnerschappen en een efficiënte exportuitvoering.
 story:
   heading: Ons verhaal
-  body: >
-    Meer dan 50 jaar geleden opgericht in Rotterdam, begon Mettaroll als een
-    klein staalhandelskantoor met een grote ambitie: de kloof overbruggen
-    tussen staalproducenten en de industrieën die van hen afhankelijk zijn.
+  body: >-
+    Mettaroll is opgebouwd vanuit ervaring in de internationale staalhandel,
+    directe marktkennis en een duidelijke ambitie om betrouwbare
+    staalvoorziening te verbinden met snelgroeiende markten.
 
 
-    Vandaag zijn we een toonaangevende leverancier van prime en non-prime
-    staalproducten, en bedienen we klanten in de bouw, automotive, productie
-    en infrastructuursectoren.
 
 
-    Wat begon als een familiebedrijf is uitgegroeid tot een internationale
-    operatie, maar onze kernwaarden blijven onveranderd — integriteit,
-    kwaliteit en partnerschap.
-  image: /uploads/landing-page-overview.jpg
+    Onze kracht ligt in het begrijpen van beide kanten van de handel: de Europese aanbodmarkt en de internationale bestemmingsmarkten waar staal nodig is, wordt gekocht en gebruikt. Deze verbinding stelt ons in staat klanten te ondersteunen met voorraadbeschikbaarheid, sourcing, handelscoördinatie en exportgerichte oplossingen.
+
+
+
+
+    Vandaag richt Mettaroll zich op het opbouwen van sterke relaties met klanten, leveranciers, voorraadhouders en logistieke partners in internationale staalmarkten.
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_45.png
 values:
   heading: Waar wij voor staan
   items:
-    - title: Integriteit
-      description: We doen wat we zeggen. Transparante prijzen, eerlijke beoordeling, geen verrassingen.
+    - title: Vertrouwen & Integriteit
+      description: Transparante communicatie, eerlijk handelen en betrouwbare
+        afspraken vormen de basis van elke transactie.
       icon: shield
-    - title: Betrouwbaarheid
-      description: Levering op tijd, elke keer. Ons logistiek netwerk bestrijkt Europa en het Midden-Oosten.
+    - title: Marktkennis
+      description: Wij combineren leverancierskennis met directe ervaring in
+        internationale bestemmingsmarkten.
       icon: truck
-    - title: Kwaliteit
-      description: Elk product wordt geïnspecteerd en gecertificeerd volgens internationale normen.
+    - title: Operationele Betrouwbaarheid
+      description: Wij richten ons op gestructureerde processen, duidelijke
+        coördinatie en consistente uitvoering.
       icon: wrench
+    - title: Commerciële Flexibiliteit
+      description: Wij passen ons aan verschillende productbehoeften,
+        handelsstructuren, markten en klantvereisten aan.
+    - title: Strategische Partnerschappen
+      description: Wij bouwen sterke relaties met klanten, leveranciers,
+        voorraadhouders en logistieke partners om duurzame waarde te creëren.
+    - title: Exportexpertise
+      description: Wij ondersteunen internationale staalhandel met exportgerichte
+        coördinatie, marktkennis en praktische uitvoering.
 stats:
-  - value: "50+"
-    label: Jaar in bedrijf
-  - value: "30+"
-    label: Landen bediend
-  - value: "500K+"
-    label: Ton jaarlijks verscheept
-  - value: "98%"
-    label: Leveringsbetrouwbaarheid
+  - value: Rotterdam
+    label: Vestigingsplaats
+  - value: Antwerpen
+    label: Voorraad & Opslag
+  - value: B2B
+    label: Staalmarkten
+  - value: Wereldwijd
+    label: Handelsfocus
 seo:
-  meta_title: Over Mettaroll — 50+ jaar staalexcellentie | Rotterdam
-  meta_description: Leer over Mettarolls 50-jarige geschiedenis in de staalhandel. Gevestigd in Rotterdam, leveren we coils, lange producten en draden door heel Europa en het Midden-Oosten.
+  meta_title: Over Mettaroll | Internationale Staalhandel
+  meta_description: Lees meer over Mettaroll, een internationale staalhandel- en
+    exportonderneming gevestigd in Rotterdam met voorraad in Antwerpen.
 ---

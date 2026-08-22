@@ -1,40 +1,36 @@
 ---
 title: Home
-hero_headline: Building Tomorrow with Steel Excellence
-hero_subtitle: Industry-leading steel manufacturing solutions for construction, infrastructure, and industrial applications worldwide.
+hero_headline: Bridging Steel. Building Trust.
+hero_subtitle: International steel trading, sourcing and export solutions for B2B customers across global markets.
 hero_image: /uploads/hero-image-for-the-landing-page.jpeg
 overview:
   heading: Overview
-  body: >
-    For over 50 years, Mettaroll has been at the forefront of steel
-    manufacturing innovation. We combine advanced technology with traditional
-    craftsmanship to deliver premium steel products that meet the highest
-    industry standards.
+  body: >-
+    Mettaroll is an international steel trading and export company based in
+    Rotterdam, the Netherlands.
 
 
-    Our state-of-the-art facilities and dedicated team ensure consistent
-    quality, on-time delivery, and sustainable practices that protect our
-    environment for future generations.
-  image: /uploads/landing-page-overview.jpg
+    We connect reliable steel suppliers with serious B2B buyers across global markets. Our work focuses on steel sourcing, trade coordination, and export solutions across a wide range of steel products.
+
+
+    With direct market experience in both European supply and international destination markets, we understand the commercial, cultural, and logistical needs behind global steel trade.
+  image: /uploads/codex-bild-20.-aug.-2026-21_17_31.png
 services:
-  - title: Custom Fabrication
-    description: >
-      Precision steel fabrication tailored to your specifications. Our expert
-      team works with you to deliver custom solutions for any project scale.
-    icon: "wrench"
-  - title: Logistics & Delivery
-    description: >
-      Reliable global logistics network ensuring timely delivery of steel
-      products to your doorstep, anywhere in Europe and the Middle East.
-    icon: "truck"
-  - title: Quality Assurance
-    description: >
-      Every product undergoes rigorous quality testing and certification to meet
-      international standards and your exact requirements.
-    icon: "shield"
+  - title: Stock & Steel Supply
+    description: Access to a broad selection of steel products through our stock in
+      Antwerp and our international supply capabilities.
+    icon: wrench
+  - title: Warehousing & Logistics Coordination
+    description: Efficient storage, handling, and shipment coordination to support
+      international steel trade.
+    icon: truck
+  - title: Global Trade Solutions
+    description: Market-driven steel trading solutions supported by product
+      availability, commercial expertise, and export coordination.
+    icon: shield
 seo:
-  meta_title: Mettaroll — Steel Excellence | European Steel Supplier
-  meta_description: Mettaroll is a premier steel trading company in Rotterdam,
-    specializing in coils, long products, and wires for Europe and the Middle
-    East.
+  meta_title: Mettaroll BV | International Steel Trading & Export Company
+  meta_description: Mettaroll BV is a Rotterdam-based international steel trading
+    and export company with stock access in Antwerp, supplying a wide range of
+    steel products to global B2B markets.
 ---

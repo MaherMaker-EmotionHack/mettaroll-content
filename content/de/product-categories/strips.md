@@ -2,11 +2,8 @@
 name: Bänder
 slug: strips
 description: >-
-  Non-Prime Stahlbänder. Warmgewalzt, kaltgewalzt, kaltgewalzt vollhart,
-  Schwarzblech, verzinkt, elektrolytisch verzinkt, Galvanneal, CRNGO, Aluzink,
-  Galfan oder vorlackiert. Wir bieten Bänder in jeder Qualität und jeder Güte
-  an. Bitte prüfen Sie unsere Lagerliste für weitere Informationen.
-hero_image: /uploads/landing-page-products-01.jpeg
-card_image: /uploads/coils-for-product-page.jpg
+  Das Mettaroll-Sortiment an Stahlbändern umfasst je nach Verfügbarkeit warmgewalzte, gebeizte und geölte, kaltgewalzte, verzinkte, elektrolytisch verzinkte, vorlackierte und legierungsbeschichtete Varianten. Güten, Breiten, Oberflächen und Qualitätsstufen werden passend zu Lagerbestand, Lieferantenangebot und Kundenanforderung ausgewählt.
+hero_image: /uploads/homepage-product-strips-v2.png
+card_image: /uploads/homepage-product-strips-v2.png
 order: 0
 ---
