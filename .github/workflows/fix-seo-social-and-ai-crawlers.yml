@@ -1,0 +1,137 @@
+name: Fix SEO Social And AI Crawlers
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/fix-seo-social-and-ai-crawlers.yml
+
+permissions:
+  contents: read
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out private site repository
+        uses: actions/checkout@v4
+        with:
+          repository: MaherMaker-EmotionHack/mettaroll-site
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: site
+
+      - name: Correct preview images and make crawler access explicit
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          app = Path('mettaroll')
+          source_root = app / 'src'
+
+          seo_candidates = [
+              path for path in source_root.rglob('*.ts')
+              if 'og:image' in path.read_text(encoding='utf-8')
+              and 'twitter:image' in path.read_text(encoding='utf-8')
+          ]
+          if len(seo_candidates) != 1:
+              raise SystemExit(f'Expected one SEO service, found: {seo_candidates}')
+
+          seo_path = seo_candidates[0]
+          seo_text = seo_path.read_text(encoding='utf-8')
+
+          def fix_image_template(match):
+              value = match.group(1)
+              return f"`${{SITE_URL}}/${{{value}.replace(/^\\/+/, '')}}`"
+
+          seo_updated, seo_count = re.subn(
+              r'`\$\{SITE_URL\}\$\{([A-Za-z_$][\w$]*\.image)\}`',
+              fix_image_template,
+              seo_text,
+          )
+          if seo_count != 1:
+              raise SystemExit(f'Expected one relative SEO image URL, changed {seo_count}')
+          seo_path.write_text(seo_updated, encoding='utf-8')
+
+          index_path = source_root / 'index.html'
+          index_text = index_path.read_text(encoding='utf-8')
+          index_updated = index_text.replace(
+              'https://mettaroll.comuploads/',
+              'https://mettaroll.com/uploads/',
+          )
+          index_count = index_text.count('https://mettaroll.comuploads/')
+          if index_count < 1:
+              raise SystemExit('No malformed default preview image URL was found')
+          index_path.write_text(index_updated, encoding='utf-8')
+
+          robots_candidates = [
+              path for path in app.rglob('robots.txt')
+              if 'node_modules' not in path.parts and 'dist' not in path.parts
+          ]
+          if len(robots_candidates) != 1:
+              raise SystemExit(f'Expected one robots.txt, found: {robots_candidates}')
+
+          robots = '''# Public pages may be indexed by search engines and AI search.
+          User-agent: *
+          Allow: /
+          Disallow: /admin/
+
+          # OpenAI crawler used to surface pages in ChatGPT search results.
+          User-agent: OAI-SearchBot
+          Allow: /
+          Disallow: /admin/
+
+          # User-requested page visits from ChatGPT.
+          User-agent: ChatGPT-User
+          Allow: /
+          Disallow: /admin/
+
+          Sitemap: https://mettaroll.com/sitemap.xml
+          '''
+          robots_candidates[0].write_text(robots, encoding='utf-8')
+
+          print('Updated SEO service:', seo_path)
+          print('Fixed default preview URLs:', index_count)
+          print('Updated crawler rules:', robots_candidates[0])
+          PY
+
+          grep -RFn 'OAI-SearchBot' mettaroll --exclude-dir=node_modules --exclude-dir=dist
+          ! grep -RFn 'https://mettaroll.comuploads/' mettaroll/src
+          git diff --check
+          git diff -- mettaroll/src mettaroll/public
+
+      - name: Build site
+        working-directory: site/mettaroll
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -f package-lock.json ]]; then
+            npm ci
+            npm run build
+          elif [[ -f pnpm-lock.yaml ]]; then
+            corepack enable
+            pnpm install --frozen-lockfile
+            pnpm run build
+          elif [[ -f yarn.lock ]]; then
+            corepack enable
+            yarn install --immutable
+            yarn build
+          else
+            npm install
+            npm run build
+          fi
+
+      - name: Commit and push private site update
+        working-directory: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Mettaroll B.V.'
+          git config user.email 'mettarollbv@gmail.com'
+          git add mettaroll/src mettaroll/public
+          git diff --cached --check
+          git commit -m 'Fix SEO preview images and crawler access'
+          git push origin HEAD:main
