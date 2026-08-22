@@ -9,19 +9,18 @@ featured: true
 order: 2
 ---
 
-## Included product types
+## Product options
 
 - Cold rolled coils (CRC)
 - Cold rolled full hard coils (CRFH)
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** 0.30–3.00 mm
+- **Width:** 600–1,850 mm
+- **Coil ID:** 508 / 610 mm
+- **Typical grades:** DC01–DC06 · HC220LA–HC420LA · CRFH
+- **Surface / finish:** Dry or oiled; bright or matt; skin-passed or full hard
+- **Applications:** Forming, coating, appliances, automotive parts and precision fabrication
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

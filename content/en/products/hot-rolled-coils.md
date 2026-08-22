@@ -9,19 +9,18 @@ featured: true
 order: 1
 ---
 
-## Included product types
+## Product options
 
 - Hot rolled coils (HRC)
 - Hot rolled pickled and oiled coils (HRPO)
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** 1.20–25.0 mm
+- **Width:** 600–2,100 mm
+- **Coil ID:** 508 / 610 / 762 mm
+- **Typical grades:** S235JR–S355JR · DD11–DD14 · SAE 1006–1010
+- **Surface / finish:** Black or pickled and oiled (HRPO); mill edge or slit edge
+- **Applications:** Tubes, structures, shipbuilding, pressure equipment and further processing
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

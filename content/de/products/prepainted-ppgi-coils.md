@@ -9,19 +9,19 @@ featured: true
 order: 5
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Vorlackierte verzinkte Coils (PPGI)
 - Farbbeschichtete Stahlcoils
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.25–1.50 mm
+- **Breite:** 600–1,500 mm
+- **Beschichtung:** Z60–Z275
+- **Lacksystem:** 5–35 µm Decklack · Schutzlack auf der Rückseite auf Anfrage
+- **Typische Güten:** DX51D–DX54D · S220GD–S350GD
+- **Oberfläche / Ausführung:** RAL-Farben; Polyester-, SMP-, PVDF- oder Plastisol-Systeme
+- **Anwendungen:** Dächer, Fassaden, Sandwichpaneele, Haushaltsgeräte und Fertigprodukte
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

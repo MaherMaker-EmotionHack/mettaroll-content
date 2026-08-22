@@ -9,20 +9,19 @@ featured: true
 order: 2
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Blanker niedriggekohlter Stahldraht
 - Verzinkter Stahldraht
 - PVC- oder nylonbeschichteter Draht
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Durchmesser:** 0.50–12.0 mm
+- **Beschichtung:** Zink 40–350 g/m² · PVC / Nylon auf Anfrage
+- **Typische Güten:** SAE 1006–1022 und anwendungsspezifische kohlenstoffarme Güten
+- **Oberfläche / Ausführung:** Blank, verzinkt, PVC- oder nylonbeschichtet
+- **Qualität:** Prime, Überwalzung und zweite Wahl / Non-Prime, je nach Bestand
+- **Anwendungen:** Zäune, Gitter, Verbindungselemente, Bindedraht und allgemeine Fertigung
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

@@ -9,20 +9,19 @@ featured: true
 order: 1
 ---
 
-## Included product types
+## Product options
 
 - Hot rolled and HRPO sheets
 - Cold rolled sheets
 - Cold rolled full hard sheets
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** Hot rolled 1.20–25.0 mm · cold rolled 0.30–3.00 mm
+- **Width:** 600–2,500 mm
+- **Length:** 1,000–12,000 mm
+- **Typical grades:** S235JR–S355JR · DD11–DD14 · DC01–DC06 · SAE 1006–1010
+- **Surface / finish:** Black, HRPO, dry or oiled, bright or matt, skin-passed
+- **Applications:** Fabrication, forming, enclosures, tanks, machinery and general engineering
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

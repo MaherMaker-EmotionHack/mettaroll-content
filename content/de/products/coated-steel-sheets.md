@@ -9,20 +9,19 @@ featured: true
 order: 2
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Feuerverzinkte Bleche
 - Elektrolytisch verzinkte Bleche
 - Aluzinc-, Galfan- und Galvannealed-Bleche
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.30–4.00 mm
+- **Breite:** 600–2,000 mm
+- **Länge:** 1,000–6,000 mm
+- **Beschichtung:** Z60–Z600 · AZ70–AZ185 · ZA95–ZA255
+- **Typische Güten:** DX51D–DX57D · S220GD–S550GD
+- **Anwendungen:** Bauwesen, Fahrzeugteile, Haushaltsgeräte, Kanäle und Profile
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

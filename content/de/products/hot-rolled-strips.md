@@ -9,19 +9,18 @@ featured: true
 order: 1
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Warmgewalzte Bänder
 - Gebeizte und geölte warmgewalzte Bänder (HRPO)
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 1.20–12.0 mm
+- **Breite:** 20–800 mm
+- **Typische Güten:** S235JR–S355JR · DD11–DD14 · SAE 1006–1010
+- **Oberfläche / Ausführung:** Schwarz oder gebeizt und geölt (HRPO); Natur- oder Schnittkante
+- **Qualität:** Prime, Überwalzung und zweite Wahl / Non-Prime, je nach Bestand
+- **Anwendungen:** Rohrherstellung, Rollformen, Halterungen, Profile und allgemeine Fertigung
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

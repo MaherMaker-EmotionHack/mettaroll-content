@@ -9,20 +9,19 @@ featured: true
 order: 3
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Verzinkte und elektrolytisch verzinkte Bänder
 - Aluzinc- und Galfan-beschichtete Bänder
 - Vorlackierte Stahlbänder
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.20–3.00 mm
+- **Breite:** 10–800 mm
+- **Beschichtung:** Z60–Z600 · AZ70–AZ185 · ZA95–ZA255 · paint 5–35 µm
+- **Typische Güten:** DX51D–DX57D · S220GD–S550GD · DC01–DC06
+- **Oberfläche / Ausführung:** Zink, Aluzinc, Galfan oder Galvannealed; geölt oder dressiert
+- **Anwendungen:** Rollformen, Halterungen, Komponenten, Verkleidungen und Fertigteile
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

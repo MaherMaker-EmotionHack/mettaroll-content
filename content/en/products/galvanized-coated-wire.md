@@ -9,20 +9,19 @@ featured: true
 order: 2
 ---
 
-## Included product types
+## Product options
 
 - Bright low-carbon steel wire
 - Galvanized steel wire
 - PVC- or nylon-coated wire
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Diameter:** 0.50–12.0 mm
+- **Coating:** Zinc 40–350 g/m² · PVC / nylon on request
+- **Typical grades:** SAE 1006–1022 and application-specific low-carbon grades
+- **Surface / finish:** Bright, galvanized, PVC-coated or nylon-coated
+- **Quality:** Prime, overrolling and secondary / non-prime, subject to stock
+- **Applications:** Fencing, mesh, fasteners, binding and general fabrication
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

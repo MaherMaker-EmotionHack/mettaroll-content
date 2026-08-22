@@ -9,20 +9,19 @@ featured: true
 order: 1
 ---
 
-## Inbegrepen productsoorten
+## Productopties
 
 - Warmgewalste en HRPO-platen
 - Koudgewalste platen
 - Koudgewalste full-hard platen
 
-## Inkoop en beschikbaarheid
+## Typisch leveringsbereik
 
-Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
+- **Dikte:** Warmgewalst 1,20–25,0 mm · koudgewalst 0,30–3,00 mm
+- **Breedte:** 600–2,500 mm
+- **Lengte:** 1,000–12,000 mm
+- **Typische kwaliteiten:** S235JR–S355JR · DD11–DD14 · DC01–DC06 · SAE 1006–1010
+- **Oppervlak / uitvoering:** Zwart, HRPO, droog of geolied, glanzend of mat, skin-passed
+- **Toepassingen:** Fabricage, vormen, behuizingen, tanks, machinebouw en algemene techniek
 
-## Commerciële specificaties
-
-- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
-- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
-- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
-- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
-- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier
+*Alle bereiken zijn indicatief. Definitieve afmetingen, kwaliteit, coating en certificaten worden in de individuele aanbieding bevestigd.*

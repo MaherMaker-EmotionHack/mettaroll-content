@@ -9,19 +9,18 @@ featured: false
 order: 4
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Einseitig elektrolytisch verzinkte Coils
 - Beidseitig elektrolytisch verzinkte Coils
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.40–2.00 mm
+- **Breite:** 600–1,800 mm
+- **Beschichtung:** ZE25/25–ZE100/100
+- **Typische Güten:** DC01+ZE–DC06+ZE · HC220+ZE–HC420+ZE
+- **Oberfläche / Ausführung:** Ein- oder beidseitig beschichtet; geölt, phosphatiert oder passiviert
+- **Anwendungen:** Fahrzeugpaneele, Präzisionsumformung, lackierte Komponenten und Haushaltsgeräte
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

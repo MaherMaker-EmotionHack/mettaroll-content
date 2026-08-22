@@ -9,20 +9,19 @@ featured: true
 order: 3
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Feuerverzinkte Coils (HDG / GI)
 - Galvannealed-Coils
 - Aluzinc- und Galfan-beschichtete Coils
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.30–4.00 mm
+- **Breite:** 600–1,850 mm
+- **Beschichtung:** Z60–Z600 · AZ70–AZ185 · ZA95–ZA255
+- **Typische Güten:** DX51D–DX57D · S220GD–S550GD
+- **Oberfläche / Ausführung:** Normale oder minimierte Zinkblume; dressiert, geölt oder passiviert
+- **Anwendungen:** Dächer, Fassaden, Profile, Kanäle, Fahrzeugbau und Außenanwendungen
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

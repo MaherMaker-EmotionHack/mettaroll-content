@@ -9,19 +9,18 @@ featured: true
 order: 2
 ---
 
-## Included product types
+## Product options
 
 - Cold rolled strips
 - Cold rolled full hard strips
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** 0.20–3.00 mm
+- **Width:** 10–800 mm
+- **Typical grades:** DC01–DC06 · EN 10139 grades · CRFH
+- **Surface / finish:** Dry or oiled; bright or matt; mill edge or slit edge
+- **Quality:** Prime, overrolling and secondary / non-prime, subject to stock
+- **Applications:** Stamping, roll forming, packaging, profiles and precision components
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

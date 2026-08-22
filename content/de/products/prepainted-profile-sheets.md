@@ -9,19 +9,19 @@ featured: true
 order: 3
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Vorlackierte flache Stahlbleche
 - Profilierte und gewellte beschichtete Bleche
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.40–1.25 mm
+- **Breite:** Deckbreite typischerweise 750–1.100 mm, profilabhängig
+- **Länge:** 1,000–12,000 mm
+- **Beschichtung:** Z100–Z275 · paint 15–35 µm
+- **Typische Güten:** DX51D · S220GD–S350GD
+- **Oberfläche / Ausführung:** Trapez-, Well- oder Linerprofile in ausgewählten RAL-Farben
+- **Anwendungen:** Industriebedachung, Wandverkleidung, Lagerhallen sowie landwirtschaftliche und gewerbliche Gebäude
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

@@ -9,20 +9,19 @@ featured: true
 order: 1
 ---
 
-## Inbegrepen productsoorten
+## Productopties
 
 - Laag-koolstof walsdraad
 - Middel- en hoogkoolstofhoudend walsdraad
 - Toepassingsspecifieke walsdraadkwaliteiten
 
-## Inkoop en beschikbaarheid
+## Typisch leveringsbereik
 
-Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
+- **Diameter:** 5.5–20.0 mm
+- **Rolgewicht:** 0.8–2.5 t
+- **Typische kwaliteiten:** SAE 1006–1080 · B500 · CHQ-kwaliteiten op aanvraag
+- **Oppervlak / uitvoering:** Zwart, gebeitst of geleverd in draadtrekkwaliteit
+- **Kwaliteit:** Prime, overrolling en tweede keuze / non-prime, afhankelijk van voorraad
+- **Toepassingen:** Draadtrekken, gaas, bevestigingsmiddelen, veren, lasdraad en voorspandraad
 
-## Commerciële specificaties
-
-- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
-- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
-- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
-- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
-- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier
+*Alle bereiken zijn indicatief. Definitieve afmetingen, kwaliteit, coating en certificaten worden in de individuele aanbieding bevestigd.*

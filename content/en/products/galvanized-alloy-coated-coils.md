@@ -9,20 +9,19 @@ featured: true
 order: 3
 ---
 
-## Included product types
+## Product options
 
 - Hot-dip galvanized coils (HDG / GI)
 - Galvannealed coils
 - Aluzinc and Galfan coated coils
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** 0.30–4.00 mm
+- **Width:** 600–1,850 mm
+- **Coating:** Z60–Z600 · AZ70–AZ185 · ZA95–ZA255
+- **Typical grades:** DX51D–DX57D · S220GD–S550GD
+- **Surface / finish:** Regular or minimized spangle; skin-passed, oiled or passivated
+- **Applications:** Roofing, cladding, profiles, ducts, automotive and outdoor fabrication
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

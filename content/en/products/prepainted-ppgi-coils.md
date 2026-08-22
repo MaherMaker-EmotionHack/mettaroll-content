@@ -9,19 +9,19 @@ featured: true
 order: 5
 ---
 
-## Included product types
+## Product options
 
 - Prepainted galvanized coils (PPGI)
 - Colour-coated steel coils
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** 0.25–1.50 mm
+- **Width:** 600–1,500 mm
+- **Coating:** Z60–Z275
+- **Paint system:** 5–35 µm top coat · protective back coat on request
+- **Typical grades:** DX51D–DX54D · S220GD–S350GD
+- **Surface / finish:** RAL colours; polyester, SMP, PVDF or plastisol systems
+- **Applications:** Roofing, cladding, sandwich panels, appliances and manufactured products
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

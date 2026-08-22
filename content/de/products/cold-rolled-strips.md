@@ -9,19 +9,18 @@ featured: true
 order: 2
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Kaltgewalzte Bänder
 - Kaltgewalzte vollharte Bänder
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.20–3.00 mm
+- **Breite:** 10–800 mm
+- **Typische Güten:** DC01–DC06 · EN 10139 grades · CRFH
+- **Oberfläche / Ausführung:** Trocken oder geölt; glänzend oder matt; Natur- oder Schnittkante
+- **Qualität:** Prime, Überwalzung und zweite Wahl / Non-Prime, je nach Bestand
+- **Anwendungen:** Stanzen, Rollformen, Verpackungen, Profile und Präzisionskomponenten
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

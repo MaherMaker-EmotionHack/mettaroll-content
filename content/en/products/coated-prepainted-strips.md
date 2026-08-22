@@ -9,20 +9,19 @@ featured: true
 order: 3
 ---
 
-## Included product types
+## Product options
 
 - Galvanized and electrogalvanized strips
 - Aluzinc and Galfan coated strips
 - Prepainted steel strips
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** 0.20–3.00 mm
+- **Width:** 10–800 mm
+- **Coating:** Z60–Z600 · AZ70–AZ185 · ZA95–ZA255 · paint 5–35 µm
+- **Typical grades:** DX51D–DX57D · S220GD–S550GD · DC01–DC06
+- **Surface / finish:** Zinc, Aluzinc, Galfan or galvannealed; oiled or skin-passed
+- **Applications:** Roll forming, brackets, components, cladding and manufactured parts
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

@@ -9,19 +9,19 @@ featured: true
 order: 3
 ---
 
-## Included product types
+## Product options
 
 - Prepainted flat steel sheets
 - Profiled and corrugated coated sheets
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Thickness:** 0.40–1.25 mm
+- **Width:** Cover width typically 750–1,100 mm, profile-dependent
+- **Length:** 1,000–12,000 mm
+- **Coating:** Z100–Z275 · paint 15–35 µm
+- **Typical grades:** DX51D · S220GD–S350GD
+- **Surface / finish:** Trapezoidal, corrugated or liner profiles in selected RAL colours
+- **Applications:** Industrial roofing, wall cladding, warehouses, agricultural and commercial buildings
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*

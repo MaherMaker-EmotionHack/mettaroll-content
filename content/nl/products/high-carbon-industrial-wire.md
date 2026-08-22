@@ -9,20 +9,19 @@ featured: true
 order: 3
 ---
 
-## Inbegrepen productsoorten
+## Productopties
 
 - Hoog-koolstof en veerdraad
 - Voorspandraad en strengen
 - Staalkoord en toepassingsspecifieke industriële draad
 
-## Inkoop en beschikbaarheid
+## Typisch leveringsbereik
 
-Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
+- **Diameter:** 0.80–12.0 mm
+- **Afmetingen:** Treksterkte 800–2.200 MPa
+- **Typische kwaliteiten:** SAE 1045–1080 · verenstaal- en voorspanstaalkwaliteiten
+- **Oppervlak / uitvoering:** Blank, gefosfateerd, messing-/kopergecoat of oliegehard
+- **Kwaliteit:** Prime, overrolling en tweede keuze / non-prime, afhankelijk van voorraad
+- **Toepassingen:** Veren, voorspankabels, slangdraad, staalkoord en mechanische onderdelen
 
-## Commerciële specificaties
-
-- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
-- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
-- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
-- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
-- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier
+*Alle bereiken zijn indicatief. Definitieve afmetingen, kwaliteit, coating en certificaten worden in de individuele aanbieding bevestigd.*

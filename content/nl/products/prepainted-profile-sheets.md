@@ -9,19 +9,19 @@ featured: true
 order: 3
 ---
 
-## Inbegrepen productsoorten
+## Productopties
 
 - Voorgelakte vlakke staalplaten
 - Geprofileerde en gegolfde gecoate platen
 
-## Inkoop en beschikbaarheid
+## Typisch leveringsbereik
 
-Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
+- **Dikte:** 0.40–1.25 mm
+- **Breedte:** Werkende breedte doorgaans 750–1.100 mm, afhankelijk van profiel
+- **Lengte:** 1,000–12,000 mm
+- **Coating:** Z100–Z275 · paint 15–35 µm
+- **Typische kwaliteiten:** DX51D · S220GD–S350GD
+- **Oppervlak / uitvoering:** Trapezium-, golf- of linerprofielen in geselecteerde RAL-kleuren
+- **Toepassingen:** Industriële dakbedekking, wandbekleding, magazijnen en agrarische en commerciële gebouwen
 
-## Commerciële specificaties
-
-- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
-- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
-- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
-- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
-- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier
+*Alle bereiken zijn indicatief. Definitieve afmetingen, kwaliteit, coating en certificaten worden in de individuele aanbieding bevestigd.*

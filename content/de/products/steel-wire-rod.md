@@ -9,20 +9,19 @@ featured: true
 order: 1
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Niedriggekohlter Walzdraht
 - Mittel- und hochgekohlter Walzdraht
 - Anwendungsspezifische Walzdrahtgüten
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Durchmesser:** 5.5–20.0 mm
+- **Coilgewicht:** 0.8–2.5 t
+- **Typische Güten:** SAE 1006–1080 · B500 · CHQ-Güten auf Anfrage
+- **Oberfläche / Ausführung:** Schwarz, gebeizt oder in Drahtziehqualität
+- **Qualität:** Prime, Überwalzung und zweite Wahl / Non-Prime, je nach Bestand
+- **Anwendungen:** Drahtziehen, Gitter, Verbindungselemente, Federn, Schweiß- und Spannstahldraht
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

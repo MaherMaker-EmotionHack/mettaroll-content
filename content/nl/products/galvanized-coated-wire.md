@@ -9,20 +9,19 @@ featured: true
 order: 2
 ---
 
-## Inbegrepen productsoorten
+## Productopties
 
 - Blanke koolstofarme staaldraad
 - Verzinkte staaldraad
 - PVC- of nylon-gecoate draad
 
-## Inkoop en beschikbaarheid
+## Typisch leveringsbereik
 
-Mettaroll betrekt deze productgroep op basis van de vereiste kwaliteit, afmetingen, afwerking, hoeveelheid en bestemming. Beschikbaarheid is afhankelijk van de actuele voorraad en bevestigde leveranciersaanbiedingen.
+- **Diameter:** 0.50–12.0 mm
+- **Coating:** Zink 40–350 g/m² · PVC / nylon op aanvraag
+- **Typische kwaliteiten:** SAE 1006–1022 en toepassingsspecifieke koolstofarme kwaliteiten
+- **Oppervlak / uitvoering:** Blank, verzinkt, PVC- of nylon-gecoat
+- **Kwaliteit:** Prime, overrolling en tweede keuze / non-prime, afhankelijk van voorraad
+- **Toepassingen:** Afrastering, gaas, bevestigingsmiddelen, binddraad en algemene fabricage
 
-## Commerciële specificaties
-
-- **Afmetingen:** volgens beschikbare voorraad en de bevestigde aanbieding
-- **Kwaliteiten:** commerciële, constructieve en toepassingsspecifieke kwaliteiten kunnen beschikbaar zijn
-- **Oppervlak / coating:** volgens het gekozen producttype en de bevestigde aanbieding
-- **Kwaliteit:** prime, non-prime, overrolling of tweede keus, afhankelijk van beschikbaarheid
-- **Normen en certificaten:** beschikbaar na bevestiging door de leverancier
+*Alle bereiken zijn indicatief. Definitieve afmetingen, kwaliteit, coating en certificaten worden in de individuele aanbieding bevestigd.*

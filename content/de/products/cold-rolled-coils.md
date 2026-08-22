@@ -9,19 +9,18 @@ featured: true
 order: 2
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Kaltgewalzte Coils (CRC)
 - Kaltgewalzte vollharte Coils (CRFH)
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** 0.30–3.00 mm
+- **Breite:** 600–1,850 mm
+- **Coil-Innendurchmesser:** 508 / 610 mm
+- **Typische Güten:** DC01–DC06 · HC220LA–HC420LA · CRFH
+- **Oberfläche / Ausführung:** Trocken oder geölt; glänzend oder matt; dressiert oder vollhart
+- **Anwendungen:** Umformen, Beschichten, Haushaltsgeräte, Fahrzeugteile und Präzisionsfertigung
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

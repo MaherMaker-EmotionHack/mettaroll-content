@@ -9,20 +9,19 @@ featured: true
 order: 1
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Warmgewalzte und HRPO-Bleche
 - Kaltgewalzte Bleche
 - Kaltgewalzte vollharte Bleche
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Dicke:** Warmgewalzt 1,20–25,0 mm · kaltgewalzt 0,30–3,00 mm
+- **Breite:** 600–2,500 mm
+- **Länge:** 1,000–12,000 mm
+- **Typische Güten:** S235JR–S355JR · DD11–DD14 · DC01–DC06 · SAE 1006–1010
+- **Oberfläche / Ausführung:** Schwarz, HRPO, trocken oder geölt, glänzend oder matt, dressiert
+- **Anwendungen:** Fertigung, Umformen, Gehäuse, Tanks, Maschinenbau und allgemeiner Anlagenbau
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

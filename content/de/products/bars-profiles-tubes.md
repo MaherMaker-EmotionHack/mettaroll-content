@@ -9,20 +9,19 @@ featured: true
 order: 2
 ---
 
-## Enthaltene Produktarten
+## Produktvarianten
 
 - Flach-, Rund- und Vierkantstahl sowie weitere Stabstahlerzeugnisse
 - Offene und Hohlprofile
 - Geschweißte und nahtlose Stahlrohre
 
-## Beschaffung und Verfügbarkeit
+## Typischer Lieferbereich
 
-Mettaroll beschafft diese Produktgruppe entsprechend der benötigten Güte, Abmessungen, Oberfläche, Menge und dem Bestimmungsland. Die Verfügbarkeit richtet sich nach aktuellem Bestand und bestätigten Lieferantenangeboten.
+- **Abmessungen:** Stäbe Ø6–200 mm · Flachstahl 20–300 mm · Rohre/Profile 10–500 mm
+- **Länge:** 6–18 m
+- **Typische Güten:** S235JR · S275JR · S355JR · ASTM-/SAE-Güten auf Anfrage
+- **Oberfläche / Ausführung:** Schwarz, gebeizt, gestrahlt, grundiert oder verzinkt
+- **Qualität:** Prime, Überwalzung und zweite Wahl / Non-Prime, je nach Bestand
+- **Anwendungen:** Fertigung, Stahlbau, Maschinenbau, Rohrleitungen und allgemeiner Anlagenbau
 
-## Kommerzielle Spezifikationen
-
-- **Abmessungen:** gemäß verfügbarem Bestand und bestätigtem Angebot
-- **Güten:** handelsübliche, strukturelle und anwendungsspezifische Güten können verfügbar sein
-- **Oberfläche / Beschichtung:** entsprechend der ausgewählten Produktart und dem bestätigten Angebot
-- **Qualität:** Prime-, Non-Prime-, Overrolling- oder Zweite-Wahl-Material je nach Verfügbarkeit
-- **Normen und Zertifikate:** nach Bestätigung durch den Lieferanten verfügbar
+*Alle Bereiche sind Richtwerte. Endgültige Abmessungen, Güte, Beschichtung, Qualität und Zertifikate werden im individuellen Angebot bestätigt.*

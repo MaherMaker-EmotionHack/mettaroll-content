@@ -9,19 +9,18 @@ featured: true
 order: 1
 ---
 
-## Included product types
+## Product options
 
 - I- and H-beams
 - Channels, angles and structural sections
 
-## Supply and availability
+## Typical supply range
 
-Mettaroll sources this product group according to the required grade, dimensions, finish, quantity and destination. Availability is based on current stock and confirmed supplier offers.
+- **Sizes:** IPE / HEA / HEB / UPN / angles · nominal sizes 80–600 mm
+- **Length:** 6–18 m
+- **Typical grades:** S235JR · S275JR · S355JR
+- **Surface / finish:** Black, pickled, shot-blasted, primed or galvanized
+- **Quality:** Prime, overrolling and secondary / non-prime, subject to stock
+- **Applications:** Buildings, industrial frames, platforms, infrastructure and heavy fabrication
 
-## Commercial specifications
-
-- **Dimensions:** according to available stock and the confirmed offer
-- **Grades:** commercial, structural and application-specific grades may be available
-- **Surface / coating:** according to the selected product type and confirmed offer
-- **Quality:** prime, non-prime, overrolling or second-choice material depending on availability
-- **Standards and certificates:** available upon supplier confirmation
+*Indicative ranges only. Final dimensions, grade, coating, quality and certificates are confirmed in the individual offer.*
